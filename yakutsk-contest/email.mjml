@@ -65,7 +65,7 @@
         <mj-image
           mj-class="hero-image"
           css-class="css-image"
-          src="https://i.ibb.co/jT3qdRP/title-img.png"
+          src="https://i.ibb.co/zJcDZkp/title-img.png"
           alt="Hero cover"
         />
 
@@ -80,15 +80,15 @@
           стартап-команд. 
         </mj-text>
         <mj-text mj-class="textRegular" padding-bottom="50px">
-          В этом году Startup Tour посвящен CreativeTECH-бизнесу. В Перми
+          В этом году Startup Tour посвящен CreativeTECH-бизнесу. В Якутске
           главной темой станут технологии в ключевых индустриях региона —
-          <span style="font-weight: 700">кинематографе и медиаискусстве.</span>
+          <span style="font-weight: 700">кинематографе и GameDEV.</span>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section
       mj-class="section"
-      background-url="https://i.ibb.co/PCcWyLy/bg-img-1.png"
+      background-url="https://i.ibb.co/BqSvtCd/bg-img.png"
     >
       <mj-column>
         <mj-text
@@ -101,7 +101,7 @@
           padding-top="80px"
           padding-bottom="44px"
         >
-          Встречаемся 7 апреля!</mj-text
+          Встречаемся 12 апреля!</mj-text
         >
         <mj-button
           mj-class="button"
@@ -149,7 +149,7 @@
           </ul>
         </mj-text>
         <mj-text mj-class="textRegular" padding-bottom="40px" font-weight="700">
-          Прием заявок до 28 марта.
+          Прием заявок до 30 марта.
         </mj-text>
         <mj-text
           mj-class="textRegular"
@@ -263,7 +263,7 @@
           padding-top="32px"
           padding-bottom="98px"
         >
-          До встречи в Перми!</mj-text
+          До встречи в Якутске!</mj-text
         >
       </mj-column>
     </mj-section>
