@@ -80,9 +80,10 @@
           стартап-команд. 
         </mj-text>
         <mj-text mj-class="textRegular" padding-bottom="50px">
-          В этом году Startup Tour посвящен CreativeTECH-бизнесу. В Перми
-          главной темой станут технологии в ключевых индустриях региона —
-          <span style="font-weight: 700">кинематографе и медиаискусстве.</span>
+          В этом году Startup Tour посвящен обсуждению
+          <span style="font-weight: 700"
+            >эффективных коллабораций технологий и креативных индустрий.</span
+          >
         </mj-text>
       </mj-column>
     </mj-section>
