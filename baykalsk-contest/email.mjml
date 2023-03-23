@@ -105,7 +105,7 @@
         >
         <mj-button
           mj-class="button"
-          href="https://startup-tour.ru/contest?utm_source=email_in&utm_medium=letter&utm_campaign=2"
+          href="https://startup-tour.ru/contest/creative-tech?utm_source=email_in&utm_medium=letter&utm_campaign=2"
           width="532px"
           background-color="#FFFFFF"
           color="#5C3EAC"
@@ -163,7 +163,7 @@
         </mj-text>
         <mj-button
           mj-class="button"
-          href="https://startup-tour.ru/contest?utm_source=email_in&utm_medium=letter&utm_campaign=2"
+          href="https://startup-tour.ru/contest/creative-tech?utm_source=email_in&utm_medium=letter&utm_campaign=2"
           width="532px"
           background-color="#5C3EAC"
           color="#FFFFFF"
@@ -236,7 +236,7 @@
         >
         <mj-button
           mj-class="button"
-          href="https://startup-tour.ru/highlights?utm_source=email_in&utm_medium=letter&utm_campaign=2"
+          href="https://startup-tour.ru/highlights"
           width="532px"
           background-color="#FFFFFF"
           color="#5C3EAC"

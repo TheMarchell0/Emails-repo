@@ -228,7 +228,7 @@
       <mj-column>
         <mj-button
           mj-class="button"
-          href="https://startup-tour.ru/contest?utm_source=email_in&utm_medium=letter&utm_campaign=1"
+          href="https://startup-tour.ru/city/yakutsk/program?utm_source=email_in&utm_medium=letter&utm_campaign=3"
           width="532px"
           background-color="#5C3EAC"
           color="#FFFFFF"
@@ -260,7 +260,7 @@
         >
         <mj-button
           mj-class="button"
-          href="https://startup-tour.ru/exhibitors?utm_source=email_in&utm_medium=letter&utm_campaign=1"
+          href="https://startup-tour.ru/highlights"
           width="532px"
           background-color="#5C3EAC"
           color="#FFFFFF"
