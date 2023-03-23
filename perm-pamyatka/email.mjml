@@ -7,7 +7,7 @@
       <mj-class name="section" padding="0" />
       <mj-class
         name="titleBold27"
-        padding="0 55px"
+        padding="0 35px"
         font-weight="700"
         font-size="27px"
         line-height="31px"
@@ -16,7 +16,7 @@
       />
       <mj-class
         name="titleBold14"
-        padding="0 56px"
+        padding="0 35px"
         font-weight="700"
         font-size="14px"
         line-height="18px"
@@ -24,14 +24,14 @@
       />
       <mj-class
         name="textRegular18"
-        padding="0 56px"
+        padding="0 35px"
         font-size="18px"
         line-height="21px"
         color="#000000"
       />
       <mj-class
         name="textRegular20"
-        padding="0 51px"
+        padding="0 35px"
         font-size="20px"
         line-height="23px"
         color="#FFFFFF"
@@ -49,7 +49,7 @@
         color="#FFFFFF"
         text-transform="uppercase"
       />
-      <mj-class name="footer" padding="36px 0 0" />
+      <mj-class name="footer" padding="13px 0 0" />
       <mj-class
         name="footer__text"
         padding="0 53px 34px 47px"
@@ -72,7 +72,7 @@
         <mj-image
           mj-class="hero-image"
           css-class="css-image"
-          src="https://i.ibb.co/0f5kgTC/title-img.png"
+          src="https://i.ibb.co/d6nZSS7/title-img.png"
           alt="Hero cover"
         />
         <mj-text
@@ -88,31 +88,30 @@
           padding-bottom="40px"
           css-class="css-text"
         >
-          Startup Tour 2023 пройдет <span>1 марта</span><br />
+          Startup Tour 2023 состоится <span>7 апреля</span><br />
           Официальное открытие начнется в <span>10:00</span> по адресу:<br />
-          <span>г. Красноярск, проспект Свободный, д. 75 (КРИТБИ)</span>
+          <span>г. Пермь, ш. Космонавтов, 111, корпус 10.</span>
         </mj-text>
         <mj-image
           mj-class="hero-image"
-          src="https://i.ibb.co/LrMCTzP/card.png"
-          alt="Image cover"
+          src="https://i.ibb.co/zsqDDC4/card.png"
+          alt="Карта расположения места"
           padding-bottom="40px"
         />
         <mj-text
           mj-class="textRegular18"
           padding-bottom="40px"
-          align="justify"
           css-class="css-text"
         >
-          Подробно ознакомиться с программой мероприятия можно на сайте
+          Ознакомиться с программой мероприятия можно на сайте
           <a href="startup-tour.ru" class="purple-link">startup-tour.ru</a> в
-          разделе «Города» — «Красноярск» во вкладке «Программа».
+          разделе <span>«Города» — «Пермь» — «Программа».</span>
         </mj-text>
 
         <mj-button
           mj-class="button"
-          href="https://startup-tour.ru/city/krasnoyarsk/program?utm_source=email_in&utm_medium=letter&utm_campaign=4"
-          width="500px"
+          href="https://startup-tour.ru/city/perm/program?utm_source=email_in&utm_medium=letter&utm_campaign=4"
+          width="532px"
           background-color="#5C3EAC"
           css-class="css-button"
           >Программа</mj-button
@@ -121,12 +120,11 @@
           mj-class="textRegular18"
           padding-bottom="40px"
           padding-top="40px"
-          align="justify"
           css-class="css-text"
         >
-          Напоминаем, что перед мероприятием необходимо
-          <span class="red-span">распечатать бейдж.</span> Это ваш пропуск на
-          площадку. Сделать это можно в личном кабинете на сайте <br /><a
+          Напоминаем: до начала мероприятия необходимо
+          <span class="red-span">распечатать бейдж.</span> — это ваш пропуск на
+          площадку. Сформированный бейдж вы найдете в личном кабинете на сайте<a
             href="startup-tour.ru"
             class="purple-link"
             >startup-tour.ru</a
@@ -136,7 +134,7 @@
         <mj-button
           mj-class="button"
           href="https://startup-tour.ru/login?utm_source=email_in&utm_medium=letter&utm_campaign=4"
-          width="500px"
+          width="532px"
           background-color="#CE294D"
           font-size="20px"
           padding-bottom="40px"
@@ -147,7 +145,7 @@
     </mj-section>
     <mj-section
       mj-class="section"
-      background-url="https://i.ibb.co/1r9rGY5/bg.png"
+      background-url="https://i.ibb.co/jzSDH07/bg.png"
     >
       <mj-column>
         <mj-text
@@ -156,79 +154,84 @@
           padding-top="43px"
           css-class="css-text"
         >
-          В рамках мероприятия пройдет конкурс стартапов, победитель которого
-          получит денежный приз в размере 300 тысяч рублей на развитие своего
-          проекта</mj-text
+          В рамках события пройдет конкурс стартапов. Финалистов ждут подарки от
+          партнеров и другие возможности для проектов, а победитель получит
+          денежный приз в размере 300 000 рублей.</mj-text
         >
         <mj-text
           mj-class="textRegular20"
-          padding-bottom="20px"
+          padding-bottom="48px"
           css-class="css-text"
         >
-          <span>Список отобранных</span> в вашем регионе
-          <span>участников</span> уже доступен <span>на нашем сайте</span> в
-          разделе «Города» — «Красноярск» во вкладке «Полуфиналисты».</mj-text
+          Список участников, прошедших отбор в вашем регионе, доступен на нашем
+          сайте в разделе «Города» — «Пермь» — «Полуфиналисты».</mj-text
         >
         <mj-button
           mj-class="button"
-          href="https://startup-tour.ru/city/krasnoyarsk/contest-lrasnoyarsk?utm_source=email_in&utm_medium=letter&utm_campaign=4"
-          width="500px"
+          href="https://t.me/skolkovolive"
+          width="532px"
           background-color="#FFFFFF"
           color="#5C3EAC"
-          padding="0 50px"
           css-class="css-button"
           >Полуфиналисты</mj-button
         >
         <mj-text
           mj-class="textRegular20"
           padding-bottom="23px"
-          padding-top="60px"
+          padding-top="40px"
           css-class="css-text"
         >
-          <span>Уважаемые конкурсанты!</span></mj-text
+          Полуфинал конкурса Startup Tour CreativeTECH Пермь состоится 7
+          апреля.</mj-text
         >
         <mj-text
           mj-class="textRegular20"
-          padding-bottom="30px"
+          padding-bottom="45px"
           css-class="css-text"
         >
-          Полуфинал конкурса Startup Tour CreativeTECH Красноярск состоится уже
-          1 марта. Время и кабинет, в котором будет проводиться конкурс по вашей
+          Время и кабинет, в котором будет проводиться конкурс по вашей
           номинации, смотрите на сайте.</mj-text
         >
         <mj-button
           mj-class="button"
-          href="https://startup-tour.ru/city/krasnoyarsk/program"
-          width="500px"
+          href="https://t.me/skolkovolive"
+          width="532px"
           background-color="#FFFFFF"
           color="#5C3EAC"
-          padding="0 50px"
           css-class="css-button"
           >Расписание</mj-button
         >
         <mj-text
           mj-class="textRegular20"
           padding-bottom="23px"
-          padding-top="60px"
+          padding-top="48px"
           css-class="css-text"
         >
-          Убедительно просим приезжать на площадку за полчаса до начала
-          полуфинала вашей номинации! Для прохода на площадку будет необходимо
-          <span class="yellow-span"
-            >предъявить бейдж, который вам нужно распечатать заранее</span
-          >. Он находится в личном кабинете на сайте Startup Tour 2023.
+          Убедительно просим приезжать на площадку за полчаса до начала конкурса
+          по вашей номинации.
         </mj-text>
         <mj-text
           mj-class="textRegular20"
           padding-bottom="23px"
           css-class="css-text"
         >
-          Не забудьте взять с собой флешку с презентацией Тайминг выступления: 5
-          мин презентация и 5 мин вопросы/комментарий жюри.
+          Для прохода на площадку будет необходимо предъявить
+          <span class="yellow-span"
+            >бейдж, который нужно заранее распечатать.</span
+          >
+          Он находится в личном кабинете на сайте Startup Tour 2023.
         </mj-text>
         <mj-text
           mj-class="textRegular20"
-          padding-bottom="30px"
+          padding-bottom="23px"
+          css-class="css-text"
+        >
+          Не забудьте взять с собой флешку с презентацией проекта. Тайминг
+          выступления: 5 мин презентация и 5 мин вопросы/комментарий жюри.
+        </mj-text>
+        <mj-text
+          mj-class="textRegular20"
+          padding-bottom="41px"
           css-class="css-text"
         >
           Очередность выступления на конкурсе будет соответствовать списку
@@ -236,43 +239,33 @@
         </mj-text>
         <mj-button
           mj-class="button"
-          href="https://startup-tour.ru/city/krasnoyarsk/contest-lrasnoyarsk"
-          width="500px"
+          href="https://t.me/skolkovolive"
+          width="532px"
           background-color="#FFFFFF"
           color="#5C3EAC"
-          padding="0 50px"
           css-class="css-button"
           >Очередность выступлений</mj-button
         >
         <mj-text
           mj-class="textRegular20"
-          padding-bottom="25px"
-          padding-top="60px"
+          padding-bottom="50px"
+          padding-top="48px"
           css-class="css-text"
         >
           Зарегистрируйтесь на сайте Стартап-тура 2023 в категории «стартап» — и
-          получите доступ к серии обучающих лекций и мастер-классов для
+          получите доступ к серии обучающих видеолекций и мастер-классов для
           технологических предпринимателей Skolkovo Mini MBA.
         </mj-text>
         <mj-button
           mj-class="button"
           href="https://startup-tour.ru/highlights"
-          width="500px"
+          width="532px"
           background-color="#FFFFFF"
           color="#5C3EAC"
-          padding="0 50px"
           css-class="css-button"
+          padding-bottom="159px"
           >самое интересное</mj-button
         >
-        <mj-text
-          mj-class="textRegular20"
-          align="center"
-          padding-bottom="37px"
-          padding-top="100px"
-          css-class="css-text"
-        >
-          <span>Подписывайтесь на наши Telegram-каналы </span>
-        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section
@@ -282,7 +275,7 @@
     >
       <mj-column
         vertical-align="middle"
-        css-class="css-column"
+        width="107px!important"
         padding-bottom="10px"
       >
         <mj-image
@@ -296,7 +289,7 @@
 
       <mj-column
         vertical-align="middle"
-        css-class="css-column"
+        width="121px!important"
         padding-bottom="10px"
       >
         <mj-image
@@ -305,19 +298,6 @@
           alt="Image cover"
           width="121px"
           href="https://t.me/skolkovolive"
-        />
-      </mj-column>
-      <mj-column
-        vertical-align="middle"
-        css-class="css-column"
-        padding-bottom="10px"
-      >
-        <mj-image
-          mj-class="hero-image"
-          src="https://i.ibb.co/4sxXV8Y/kritby.png"
-          alt="Image cover"
-          width="75px"
-          href="https://t.me/kritbi"
         />
       </mj-column>
     </mj-section>
@@ -333,7 +313,7 @@
         </mj-text>
         <mj-text mj-class="footer__text" align="center">
           <a href="https://sailplay.ru/spanel/#/" class="unsubscribe-url"
-            >Отписаться</a
+            >Отписаться от рассылки</a
           >
         </mj-text>
       </mj-column>
