@@ -1,0 +1,233 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all
+                    font-family="Helvetica, Arial, sans-serif"
+            />
+            <mj-class
+                    name="body"
+                    width="600px"
+                    background-color="#FFFFFF"
+            />
+            <mj-class
+                    name="section"
+                    padding="0"
+                    background-color="#18191A"
+            />
+            <mj-class
+                    name="titleText"
+                    padding="0 40px 0 40px"
+                    font-weight="900"
+                    font-size="24px"
+                    line-height="36px"
+                    color="#FFFFFF"
+                    font-style="italic"
+                    text-transform="uppercase"
+            />
+            <mj-class
+                    name="contentText"
+                    padding="0px 40px 0px 40px"
+                    font-weight="500"
+                    font-size="15px"
+                    line-height="1.2"
+                    color="#FFFFFF"
+            />
+            <mj-class
+                    name="hero-image"
+                    padding="0"
+                    width="640px"
+            />
+            <mj-class
+                    name="button"
+                    border-radius="0"
+                    padding="0"
+                    inner-padding="6px 20px"
+                    font-style="italic"
+                    font-weight="900"
+                    font-size="24px"
+                    line-height="36px"
+                    text-transform="uppercase"
+            />
+            <mj-class name="footer" padding="36px 0 0" />
+            <mj-class
+                    name="footer__text"
+                    padding="0 40px 34px 40px"
+                    font-weight="400"
+                    align="justify"
+                    font-size="14px"
+                    line-height="16px"
+                    color="rgba(255, 255, 255, 0.5)"
+            />
+        </mj-attributes>
+        <mj-style>
+
+        </mj-style>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image mj-class="hero-image" href="#" src="https://i.ibb.co/Dkzy68M/title-img.png" alt="Title image" />
+                <mj-text font-weight="600"
+                         font-size="15px"
+                         line-height="18px"
+                         color="#FFFFFF" padding="20px 50px 20px 40px">Конференция <span style="color: #FF8A00">Wildberries Day 2023</span> состоится уже <span style="color: #FF8A00">7 апреля</span>. Эксперты инновационного, научного и бизнес-сообщества поделятся эксклюзивной информацией о происходящем в сфере цифровых решений, передовых разработок и перспективах высоких технологий. 
+                </mj-text>
+                <mj-text font-weight="600"
+                         font-size="15px"
+                         line-height="18px"
+                         color="#FFFFFF" padding="0px 70px 30px 40px">С докладами выступят основатели крупнейших компаний, лидеры финтеха, ритейла и IT, визионеры и представители науки.
+                </mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        href="#"
+                        src="https://i.ibb.co/fqzKc9M/content-img.png"
+                        alt="1 насыщенный день, 3 увлекательных трека, 16 актуальных тем"
+                />
+                <mj-text font-weight="700"
+                         font-size="20px"
+                         line-height="23.44px"
+                         color="#FF8A00" padding="30px 40px 30px 40px">Не пропустите!
+                </mj-text>
+                <mj-button mj-class="button" href="https://wbday.wildberries.ru/?utm_source=email_in&utm_medium=letter&utm_campaign=4#registration" width="520px" background-color="#FF037E" css-class="css-button">Участвовать</mj-button>
+                <mj-text mj-class="titleText" padding-top="50px" padding-bottom="18px">
+                    Ключевые спикеры
+                </mj-text>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image  src="https://i.ibb.co/NSZsctq/speaker-1.png"></mj-image>
+                <mj-text font-weight="900" font-style="italic" font-size="17px" color="#FFFFFF" line-height="10px">Игорь Гордиенко</mj-text>
+                <mj-text font-weight="400" font-size="10px" color="#FFFFFF" line-height="11.72px">Руководитель Поиска и Каталога</mj-text>
+                <mj-text font-weight="700"  font-size="12px" color="#FFFFFF" line-height="5.06px">Wildberries</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image  src="https://i.ibb.co/Kh1VPZs/speaker-2.png"></mj-image>
+                <mj-text font-weight="900" font-style="italic" font-size="17px" color="#FFFFFF" line-height="10px">Игорь Кожелин</mj-text>
+                <mj-text font-weight="400" font-size="10px" color="#FFFFFF" line-height="11.72px">Гендиректор и сооснователь</mj-text>
+                <mj-text font-weight="700"  font-size="12px" color="#FFFFFF" line-height="5.06px">Частная космическая технологическая компании SR Data</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image  src="https://i.ibb.co/fDyQ8nQ/speaker-3.png"></mj-image>
+                <mj-text font-weight="900" font-style="italic" font-size="17px" color="#FFFFFF" line-height="10px">Прохор Гладких</mj-text>
+                <mj-text font-weight="400" font-size="10px" color="#FFFFFF" line-height="11.72px">Lead Data Scientist</mj-text>
+                <mj-text font-weight="700"  font-size="12px" color="#FFFFFF" line-height="5.06px">Sber Devices</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image  src="https://i.ibb.co/sHtSW7q/speaker-4.png"></mj-image>
+                <mj-text font-weight="900" font-style="italic" font-size="17px" color="#FFFFFF" line-height="10px">Егор Карицкий</mj-text>
+                <mj-text font-weight="400" font-size="10px" color="#FFFFFF" line-height="11.72px">Руководитель блока инфраструктуры</mj-text>
+                <mj-text font-weight="700"  font-size="12px" color="#FFFFFF" line-height="5.06px">Wildberries</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image  src="https://i.ibb.co/wrQ3KWM/speaker-5.png"></mj-image>
+                <mj-text font-weight="900" font-style="italic" font-size="17px" color="#FFFFFF" line-height="10px">Дарья Гейлер</mj-text>
+                <mj-text font-weight="400" font-size="10px" color="#FFFFFF" line-height="11.72px">Основатель бренда интерьерных красок</mj-text>
+                <mj-text font-weight="700"  font-size="12px" color="#FFFFFF" line-height="5.06px">Daria Geiler</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image  src="https://i.ibb.co/9gQPrz7/speaker-6.png"></mj-image>
+                <mj-text font-weight="900" font-style="italic" font-size="17px" color="#FFFFFF" line-height="10px">Михаил Гончаров</mj-text>
+                <mj-text font-weight="400" font-size="10px" color="#FFFFFF" line-height="11.72px">Основатель сети быстрого питания</mj-text>
+                <mj-text font-weight="700"  font-size="12px" color="#FFFFFF" line-height="5.06px">«Теремок»</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-button mj-class="button" href=" https://wbday.wildberries.ru/?utm_source=email_in&utm_medium=letter&utm_campaign=4#speakers" width="520px" background-color="#FF037E" padding-bottom="31px" padding-top="83px" css-class="css-button">Все спикеры</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-text mj-class="titleText" padding-top="23px" padding-bottom="19px">
+                    Кому будет интересно
+                </mj-text>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="13px"
+                                src="https://i.ibb.co/SJ0MZLj/romb.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="contentText" width="490px"
+                        >Разработчикам и инженерам</mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="13px"
+                                src="https://i.ibb.co/SJ0MZLj/romb.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="contentText" width="490px"
+                        >Студентам технологических вузов</mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="13px"
+                                src="https://i.ibb.co/SJ0MZLj/romb.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="contentText" width="490px"
+                        >Предпринимателям</mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="13px"
+                                src="https://i.ibb.co/SJ0MZLj/romb.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="contentText" width="490px"
+                        >Интересующимся технологиями и трендами будущего</mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image  href="https://t.me/wbdaychat" src="https://i.ibb.co/gz2gK9s/telegram-icon.png" alt="WBDay Telegram Icon" width="25px" padding-bottom="21px"/>
+
+                <mj-text font-weight="500"
+                         font-size="24px"
+                         line-height="36px"
+                         align="center"
+                         color="#FFFFFF" padding-bottom="41px">Успейте принять участие в<br/>конференции Wildberries Day!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="footer" background-color="#18191A">
+            <mj-column>
+                <mj-text mj-class="footer__text" align="justify">
+                    Вы получили эту рассылку, так как подписаны на рассылки от
+                    «Сколково<br />Форум», посвященные конкурсам и мероприятиям «Startup
+                    Tour», «Startup<br />
+                    Village» и «Nobel Vision. Открытые инновации», а также
+                    информационные<br />
+                    письма партнеров «Сколково».
+                </mj-text>
+                <mj-text mj-class="footer__text" align="center">
+                    <a style="color: rgba(255, 255, 255, 0.5);" href="https://sailplay.ru/spanel/#/" class="unsubscribe-url"
+                    >Отписаться от рассылки</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
