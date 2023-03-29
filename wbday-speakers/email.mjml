@@ -138,7 +138,7 @@
         </mj-section>
         <mj-section mj-class="section">
             <mj-column>
-                <mj-button mj-class="button" href=" https://wbday.wildberries.ru/?utm_source=email_in&utm_medium=letter&utm_campaign=4#speakers" width="520px" background-color="#FF037E" padding-bottom="31px" padding-top="83px" css-class="css-button">Все спикеры</mj-button>
+                <mj-button mj-class="button" href="https://wbday.wildberries.ru/?utm_source=email_in&utm_medium=letter&utm_campaign=4#speakers" width="520px" background-color="#FF037E" padding-bottom="31px" padding-top="83px" css-class="css-button">Все спикеры</mj-button>
             </mj-column>
         </mj-section>
         <mj-section mj-class="section">
