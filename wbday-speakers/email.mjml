@@ -154,58 +154,11 @@
                 <mj-text mj-class="titleText" padding-top="23px" padding-bottom="19px">
                     Кому будет интересно
                 </mj-text>
-                <mj-wrapper>
-                    <mj-column>
-                        <mj-image
-                                width="13px"
-                                src="https://i.ibb.co/SJ0MZLj/romb.png"
-                        ></mj-image>
-                    </mj-column>
-                    <mj-column>
-                        <mj-text mj-class="contentText" width="490px"
-                        >Разработчикам и инженерам</mj-text
-                        >
-                    </mj-column>
-                </mj-wrapper>
-                <mj-wrapper>
-                    <mj-column>
-                        <mj-image
-                                width="13px"
-                                src="https://i.ibb.co/SJ0MZLj/romb.png"
-                        ></mj-image>
-                    </mj-column>
-                    <mj-column>
-                        <mj-text mj-class="contentText" width="490px"
-                        >Студентам технологических вузов</mj-text
-                        >
-                    </mj-column>
-                </mj-wrapper>
-                <mj-wrapper>
-                    <mj-column>
-                        <mj-image
-                                width="13px"
-                                src="https://i.ibb.co/SJ0MZLj/romb.png"
-                        ></mj-image>
-                    </mj-column>
-                    <mj-column>
-                        <mj-text mj-class="contentText" width="490px"
-                        >Предпринимателям</mj-text
-                        >
-                    </mj-column>
-                </mj-wrapper>
-                <mj-wrapper>
-                    <mj-column>
-                        <mj-image
-                                width="13px"
-                                src="https://i.ibb.co/SJ0MZLj/romb.png"
-                        ></mj-image>
-                    </mj-column>
-                    <mj-column>
-                        <mj-text mj-class="contentText" width="490px"
-                        >Интересующимся технологиями и трендами будущего</mj-text
-                        >
-                    </mj-column>
-                </mj-wrapper>
+                <mj-image
+                        src="https://i.ibb.co/mFtL1p5/list.png"
+                        alt="Разработчикам и инженерам, Студентам технологических вузов, Предпринимателям, Интересующимся технологиями и трендами будущего"
+                        padding-left="40px"
+                />
             </mj-column>
         </mj-section>
         <mj-section mj-class="section">
