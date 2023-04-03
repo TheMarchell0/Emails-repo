@@ -89,8 +89,12 @@
           css-class="css-text"
         >
           Startup Tour 2023 состоится <span>7 апреля</span><br />
-          Официальное открытие начнется в <span>10:00</span> по адресу:<br />
-          <span>г. Пермь, ш. Космонавтов, 111, корпус 10.</span>
+          Официальное открытие начнется в<span>
+            10:00 в Технопарке<br />
+            Morion Digital </span
+          >по адресу:<br /><span>
+            г. Пермь, ш. Космонавтов, 111, корпус 10.</span
+          >
         </mj-text>
         <mj-image
           mj-class="hero-image"
@@ -124,11 +128,8 @@
         >
           Напоминаем: до начала мероприятия необходимо
           <span class="red-span">распечатать бейдж.</span> — это ваш пропуск на
-          площадку. Сформированный бейдж вы найдете в личном кабинете на сайте<a
-            href="startup-tour.ru"
-            class="purple-link"
-            >startup-tour.ru</a
-          >
+          площадку. Сформированный бейдж вы найдете в личном кабинете на сайте
+          <a href="startup-tour.ru" class="purple-link">startup-tour.ru</a>
         </mj-text>
 
         <mj-button
@@ -168,7 +169,7 @@
         >
         <mj-button
           mj-class="button"
-          href="https://t.me/skolkovolive"
+          href="https://startup-tour.ru/city/perm/perm-semifinalists?utm_source=email_in&utm_medium=letter&utm_campaign=4"
           width="532px"
           background-color="#FFFFFF"
           color="#5C3EAC"
@@ -194,7 +195,7 @@
         >
         <mj-button
           mj-class="button"
-          href="https://t.me/skolkovolive"
+          href="https://startup-tour.ru/city/perm/program?utm_source=email_in&utm_medium=letter&utm_campaign=4"
           width="532px"
           background-color="#FFFFFF"
           color="#5C3EAC"
@@ -239,7 +240,7 @@
         </mj-text>
         <mj-button
           mj-class="button"
-          href="https://t.me/skolkovolive"
+          href="https://startup-tour.ru/city/perm/perm-semifinalists?utm_source=email_in&utm_medium=letter&utm_campaign=4"
           width="532px"
           background-color="#FFFFFF"
           color="#5C3EAC"
