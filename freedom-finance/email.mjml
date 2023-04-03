@@ -1,0 +1,194 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" background-color="#FFFFFF" />
+            <mj-class
+                    name="titleText"
+                    padding="0px"
+                    font-weight="700"
+                    font-size="14px"
+                    line-height="16px"
+                    color="#000000"
+            />
+            <mj-class
+                    name="contentText"
+                    padding="0px"
+                    font-weight="400"
+                    font-size="12px"
+                    line-height="14px"
+                    color="#000000"
+            />
+            <mj-class name="hero-image" padding="0" width="600px" />
+            <mj-class
+                    name="button"
+                    border-radius="0"
+                    padding="0"
+                    inner-padding="10px"
+                    font-weight="700"
+                    font-size="10px"
+                    line-height="11px"
+                    color="#FFFFFF"
+                    background-color="#649C47"
+                    width="128px"
+                    text-transform="uppercase"
+            />
+            <mj-class name="footer" padding="30px 0 0" />
+            <mj-class
+                    name="footer__text"
+                    font-weight="300"
+                    font-size="10px"
+                    line-height="11px"
+                    color="rgba(255, 255, 255, 0.6)"
+            />
+        </mj-attributes>
+        <mj-style> </mj-style>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        src="https://i.ibb.co/H7rPZrW/hero-img.png"
+                        alt="Title image"
+                />
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="9px"
+                                src="https://i.ibb.co/WDWy8kF/list-item.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="contentText" width="490px"
+                        >Доходность 10-летних облигаций США достигла 1,79% — самого высокого уровня с марта 2020 года, что вызвало снижение цен на акции технологических компаний, таких как Amazon и Microsoft.</mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="9px"
+                                src="https://i.ibb.co/WDWy8kF/list-item.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="contentText" width="490px"
+                        >Крупнейший производитель электромобилей Tesla Inc (NASDAQ: TSLA) подал заявку на разрешение продажи своих автомобилей на территории России, что может привести к расширению рынка для компании и повышению ее цены на акции.</mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="9px"
+                                src="https://i.ibb.co/WDWy8kF/list-item.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="contentText" width="490px"
+                        >В среду, 29 марта, Федеральная резервная система (ФРС) США оставила свою ключевую процентную ставку без изменений, но упомянула возможность повышения ставок ранее, чем ожидалось. Это вызвало неопределенность на рынке и привело к небольшому снижению цен на акции.</mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="9px"
+                                src="https://i.ibb.co/WDWy8kF/list-item.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="contentText" width="490px"
+                        >Крупнейший ритейлер США Walmart (NYSE: WMT) объявил о планах начать продавать товары из Китая напрямую на своей платформе, что может повлиять на других ритейлеров и привести к росту цен на акции Walmart.</mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="9px"
+                                src="https://i.ibb.co/WDWy8kF/list-item.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="contentText" width="490px"
+                        >Компания Boeing (NYSE: BA) получила заказ на 100 самолетов 737 MAX от китайской авиакомпании China Eastern Airlines, что может привести к росту цен на акции Boeing и других компаний в авиационной отрасли.</mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="9px"
+                                src="https://i.ibb.co/WDWy8kF/list-item.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="contentText" width="490px"
+                        >31 марта на момент закрытия на Нью-Йоркской фондовой бирже Dow Jones подорожал на 1,26%, индекс S&P 500 — на 1,44%, а индекс NASDAQ Composite показал рост на 1,74%.</mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="111px"
+                                src="https://i.ibb.co/ngxfx2K/mail-img.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="titleText" width="490px"
+                        >Следите за новостями</mj-text
+                        >
+                        <mj-text mj-class="contentText" width="490px"
+                        >С мировых рынков, обзорами стратегий выбора акций и инструментов инвестирования на моем канале в Telegram!</mj-text
+                        >
+                        <mj-button
+                                mj-class="button"
+                                href="https://t.me/+CMTB28_IPcVmMWEy"
+                        >Перейти</mj-button
+                        >
+                    </mj-column>
+                </mj-wrapper>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="footer" background-color="#0D0D0D">
+            <mj-column>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-text mj-class="footer__text">
+                            С уважением<br/>
+                            <span style="color:#FFFFFF">Зимин Максим</span><br/>
+                            старший персональный менеджер<br/>
+                            <span style="color:#FFFFFF">ООО ИК «Фридом Финанс»</span>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="footer__text" width="490px"
+                        >Тел.: +7 (495) 783 91 73 ( доб. 55950)<br/>
+                            Моб.: +7 (985) 043 63 73</br>
+                            123100, Москва, 1-й Красногвардейский проезд, дом 15<br/>
+                            Башня «Меркурий», 18 этаж
+                        </mj-text
+                        >
+                        <mj-text mj-class="footer__text" width="490px"
+                        ><span style="color:#91B3FA">cifra-bank.ru</span><span style="color:
+#9E9E9E;padding-left:10px;padding-right:10px;font-size:18px">|</span><span style="color:#91B3FA">zimin@cifra-broker.ru</span></mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+                <mj-text mj-class="footer__text" align="center" padding-bottom="27px">
+                    <a
+                            style="color: rgba(255, 255, 255, 0.5)"
+                            href="{{UnsubscribeUrl}}"
+                            class="unsubscribe-url"
+                    >Отписаться от рассылки</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
