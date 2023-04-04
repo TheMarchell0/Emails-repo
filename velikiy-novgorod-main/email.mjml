@@ -1,0 +1,207 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" />
+      <mj-class
+        name="textTitle"
+        padding="0px 34px 0px 34px"
+        font-weight="700"
+        font-size="28px"
+        line-height="32.2px"
+        color="#000000"
+        text-transform="uppercase"
+      />
+      <mj-class
+        name="textRegular"
+        padding="0px 34px 0px 34px"
+        font-weight="400"
+        font-size="18px"
+        line-height="20.7px"
+        color="#000000"
+      />
+      <mj-class name="hero-image" padding="0" width="600px" />
+      <mj-class name="image" padding="0 56px" width="640px" />
+      <mj-class
+        name="button"
+        border-radius="22px"
+        padding="0"
+        inner-padding="16px 20px"
+        font-weight="700"
+        font-size="16px"
+        line-height="18.4px"
+        color="#FFFFFF"
+        text-transform="uppercase"
+      />
+      <mj-class
+        name="list"
+        padding="0px 50px 0px 50px"
+        font-weight="400"
+        font-size="18px"
+        line-height="20.7px"
+        color="#000000"
+      />
+      <mj-class name="footer" padding="10px 0 0" />
+      <mj-class
+        name="footer__text"
+        padding="0 52px 30px 48px"
+        font-weight="400"
+        font-size="14px"
+        line-height="16px"
+        color="#A5A5A5"
+      />
+      <mj-class name="purple-link" color="#5C3EAC" />
+    </mj-attributes>
+    <mj-style> .unsubscribe-url { color:#A5A5A5 } </mj-style>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+          mj-class="hero-image"
+          css-class="css-image"
+          src="https://i.ibb.co/YksNFHY/title-img.png"
+          alt="Hero cover"
+        />
+
+        <mj-text mj-class="textRegular" padding-top="41px">
+          28 апреля <span style="font-weight: 700">Startup Tour</span> пройдет в
+          Великом Новгороде.
+        </mj-text>
+        <mj-text
+          mj-class="textRegular"
+          padding-top="22px"
+          padding-bottom="23px"
+        >
+          Вас ждет встреча с лидерами креативного предпринимательства и
+          арт-сообщества,  разбор кейсов, обсуждение главных
+          CreativeTECH-трендов и диалог о будущем технологий в России. В фокусе
+          внимания — ключевые творческие индустрии региона:
+          <span style="font-weight: 700">
+            архитектура и ремесла (реставрация).</span
+          >
+        </mj-text>
+        <mj-text mj-class="textRegular" padding-bottom="40px" padding-top="0px">
+          Успейте принять участие в конференции! 
+        </mj-text>
+        <mj-button
+          mj-class="button"
+          href="#"
+          width="532px"
+          background-color="#5C3EAC"
+          color="#FFFFFF"
+          padding-bottom="50px"
+          >Регистрация</mj-button
+        >
+        <mj-text mj-class="textRegular" padding-bottom="24px">
+          Традиционно в рамках события проводится масштабный конкурс креативных
+          и технологических стартапов. На кону — <b>300 000 рублей,</b> призы от
+          партнеров Startup Tour и возможность найти инвесторов и партнеров!
+        </mj-text>
+        <mj-text mj-class="textRegular" padding-bottom="12px" padding-top="0px">
+          Для участия в конкурсе Startup Tour в Великом Новгороде подайте заявку
+          до<b> 14 апреля.</b>
+        </mj-text>
+        <mj-text
+          mj-class="textRegular"
+          padding-bottom="21px"
+          padding-top="10px"
+        >
+          <span style="color: #5c3eac; font-weight: 700"
+            >Важно! Регистрация на мероприятие в качестве слушателей не
+            закрывается.</span
+          >
+        </mj-text>
+        <mj-button
+          mj-class="button"
+          href="#"
+          width="532px"
+          background-color="#5C3EAC"
+          color="#FFFFFF"
+          padding-top="18px"
+          padding-bottom="46px"
+          >Подать заявку</mj-button
+        >
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/MCqsLC1/bg-img-1.png"
+          alt="Hero cover"
+        />
+        <mj-image
+          mj-class="hero-image"
+          href="#"
+          src="https://i.ibb.co/yfsppwF/bg-link-1.png"
+          alt="Hero cover"
+        />
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/M7MZjDK/bg-img-2.png"
+          alt="Hero cover"
+        />
+        <mj-image
+          mj-class="hero-image"
+          href="#"
+          src="https://i.ibb.co/35Xxc8k/bg-link-2.png"
+          alt="Hero cover"
+        />
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/Qkj5BPL/bg-img-3.png"
+          alt="Hero cover"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="#3C2B69"
+      padding-top="10px"
+      padding-bottom="0"
+    >
+      <mj-column
+        vertical-align="middle"
+        width="107px!important"
+        padding-bottom="10px"
+      >
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/LhtY5Tm/startup-tour.png"
+          alt="Image cover"
+          width="107px"
+          href="https://t.me/suv2018"
+        />
+      </mj-column>
+
+      <mj-column
+        vertical-align="middle"
+        width="121px!important"
+        padding-bottom="10px"
+      >
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/5xx6fK8/skolkovo-live.png"
+          alt="Image cover"
+          width="121px"
+          href="https://t.me/skolkovolive"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer__text" align="justify">
+          Вы получили эту рассылку, так как подписаны на рассылки от
+          «Сколково<br />Форум», посвященные конкурсам и мероприятиям «Startup
+          Tour», «Startup<br />
+          Village» и «Nobel Vision. Открытые инновации», а также
+          информационные<br />
+          письма партнеров «Сколково».
+        </mj-text>
+        <mj-text mj-class="footer__text" align="center">
+          <a href="https://sailplay.ru/spanel/#/" class="unsubscribe-url"
+            >Отписаться от рассылки</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
