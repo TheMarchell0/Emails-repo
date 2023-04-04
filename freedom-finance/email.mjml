@@ -181,11 +181,13 @@
                     </mj-column>
                 </mj-wrapper>
                 <mj-text mj-class="footer__text" align="center" padding-bottom="27px">
+                    Вы получили данное письмо, так как ранее указывали согласие<br/>на получение информации от финансового сектора<br/>
+                    Если вам не интересно получать письма, то нажмите
                     <a
                             style="color: rgba(255, 255, 255, 0.5)"
                             href="{{UnsubscribeUrl}}"
                             class="unsubscribe-url"
-                    >Отписаться от рассылки</a
+                    >здесь</a
                     >
                 </mj-text>
             </mj-column>
