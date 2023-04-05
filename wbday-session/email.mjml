@@ -1,0 +1,224 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Roboto Flex, Helvetica, Arial, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" background-color="#18191A" />
+      <mj-class
+              name="titleText"
+              padding="0px 40px 0px 40px"
+              font-weight="900"
+              font-size="24px"
+              line-height="36px"
+              color="#FFFFFF"
+              font-style="italic"
+              text-transform="uppercase"
+      />
+      <mj-class
+              name="contentText"
+              padding="0px 40px 0px 40px"
+              font-weight="600"
+              font-size="15px"
+              line-height="20px"
+              color="#FFFFFF"
+      />
+      <mj-class name="hero-image" padding="0" width="640px" />
+      <mj-class
+              name="button"
+              border-radius="0"
+              padding="0"
+              inner-padding="6px 20px"
+              font-style="italic"
+              font-weight="900"
+              font-size="24px"
+              line-height="36px"
+              text-transform="uppercase"
+      />
+      <mj-class name="footer" padding="36px 0 0" />
+      <mj-class
+              name="footer__text"
+              padding="0 53px 34px 47px"
+              font-weight="400"
+              font-size="14px"
+              line-height="16px"
+              color="rgba(255, 255, 255, 0.5)"
+      />
+    </mj-attributes>
+    <mj-style> </mj-style>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+                mj-class="hero-image"
+                src="https://i.ibb.co/kq54Gr4/hero-img.png"
+                alt="Title image"
+        />
+        <mj-text mj-class="contentText" padding-top="40px" padding-bottom="40px"
+        ><span style="color: #FF8A00">Конференция Wildberries Day 2023 </span
+        >с участием<br />предпринимателей и лидеров технологических
+          компаний<br />состоится 7 апреля в Технопарке «Сколково» по адресу:<br /><span
+                  style="color: #FF8A00"
+          >
+            Москва, Большой бульвар, 42, строение 1.</span
+          >
+        </mj-text>
+        <mj-image
+                mj-class="hero-image"
+                src="https://i.ibb.co/jLkx3N4/cart.png"
+                alt="Карта расположения"
+        />
+        <mj-text mj-class="contentText" padding-top="30px" padding-bottom="30px"
+        >Выберите удобный способ проезда. До Технопарка «Сколково» можно
+          добраться на личном автомобиле, такси, каршеринге, автобусе или
+          электричке. 
+        </mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://sk.ru/transport/?utm_source=email_in&utm_medium=letter&utm_campaign=6"
+                width="520px"
+                background-color="#FF037E"
+                css-class="css-button"
+                padding-bottom="40px"
+        >Как добраться?</mj-button
+        >
+        <mj-image
+                mj-class="hero-image"
+                src="https://i.ibb.co/JmFdJSh/bg-img.png"
+                alt="Получите бейдж. До начала мероприятия необходимо получить бейдж на стойке регистрации. Регистрация участников начнется в 10:00 на первом этаже Технопарка «Сколково». Официальное открытие конференции — в 11:00 на третьем этаже в зале «Казан»."
+        />
+        <mj-text mj-class="contentText" padding-top="40px" padding-bottom="30px"
+        >Чтобы максимально эффективно и интересно провести время, предлагаем заранее определиться с сессиями, которые вы хотите посетить.
+        </mj-text>
+        <mj-text mj-class="contentText" padding-bottom="40px"
+        ><span style="color: #FF8A00;">Обратите внимание: </span>выступления спикеров будут проходить параллельно в трех залах Технопарка «Сколково».
+        </mj-text>
+        <mj-text mj-class="titleText" padding-bottom="20px">
+          Ключевые сессии
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#252525">
+      <mj-column>
+        <mj-image
+                src="https://i.ibb.co/frt3knr/session-1.png"
+                alt="12:10 | Rocket Science"
+                width="520px"
+                padding-top="37px"
+        />
+        <mj-text font-weight="400" font-size="10px" line-height="12px" color="#FFFFFF" padding="0 40px"
+        >Зал 1
+        </mj-text>
+        <mj-text font-weight="700" font-size="12px" line-height="14px" color="#FFFFFF" padding="10px 40px 13px 40px">Как построить ЦОД без охлаждения</mj-text>
+        <mj-text font-weight="400" font-size="14px" line-height="18px" color="#FFFFFF" padding="0px 40px 55px 40px"><span style="color:#00DEFF;font-weight:700">Егор Карицкий, </span>руководитель блока инфраструктуры Wildberries, расскажет зачем нужны ЦОДы, как они устроены, какие решения и технологии используются. После этого доклада вы точно сможете построить свой дата-центр у себя на даче.</mj-text>
+        <mj-divider border-width="1px"  border-color="#FFFFFF" padding="0px 40px"></mj-divider>
+        <mj-image
+                src="https://i.ibb.co/K5bPYGw/session-2.png"
+                alt="12:10 | ROCKET SCIENCE"
+                width="520px"
+                padding-top="37px"
+        />
+        <mj-text font-weight="400" font-size="10px" line-height="12px" color="#FFFFFF" padding="0 40px"
+        >Зал «Казан»
+        </mj-text>
+        <mj-text font-weight="700" font-size="12px" line-height="14px" color="#FFFFFF" padding="10px 40px 13px 40px">Большие нейросетевые модели: успехи и проблемы</mj-text>
+        <mj-text font-weight="400" font-size="14px" line-height="18px" color="#FFFFFF" padding="0px 40px 55px 40px"><span style="color:#F200FF;font-weight:700">Иван Оселедец, </span>директор центра технологий ИИ «Сколтеха», профессор РАН, расскажет как развиваются нейросетевые модели и какие проблемы стоят перед учеными и практиками в этой области.</mj-text>
+        <mj-divider border-width="1px"  border-color="#FFFFFF" padding="0px 40px"></mj-divider>
+        <mj-image
+                src="https://i.ibb.co/sV0LvyN/session-3.png"
+                alt="13:20 | BUSINESS"
+                width="520px"
+                padding-top="37px"
+        />
+        <mj-text font-weight="400" font-size="10px" line-height="12px" color="#FFFFFF" padding="0 40px"
+        >Зал «Казан»
+        </mj-text>
+        <mj-text font-weight="700" font-size="12px" line-height="14px" color="#FFFFFF" padding="10px 40px 13px 40px">Как создать миллиардную частную космическую компанию в РФ — история SR Space</mj-text>
+        <mj-text font-weight="400" font-size="14px" line-height="18px" color="#FFFFFF" padding="0px 40px 55px 40px">После выступления <span style="color:#66FFA4;font-weight:700">Игоря Кожелина, </span>сооснователя частной космической технологической компании SR Data, вы узнаете, каково это, создать частную космическую компанию в России и согласовать запуск космической ракеты.</mj-text>
+        <mj-divider border-width="1px"  border-color="#FFFFFF" padding="0px 40px"></mj-divider>
+        <mj-image
+                src="https://i.ibb.co/hLZtYsy/session-4.png"
+                alt="14:30 | ROCKET SCIENCE"
+                width="520px"
+                padding-top="37px"
+        />
+        <mj-text font-weight="400" font-size="10px" line-height="12px" color="#FFFFFF" padding="0 40px"
+        >Зал 1
+        </mj-text>
+        <mj-text font-weight="700" font-size="12px" line-height="16px" color="#FFFFFF" padding="10px 40px 13px 40px">Как адаптировать ML-модель под изменение поведения пользователя и повысить качество на примере SberBoom</mj-text>
+        <mj-text font-weight="400" font-size="14px" line-height="18px" color="#FFFFFF" padding="0px 40px 55px 40px">Как умная колонка научилась понимать пользователя с полуслова?<br/><span style="color:#00DEFF;font-weight:700">Прохор Гладких, </span>Lead Data Scientist Sber Devices, поделится секретами колонки SberBoom. </mj-text>
+        <mj-divider border-width="1px"  border-color="#FFFFFF" padding="0px 40px"></mj-divider>
+        <mj-image
+                src="https://i.ibb.co/hRDtsyQ/session-5.png"
+                alt="16:50 | FUTURE TECH"
+                width="520px"
+                padding-top="37px"
+        />
+        <mj-text font-weight="400" font-size="10px" line-height="12px" color="#FFFFFF" padding="0 40px"
+        >Зал 2
+        </mj-text>
+        <mj-text font-weight="700" font-size="12px" line-height="14px" color="#FFFFFF" padding="10px 40px 13px 40px">3D-биопринтинг. Можно ли напечатать человека?</mj-text>
+        <mj-text font-weight="400" font-size="14px" line-height="18px" color="#FFFFFF" padding="0px 40px 30px 40px"><span style="color:#F200FF;font-weight:700">Юсеф Хесуани, </span>управляющий партнер «3Д Биопринтинг Солюшенс», расскажет о будущем биомедицины и актуальных разработках в этой области.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-text mj-class="contentText" padding-top="30px" padding-bottom="40px"
+        >С полной версией программы вы можете ознакомиться на сайте конференции.
+        </mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://wbday.wildberries.ru/?utm_source=email_in&utm_medium=letter&utm_campaign=6#program"
+                width="520px"
+                background-color="#5A08E4"
+                padding-bottom="100px"
+                css-class="css-button"
+        >Программа</mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+                href="https://t.me/wbdaychat"
+                src="https://i.ibb.co/gz2gK9s/telegram-icon.png"
+                alt="WBDay Telegram Icon"
+                width="25px"
+                padding-bottom="42px"
+        />
+
+        <mj-text
+                font-weight="900"
+                font-size="24px"
+                line-height="36px"
+                align="center"
+                color="#FFFFFF"
+                padding-bottom="15px"
+                font-style="italic"
+        >До встречи на конференции<br />Wildberries Day 2023!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="footer" background-color="#18191A">
+      <mj-column>
+        <mj-text mj-class="footer__text" align="justify">
+          Вы получили эту рассылку, так как подписаны на рассылки от
+          «Сколково<br />Форум», посвященные конкурсам и мероприятиям «Startup
+          Tour», «Startup<br />
+          Village» и «Nobel Vision. Открытые инновации», а также
+          информационные<br />
+          письма партнеров «Сколково».
+        </mj-text>
+        <mj-text mj-class="footer__text" align="center">
+          <a
+                  style="color: rgba(255, 255, 255, 0.5)"
+                  href="$[unsubscribe_url]"
+                  class="unsubscribe-url"
+          >Отписаться от рассылки</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
