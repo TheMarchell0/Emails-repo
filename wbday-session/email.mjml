@@ -100,8 +100,8 @@
     <mj-section padding="0" background-color="#252525">
       <mj-column>
         <mj-image
-          src="https://i.ibb.co/frt3knr/session-1.png"
-          alt="12:10 | Rocket Science"
+          src="https://i.ibb.co/NKK1N24/session-1.png"
+          alt="12:20 | Rocket Science"
           width="520px"
           padding-top="37px"
         />
@@ -139,8 +139,8 @@
           padding="0px 40px"
         ></mj-divider>
         <mj-image
-          src="https://i.ibb.co/K5bPYGw/session-2.png"
-          alt="12:10 | ROCKET SCIENCE"
+          src="https://i.ibb.co/TtQ4H1S/session-2.png"
+          alt="12:20 | ROCKET SCIENCE"
           width="520px"
           padding-top="37px"
         />
@@ -177,7 +177,7 @@
           padding="0px 40px"
         ></mj-divider>
         <mj-image
-          src="https://i.ibb.co/sV0LvyN/session-3.png"
+          src="https://i.ibb.co/q0Tp5yY/session-3.png"
           alt="13:20 | BUSINESS"
           width="520px"
           padding-top="37px"
@@ -217,8 +217,8 @@
           padding="0px 40px"
         ></mj-divider>
         <mj-image
-          src="https://i.ibb.co/hLZtYsy/session-4.png"
-          alt="14:30 | ROCKET SCIENCE"
+          src="https://i.ibb.co/nkmYTs7/session-4.png"
+          alt="14:20 | ROCKET SCIENCE"
           width="520px"
           padding-top="37px"
         />
@@ -257,8 +257,8 @@
           padding="0px 40px"
         ></mj-divider>
         <mj-image
-          src="https://i.ibb.co/hRDtsyQ/session-5.png"
-          alt="16:50 | FUTURE TECH"
+          src="https://i.ibb.co/zGzY7dv/session-5.png"
+          alt="16:20 | FUTURE TECH"
           width="520px"
           padding-top="37px"
         />
