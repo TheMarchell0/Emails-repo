@@ -139,44 +139,6 @@
           padding="0px 40px"
         ></mj-divider>
         <mj-image
-          src="https://i.ibb.co/YkMP9VS/session-2.png"
-          alt="14:20 | ROCKET SCIENCE"
-          width="520px"
-          padding-top="37px"
-        />
-        <mj-text
-          font-weight="400"
-          font-size="10px"
-          line-height="12px"
-          color="#FFFFFF"
-          padding="0 40px"
-          >Зал «Казан»
-        </mj-text>
-        <mj-text
-          font-weight="700"
-          font-size="12px"
-          line-height="14px"
-          color="#FFFFFF"
-          padding="10px 40px 13px 40px"
-          >Большие нейросетевые модели: успехи и проблемы</mj-text
-        >
-        <mj-text
-          font-weight="400"
-          font-size="14px"
-          line-height="18px"
-          color="#FFFFFF"
-          padding="0px 40px 55px 40px"
-          ><span style="color: #f200ff; font-weight: 700">Иван Оселедец, </span
-          >директор центра технологий ИИ «Сколтеха», профессор РАН, расскажет
-          как развиваются нейросетевые модели и какие проблемы стоят перед
-          учеными и практиками в этой области.</mj-text
-        >
-        <mj-divider
-          border-width="1px"
-          border-color="#FFFFFF"
-          padding="0px 40px"
-        ></mj-divider>
-        <mj-image
           src="https://i.ibb.co/q0Tp5yY/session-3.png"
           alt="13:20 | BUSINESS"
           width="520px"
@@ -210,6 +172,44 @@
           >сооснователя частной космической технологической компании SR Data, вы
           узнаете, каково это, создать частную космическую компанию в России и
           согласовать запуск космической ракеты.</mj-text
+        >
+        <mj-divider
+          border-width="1px"
+          border-color="#FFFFFF"
+          padding="0px 40px"
+        ></mj-divider>
+        <mj-image
+          src="https://i.ibb.co/YkMP9VS/session-2.png"
+          alt="14:20 | ROCKET SCIENCE"
+          width="520px"
+          padding-top="37px"
+        />
+        <mj-text
+          font-weight="400"
+          font-size="10px"
+          line-height="12px"
+          color="#FFFFFF"
+          padding="0 40px"
+          >Зал «Казан»
+        </mj-text>
+        <mj-text
+          font-weight="700"
+          font-size="12px"
+          line-height="14px"
+          color="#FFFFFF"
+          padding="10px 40px 13px 40px"
+          >Большие нейросетевые модели: успехи и проблемы</mj-text
+        >
+        <mj-text
+          font-weight="400"
+          font-size="14px"
+          line-height="18px"
+          color="#FFFFFF"
+          padding="0px 40px 55px 40px"
+          ><span style="color: #f200ff; font-weight: 700">Иван Оселедец, </span
+          >директор центра технологий ИИ «Сколтеха», профессор РАН, расскажет
+          как развиваются нейросетевые модели и какие проблемы стоят перед
+          учеными и практиками в этой области.</mj-text
         >
         <mj-divider
           border-width="1px"
