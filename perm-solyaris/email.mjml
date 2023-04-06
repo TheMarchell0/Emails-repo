@@ -1,0 +1,148 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" />
+      <mj-class
+        name="textTitle"
+        padding="0px 27px 0px 27px"
+        font-weight="700"
+        font-size="28px"
+        line-height="32.2px"
+        color="#000000"
+        text-transform="uppercase"
+      />
+      <mj-class
+        name="textRegular"
+        padding="0px 27px 0px 27px"
+        font-weight="400"
+        font-size="18px"
+        line-height="20.7px"
+        color="#000000"
+      />
+      <mj-class name="hero-image" padding="0" width="600px" />
+      <mj-class name="image" padding="0 56px" width="640px" />
+      <mj-class name="footer" padding="10px 0 0" />
+      <mj-class
+        name="footer__text"
+        padding="0 52px 30px 48px"
+        font-weight="400"
+        font-size="14px"
+        line-height="16px"
+        color="#A5A5A5"
+      />
+    </mj-attributes>
+    <mj-style> .unsubscribe-url { color:#A5A5A5 } </mj-style>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+          mj-class="hero-image"
+          css-class="css-image"
+          src="https://i.ibb.co/fGhYBdr/title-img.png"
+          alt="Hero cover"
+        />
+
+        <mj-text mj-class="textTitle" padding-top="40px">
+          Уважаемые участники<br />Startup Tour Пермь!
+        </mj-text>
+        <mj-text
+          mj-class="textRegular"
+          padding-top="20px"
+          padding-bottom="40px"
+        >
+          Мы рады пригласить вас на специальный закрытый показ
+          научно-технологического спектакля «Солярис», который состоится после
+          завершения деловой программы<br />мероприятия 7 апреля.
+        </mj-text>
+        <mj-text mj-class="textRegular" padding-bottom="40px">
+          <b
+            ><i
+              >«Солярис» создает футуристическую локацию, космическую атмосферу
+              другой планеты, здесь и сейчас погружая зрителя в будущее, и
+              представляет новый взгляд на одноименный роман Станислава Лема за
+              счёт использования современных технологий. Решение игрового
+              пространства построено исключительно на взаимодействии артистов со
+              светом, лазерами, голограммами и видеопроекцией.</i
+            ></b
+          >
+        </mj-text>
+
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/N2p0929/bg-img.png"
+          alt="Начало: 19:00. Место проведения: Пермский академический Театр-Театр Вход по бейджам Startup Tour."
+        />
+        <mj-image
+          mj-class="hero-image"
+          href="https://leader-id.ru/events/412013"
+          src="https://i.ibb.co/tz4v1bz/bg-link.png"
+          alt="Количество мест ограничено,
+регистрация здесь: https://leader-id.ru/events/412013"
+        />
+        <mj-text
+          mj-class="textRegular"
+          padding-top="40px"
+          padding-bottom="40px"
+        >
+          Спектакль «Солярис» является совместной продукцией<br />Центра
+          компетенций НТИ «Фотоника», ПГНИУ, ПАО «ПНППК» и Пермского
+          академического Театра-Театра.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="#3C2B69"
+      padding-top="10px"
+      padding-bottom="0"
+    >
+      <mj-column
+        vertical-align="middle"
+        width="107px!important"
+        padding-bottom="10px"
+      >
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/LhtY5Tm/startup-tour.png"
+          alt="Image cover"
+          width="107px"
+          href="https://t.me/suv2018"
+        />
+      </mj-column>
+
+      <mj-column
+        vertical-align="middle"
+        width="121px!important"
+        padding-bottom="10px"
+      >
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/5xx6fK8/skolkovo-live.png"
+          alt="Image cover"
+          width="121px"
+          href="https://t.me/skolkovolive"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer__text" align="justify">
+          Вы получили эту рассылку, так как подписаны на рассылки от
+          «Сколково<br />Форум», посвященные конкурсам и мероприятиям «Startup
+          Tour», «Startup<br />
+          Village» и «Nobel Vision. Открытые инновации», а также
+          информационные<br />
+          письма партнеров «Сколково».
+        </mj-text>
+        <mj-text mj-class="footer__text" align="center">
+          <a href="https://sailplay.ru/spanel/#/" class="unsubscribe-url"
+            >Отписаться от рассылки</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
