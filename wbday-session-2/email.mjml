@@ -1,0 +1,200 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Roboto Flex, Helvetica, Arial, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" background-color="#18191A" />
+      <mj-class
+        name="titleText"
+        padding="0px 40px 0px 40px"
+        font-weight="900"
+        font-size="24px"
+        line-height="36px"
+        color="#FFFFFF"
+        font-style="italic"
+        text-transform="uppercase"
+      />
+      <mj-class
+        name="contentText"
+        padding="0px 40px 0px 40px"
+        font-weight="600"
+        font-size="15px"
+        line-height="20px"
+        color="#FFFFFF"
+      />
+      <mj-class name="hero-image" padding="0" width="640px" />
+      <mj-class
+        name="sessionTitle"
+        padding="50px 40px 20px 40px"
+        font-weight="400"
+        font-size="36px"
+        line-height="14px"
+        font-style="italic"
+        text-transform="uppercase"
+      />
+      <mj-class
+        name="sessionName"
+        padding="0px 40px 10px 40px"
+        font-weight="600"
+        font-size="15px"
+        line-height="18px"
+        color="#FF8A00"
+      />
+      <mj-class
+        name="sessionText"
+        padding="0px 40px 0px 40px"
+        font-weight="600"
+        font-size="12px"
+        line-height="16px"
+        color="#FFFFFF"
+      />
+      <mj-class
+        name="button"
+        border-radius="0"
+        padding="0"
+        inner-padding="6px 20px"
+        font-style="italic"
+        font-weight="900"
+        font-size="24px"
+        line-height="36px"
+        text-transform="uppercase"
+      />
+      <mj-class name="footer" padding="36px 0 0" />
+      <mj-class
+        name="footer__text"
+        padding="0 53px 34px 47px"
+        font-weight="400"
+        font-size="14px"
+        line-height="16px"
+        color="rgba(255, 255, 255, 0.5)"
+      />
+    </mj-attributes>
+    <mj-style> </mj-style>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/fDdN6T4/hero-img.png"
+          alt="Title image"
+        />
+        <mj-text mj-class="contentText" padding-top="40px" padding-bottom="40px"
+          ><span style="color: #ff8a00">Конференция Wildberries Day 2023 </span
+          >стартует через несколько<br />часов в Технопарке «Сколково» по
+          адресу:<span style="color: #ff8a00">
+            Москва, Большой бульвар, 42, строение 1.</span
+          >
+        </mj-text>
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/h8GyZ8C/cart.png"
+          alt="Карта расположения"
+        />
+        <mj-text mj-class="contentText" padding-top="30px" padding-bottom="20px"
+          >Выберите удобный способ проезда. До Технопарка «Сколково» можно
+          добраться на личном автомобиле, такси, каршеринге, автобусе или
+          электричке. 
+        </mj-text>
+        <mj-text mj-class="contentText" padding-bottom="40px"
+          >Обращаем внимание, что личный транспорт можно оставить на
+          перехватывающих платных парковках. 
+        </mj-text>
+        <mj-button
+          mj-class="button"
+          href="https://sk.ru/transport/?utm_source=email_in&utm_medium=letter&utm_campaign=7"
+          width="520px"
+          background-color="#FF037E"
+          css-class="css-button"
+          padding-bottom="40px"
+          >Как добраться?</mj-button
+        >
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/RPHpzkq/bg-img.png"
+          alt="До начала конференции необходимо пройти регистрацию и получить бейдж, поэтому просим вас приехать заранее. Регистрация участников начнется в 10:00 на первом этаже Технопарка «Сколково». Официальное открытие конференции — в 11:00 на третьем этаже в зале «Казан»."
+        />
+        <mj-text mj-class="contentText" padding-top="50px" padding-bottom="30px"
+          >Совсем скоро наши эксперты — представители технологического, научного
+          и бизнес-сообществ — поделятся с вами уникальной информацией об
+          инновационных разработках, научных и бизнес-трендах!
+        </mj-text>
+        <mj-text mj-class="sessionTitle" color="#00DEFF">
+          Rocket science
+        </mj-text>
+        <mj-text mj-class="sessionName">
+          Как устроен поиск Wildberries
+        </mj-text>
+        <mj-text mj-class="sessionText">
+          Игорь Гордиенко, руководитель Поиска и Каталога Wildberries, расскажет
+          как научить поисковую систему обрабатывать даже запросы, которые плохо
+          сформулированы.
+        </mj-text>
+        <mj-text mj-class="sessionTitle" color="#F200FF"> FUTURE TECH </mj-text>
+        <mj-text mj-class="sessionName">
+          Большие нейросетевые модели: успехи и проблемы
+        </mj-text>
+        <mj-text mj-class="sessionText">
+          Иван Оселедец, директор центра технологий ИИ «Сколтеха», профессор
+          РАН, расскажет как развиваются нейросетевые модели и с какими
+          сложностями сталкиваются ученые и практики в этой области.
+        </mj-text>
+        <mj-text mj-class="sessionTitle" color="#66FFA4"> BUSINESS </mj-text>
+        <mj-text mj-class="sessionName">
+          Как создать миллиардную частную космическую компанию в РФ — история SR
+          Space
+        </mj-text>
+        <mj-text mj-class="sessionText">
+          Игорь Кожелин, сооснователь частной космической технологической
+          компании SR Data, поделится, каково это, создать частную космическую
+          компанию в России и согласовать запуск космической ракеты.
+        </mj-text>
+        <mj-button
+          mj-class="button"
+          href="https://wbday.wildberries.ru/?utm_source=email_in&utm_medium=letter&utm_campaign=7#program"
+          width="520px"
+          background-color="#5A08E4"
+          padding-bottom="100px"
+          padding-top="60px"
+          css-class="css-button"
+          >Программа</mj-button
+        >
+        <mj-image
+          href="https://t.me/wbdaychat"
+          src="https://i.ibb.co/gz2gK9s/telegram-icon.png"
+          alt="WBDay Telegram Icon"
+          width="25px"
+          padding-bottom="40px"
+        />
+
+        <mj-text
+          font-weight="900"
+          font-size="24px"
+          line-height="36px"
+          align="center"
+          color="#FFFFFF"
+          padding-bottom="15px"
+          font-style="italic"
+          >Встречаемся в Технопарке<br />«Сколково» 
+        </mj-text>
+        <mj-text padding-top="50px" mj-class="footer__text" align="justify">
+          Вы получили эту рассылку, так как подписаны на рассылки от
+          «Сколково<br />Форум», посвященные конкурсам и мероприятиям «Startup
+          Tour», «Startup<br />
+          Village» и «Nobel Vision. Открытые инновации», а также
+          информационные<br />
+          письма партнеров «Сколково».
+        </mj-text>
+        <mj-text mj-class="footer__text" align="center" padding-bottom="50px">
+          <a
+            style="color: rgba(255, 255, 255, 0.5)"
+            href="$[unsubscribe_url]"
+            class="unsubscribe-url"
+            >Отписаться от рассылки</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
