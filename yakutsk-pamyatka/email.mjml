@@ -110,7 +110,7 @@
 
         <mj-button
           mj-class="button"
-          href="https://startup-tour.ru/city/perm/program?utm_source=email_in&utm_medium=letter&utm_campaign=4"
+          href="https://test.ru"
           width="532px"
           background-color="#5C3EAC"
           css-class="css-button"
@@ -133,7 +133,7 @@
 
         <mj-button
           mj-class="button"
-          href="https://startup-tour.ru/login?utm_source=email_in&utm_medium=letter&utm_campaign=4"
+          href="https://test.ru"
           width="532px"
           background-color="#CE294D"
           font-size="20px"
@@ -141,139 +141,56 @@
           css-class="css-button"
           >Распечатать бейдж</mj-button
         >
-      </mj-column>
-    </mj-section>
-    <mj-section
-      mj-class="section"
-      background-url="https://i.ibb.co/jzSDH07/bg.png"
-    >
-      <mj-column>
-        <mj-text
-          mj-class="textRegular20"
-          padding-bottom="22px"
-          padding-top="43px"
-          css-class="css-text"
-        >
-          В рамках события пройдет конкурс стартапов. Финалистов ждут подарки от
-          партнеров и другие возможности для проектов, а победитель получит
-          денежный приз в размере 300 000 рублей.</mj-text
-        >
-        <mj-text
-          mj-class="textRegular20"
-          padding-bottom="48px"
-          css-class="css-text"
-        >
-          Список участников, прошедших отбор в вашем регионе, доступен на нашем
-          сайте в разделе «Города» — «Якутск» — «Полуфиналисты».</mj-text
-        >
-        <mj-button
-          mj-class="button"
-          href="https://t.me/skolkovolive"
-          width="532px"
-          background-color="#FFFFFF"
-          color="#5C3EAC"
-          css-class="css-button"
-          >Полуфиналисты</mj-button
-        >
-        <mj-text
-          mj-class="textRegular20"
-          padding-bottom="23px"
-          padding-top="40px"
-          css-class="css-text"
-        >
-          Полуфинал конкурса Startup Tour CreativeTECH Якутск состоится 12
-          апреля.</mj-text
-        >
-        <mj-text
-          mj-class="textRegular20"
-          padding-bottom="45px"
-          css-class="css-text"
-        >
-          Время и кабинет, в котором будет проводиться конкурс по вашей
-          номинации, смотрите на сайте.</mj-text
-        >
-        <mj-button
-          mj-class="button"
-          href="https://t.me/skolkovolive"
-          width="532px"
-          background-color="#FFFFFF"
-          color="#5C3EAC"
-          css-class="css-button"
-          >Расписание</mj-button
-        >
-        <mj-text
-          mj-class="textRegular20"
-          padding-bottom="23px"
-          padding-top="48px"
-          css-class="css-text"
-        >
-          Убедительно просим приезжать на площадку за полчаса до начала конкурса
-          по вашей номинации.
-        </mj-text>
-        <mj-text
-          mj-class="textRegular20"
-          padding-bottom="23px"
-          css-class="css-text"
-        >
-          Для прохода на площадку будет необходимо предъявить
-          <span class="yellow-span"
-            >бейдж, который нужно заранее распечатать.</span
-          >
-          Он находится в личном кабинете на сайте Startup Tour 2023.
-        </mj-text>
-        <mj-text
-          mj-class="textRegular20"
-          padding-bottom="23px"
-          css-class="css-text"
-        >
-          Не забудьте взять с собой флешку с презентацией проекта. Тайминг
-          выступления: 5 мин презентация и 5 мин вопросы/комментарий жюри.
-        </mj-text>
-        <mj-text
-          mj-class="textRegular20"
-          padding-bottom="41px"
-          css-class="css-text"
-        >
-          Очередность выступления на конкурсе будет соответствовать списку
-          полуфиналистов, который вывешен на сайте.
-        </mj-text>
-        <mj-button
-          mj-class="button"
-          href="https://t.me/skolkovolive"
-          width="532px"
-          background-color="#FFFFFF"
-          color="#5C3EAC"
-          css-class="css-button"
-          >Очередность выступлений</mj-button
-        >
-        <mj-text
-          mj-class="textRegular20"
-          padding-bottom="50px"
-          padding-top="48px"
-          css-class="css-text"
-        >
-          Зарегистрируйтесь на сайте Стартап-тура 2023 в категории «стартап» — и
-          получите доступ к серии обучающих видеолекций и мастер-классов для
-          технологических предпринимателей Skolkovo Mini MBA.
-        </mj-text>
-        <mj-button
-          mj-class="button"
-          href="https://startup-tour.ru/highlights"
-          width="532px"
-          background-color="#FFFFFF"
-          color="#5C3EAC"
-          css-class="css-button"
-          padding-bottom="40px"
-          >самое интересное</mj-button
-        >
-        <mj-text
-          mj-class="textRegular20"
-          align="center"
-          padding-bottom="106px"
-          css-class="css-text"
-        >
-          <span>До встречи на Startup Tour 2023! </span>
-        </mj-text>
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/FBhfKNC/bg-img-1.png"
+          alt="В рамках события пройдет конкурс стартапов. Финалистов ждут подарки от партнеров и другие возможности для проектов, а победитель получит денежный приз в размере 300 000 рублей. Список участников, прошедших отбор в вашем регионе, доступен на нашем сайте в разделе «Города» — «Якутск» — «Полуфиналисты»."
+        />
+        <mj-image
+          mj-class="hero-image"
+          href="https://test.ru"
+          src="https://i.ibb.co/wrncw7J/bg-link-1.png"
+          alt="Полуфиналисты"
+        />
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/N2SKNZz/bg-img-2.png"
+          alt="Полуфинал конкурса Startup Tour CreativeTECH Якутск состоится 12 апреля. Время и кабинет, в котором будет проводиться конкурс по вашей номинации, смотрите на сайте."
+        />
+        <mj-image
+          mj-class="hero-image"
+          href="https://test.ru"
+          src="https://i.ibb.co/gyng19y/bg-link-2.png"
+          alt="Расписание"
+        />
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/rmKQTvZ/bg-img-3.png"
+          alt="Убедительно просим приезжать на площадку за полчаса до начала конкурса по вашей номинации. Для прохода на площадку будет необходимо предъявить бейдж, который нужно заранее распечатать. Он находится в личном кабинете на сайте Startup Tour 2023. Не забудьте взять с собой флешку с презентацией проекта. Тайминг выступления: 5 мин. презентация и 5 мин. вопросы/комментарии жюри. Очередность выступления на конкурсе будет соответствовать списку полуфиналистов, который вывешен на сайте.
+"
+        />
+        <mj-image
+          mj-class="hero-image"
+          href="https://test.ru"
+          src="https://i.ibb.co/GCq8sQN/bg-link-3.png"
+          alt="Очередность выступлений"
+        />
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/S3ZZ2xm/bg-img-4.png"
+          alt="Зарегистрируйте на сайте Стартап-тура 2023 в категории «стартап» — и получите доступ к серии обучающих видеолекций и мастер-классов для технологических предпринимателей Skolkovo Mini MBA."
+        />
+        <mj-image
+          mj-class="hero-image"
+          href="https://test.ru"
+          src="https://i.ibb.co/LCDZXHj/bg-link-4.png"
+          alt="Самое интересное"
+        />
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/Nnk07cS/bg-img-5.png"
+          alt="До встречи на Startup Tour 2023!"
+        />
       </mj-column>
     </mj-section>
     <mj-section
@@ -320,7 +237,7 @@
           письма партнеров «Сколково».
         </mj-text>
         <mj-text mj-class="footer__text" align="center">
-          <a href="https://sailplay.ru/spanel/#/" class="unsubscribe-url"
+          <a href="$[unsubscribe_url]" class="unsubscribe-url"
             >Отписаться от рассылки</a
           >
         </mj-text>
