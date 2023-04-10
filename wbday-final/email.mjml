@@ -1,0 +1,104 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Roboto Flex, Helvetica, Arial, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" background-color="#18191A" />
+      <mj-class
+        name="titleText"
+        padding="0px 40px 0px 40px"
+        font-weight="900"
+        font-size="24px"
+        line-height="36px"
+        color="#FFFFFF"
+        font-style="italic"
+        text-transform="uppercase"
+      />
+      <mj-class
+        name="contentText"
+        padding="0px 40px 0px 40px"
+        font-weight="600"
+        font-size="15px"
+        line-height="20px"
+        color="#FFFFFF"
+      />
+      <mj-class name="hero-image" padding="0" width="640px" />
+      <mj-class name="footer" padding="36px 0 0" />
+      <mj-class
+        name="footer__text"
+        padding="0 53px 34px 47px"
+        font-weight="400"
+        font-size="14px"
+        line-height="16px"
+        color="rgba(255, 255, 255, 0.5)"
+      />
+    </mj-attributes>
+    <mj-style> </mj-style>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/J749MHF/hero-img.png"
+          alt="Title image"
+        />
+        <mj-text mj-class="contentText" padding-top="40px" padding-bottom="20px"
+          >7 апреля прошла ежегодная конференция о технологиях, бизнесе, науке и
+          трендах будущего<span style="color: #ff8a00">
+            Wildberries Day 2023!
+          </span>
+        </mj-text>
+        <mj-text mj-class="contentText" padding-bottom="40px"
+          >Эксперты — представители инновационного, научного и бизнес-сообществ
+          — разобрали сложные технологические кейсы, определили актуальные
+          тренды в ритейле, финтехе и IT, поделились историями успеха и
+          футуристическими прогнозами о космосе, фудтехе, биомедицине,
+          образовании.
+        </mj-text>
+        <mj-image
+          mj-class="hero-image"
+          href="https://test.ru/"
+          src="https://i.ibb.co/7WQ63Mk/bg-img.png"
+          alt="Мы будем благодарны, если вы найдете время, чтобы пройти опрос, и поделитесь с нами своими впечатлениями о мероприятии. Нажмите на картинку, чтобы пройти опрос."
+        />
+        <mj-image
+          padding-top="100px"
+          href="https://t.me/wbdaychat"
+          src="https://i.ibb.co/gz2gK9s/telegram-icon.png"
+          alt="WBDay Telegram Icon"
+          width="25px"
+          padding-bottom="40px"
+        />
+
+        <mj-text
+          font-weight="900"
+          font-size="24px"
+          line-height="36px"
+          align="center"
+          color="#FFFFFF"
+          padding-bottom="15px"
+          font-style="italic"
+          >Спасибо, что были с нами!
+        </mj-text>
+        <mj-text padding-top="50px" mj-class="footer__text" align="justify">
+          Вы получили эту рассылку, так как подписаны на рассылки от
+          «Сколково<br />Форум», посвященные конкурсам и мероприятиям «Startup
+          Tour», «Startup<br />
+          Village» и «Nobel Vision. Открытые инновации», а также
+          информационные<br />
+          письма партнеров «Сколково».
+        </mj-text>
+        <mj-text mj-class="footer__text" align="center" padding-bottom="50px">
+          <a
+            style="color: rgba(255, 255, 255, 0.5)"
+            href="$[unsubscribe_url]"
+            class="unsubscribe-url"
+            >Отписаться от рассылки</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
