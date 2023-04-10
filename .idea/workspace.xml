@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8295ff39-ab88-488d-a1de-19fb0b083605" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Рассылки.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yakutsk-pamyatka/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yakutsk-pamyatka/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yakutsk-pamyatka/.idea/test.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="MJML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MPa6cGjnqFmXnrk3MPn9VlO3G1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexandr Nechkasov/Desktop/base-emails&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\Alexandr Nechkasov\\AppData\\Roaming\\npm\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alexandr Nechkasov\Desktop\base-mails" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8295ff39-ab88-488d-a1de-19fb0b083605" name="Changes" comment="" />
+      <created>1677671496901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677671496901</updated>
+      <workItem from="1677671498052" duration="4832000" />
+      <workItem from="1677750959027" duration="29000" />
+      <workItem from="1678714696623" duration="7429000" />
+      <workItem from="1678725605986" duration="1402000" />
+      <workItem from="1678964951905" duration="28000" />
+      <workItem from="1678970238693" duration="9351000" />
+      <workItem from="1679081016969" duration="623000" />
+      <workItem from="1679149623195" duration="1281000" />
+      <workItem from="1679491917291" duration="7686000" />
+      <workItem from="1679501105403" duration="3400000" />
+      <workItem from="1679544115087" duration="14229000" />
+      <workItem from="1679565074095" duration="531000" />
+      <workItem from="1679565665084" duration="823000" />
+      <workItem from="1679907037922" duration="14000" />
+      <workItem from="1679907062414" duration="102000" />
+      <workItem from="1679921609546" duration="13000" />
+      <workItem from="1679989742055" duration="7034000" />
+      <workItem from="1680003340896" duration="11000" />
+      <workItem from="1680008233493" duration="1582000" />
+      <workItem from="1680081310520" duration="1281000" />
+      <workItem from="1680095218913" duration="1388000" />
+      <workItem from="1680159594861" duration="164000" />
+      <workItem from="1680171985159" duration="637000" />
+      <workItem from="1680513446528" duration="1194000" />
+      <workItem from="1680515026827" duration="4904000" />
+      <workItem from="1680520548725" duration="13635000" />
+      <workItem from="1680594407076" duration="300000" />
+      <workItem from="1680594750067" duration="280000" />
+      <workItem from="1680596718780" duration="210000" />
+      <workItem from="1680615020976" duration="5162000" />
+      <workItem from="1680705577909" duration="299000" />
+      <workItem from="1680709323856" duration="537000" />
+      <workItem from="1680774309846" duration="15000" />
+      <workItem from="1680775134139" duration="1701000" />
+      <workItem from="1680777085176" duration="482000" />
+      <workItem from="1680777598529" duration="8000" />
+      <workItem from="1680779044702" duration="636000" />
+      <workItem from="1680779762103" duration="27000" />
+      <workItem from="1680779933188" duration="158000" />
+      <workItem from="1680780101693" duration="271000" />
+      <workItem from="1680784223823" duration="2720000" />
+      <workItem from="1680787622060" duration="19000" />
+      <workItem from="1680790572686" duration="8000" />
+      <workItem from="1680794164711" duration="1316000" />
+      <workItem from="1680855826911" duration="1709000" />
+      <workItem from="1681111716649" duration="4287000" />
+      <workItem from="1681117558736" duration="16000" />
+      <workItem from="1681128511050" duration="290000" />
+      <workItem from="1681136979951" duration="1287000" />
+      <workItem from="1681138778186" duration="1655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
