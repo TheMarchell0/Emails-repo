@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8295ff39-ab88-488d-a1de-19fb0b083605" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Рассылки.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yakutsk-pamyatka/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yakutsk-pamyatka/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yakutsk-pamyatka/.idea/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wbday-speakers-final/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/wbday-speakers-final/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wbday-speakers-final/Благодарим спикеров WBDay.html" beforeDir="false" afterPath="$PROJECT_DIR$/wbday-speakers-final/Благодарим спикеров WBDay.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +104,8 @@
       <workItem from="1681117558736" duration="16000" />
       <workItem from="1681128511050" duration="290000" />
       <workItem from="1681136979951" duration="1287000" />
-      <workItem from="1681138778186" duration="1655000" />
+      <workItem from="1681138778186" duration="1722000" />
+      <workItem from="1681200760393" duration="368000" />
     </task>
     <servers />
   </component>
