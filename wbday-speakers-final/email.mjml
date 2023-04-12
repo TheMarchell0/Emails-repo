@@ -45,13 +45,10 @@
                 alt="Title image"
         />
         <mj-text mj-class="contentText" padding-top="40px" padding-bottom="30px"
-        >От лица Wildberries благодарим Вас за участие и значительный
-          содержательный вклад в формирование программы ежегодной
-          конференции<span style="color: #ff8a00"> Wildberries Day 2023! </span>
+        >От лица Wildberries благодарим Вас за участие и значительный вклад в формирование программы конференции<span style="color: #ff8a00"> Wildberries Day 2023! </span>
         </mj-text>
         <mj-text mj-class="contentText" padding-bottom="40px"
-        >Ее результатом стало 1 насыщенный день, более 1000 участников, 17
-          увлекательных тем по 3-м трекам:
+        >Ее результатом стали 1 насыщенный день, более 1000 участников, 17 увлекательных тем в 3-х треках:
         </mj-text>
         <mj-image
                 mj-class="hero-image"
