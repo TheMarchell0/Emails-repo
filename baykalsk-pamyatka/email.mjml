@@ -113,7 +113,7 @@
 
         <mj-button
           mj-class="button"
-          href="https://test.ru"
+          href="https://startup-tour.ru/city/baykalsk/program?utm_source=email_in&utm_medium=letter&utm_campaign=4"
           width="532px"
           background-color="#5C3EAC"
           css-class="css-button"
@@ -133,7 +133,7 @@
 
         <mj-button
           mj-class="button"
-          href="https://test.ru"
+          href="https://startup-tour.ru/login?utm_source=email_in&utm_medium=letter&utm_campaign=4"
           width="532px"
           background-color="#CE294D"
           font-size="20px"
@@ -148,7 +148,7 @@
         />
         <mj-image
           mj-class="hero-image"
-          href="https://test.ru"
+          href="https://startup-tour.ru/city/baykalsk/contest-baykalsk?utm_source=email_in&utm_medium=letter&utm_campaign=4"
           src="https://i.ibb.co/SdnWp72/bg-link-1.png"
           alt="Полуфиналисты"
         />
@@ -159,7 +159,7 @@
         />
         <mj-image
           mj-class="hero-image"
-          href="https://test.ru"
+          href="https://startup-tour.ru/city/baykalsk/program?utm_source=email_in&utm_medium=letter&utm_campaign=4"
           src="https://i.ibb.co/vhRmR0c/bg-link-2.png"
           alt="Расписание"
         />
@@ -170,7 +170,7 @@
         />
         <mj-image
           mj-class="hero-image"
-          href="https://test.ru"
+          href="https://startup-tour.ru/city/baykalsk/contest-baykalsk?utm_source=email_in&utm_medium=letter&utm_campaign=4"
           src="https://i.ibb.co/6bVXvCp/bg-link-3.png"
           alt="Очередность выступлений"
         />
@@ -181,7 +181,7 @@
         />
         <mj-image
           mj-class="hero-image"
-          href="https://test.ru"
+          href="https://startup-tour.ru/highlights"
           src="https://i.ibb.co/cXdNCT4/bg-link-4.png"
           alt="Самое интересное"
         />
