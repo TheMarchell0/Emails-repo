@@ -6,63 +6,63 @@
       <mj-class name="body" width="600px" background-color="#FFFFFF" />
       <mj-class name="section" padding="0" />
       <mj-class
-        name="titleBold27"
-        padding="0 35px"
-        font-weight="700"
-        font-size="27px"
-        line-height="31px"
-        color="#000000"
-        text-transform="uppercase"
+              name="titleBold27"
+              padding="0 35px"
+              font-weight="700"
+              font-size="27px"
+              line-height="31px"
+              color="#000000"
+              text-transform="uppercase"
       />
       <mj-class
-        name="titleBold14"
-        padding="0 35px"
-        font-weight="700"
-        font-size="14px"
-        line-height="18px"
-        color="#000000"
+              name="titleBold14"
+              padding="0 35px"
+              font-weight="700"
+              font-size="14px"
+              line-height="18px"
+              color="#000000"
       />
       <mj-class
-        name="textRegular18"
-        padding="0 35px"
-        font-size="18px"
-        line-height="21px"
-        color="#000000"
+              name="textRegular18"
+              padding="0 35px"
+              font-size="18px"
+              line-height="21px"
+              color="#000000"
       />
       <mj-class
-        name="textRegular20"
-        padding="0 35px"
-        font-size="20px"
-        line-height="23px"
-        color="#FFFFFF"
+              name="textRegular20"
+              padding="0 35px"
+              font-size="20px"
+              line-height="23px"
+              color="#FFFFFF"
       />
       <mj-class name="hero-image" padding="0" width="600px" />
       <mj-class name="image" padding="0 56px" width="640px" />
       <mj-class
-        name="button"
-        border-radius="22px"
-        padding="0"
-        inner-padding="16px 20px"
-        font-weight="700"
-        font-size="16px"
-        line-height="18.4px"
-        color="#FFFFFF"
-        text-transform="uppercase"
+              name="button"
+              border-radius="22px"
+              padding="0"
+              inner-padding="16px 20px"
+              font-weight="700"
+              font-size="16px"
+              line-height="18.4px"
+              color="#FFFFFF"
+              text-transform="uppercase"
       />
       <mj-class name="footer" padding="13px 0 0" />
       <mj-class
-        name="footer__text"
-        padding="0 53px 34px 47px"
-        font-weight="400"
-        font-size="14px"
-        line-height="16px"
-        color="#A5A5A5"
+              name="footer__text"
+              padding="0 53px 34px 47px"
+              font-weight="400"
+              font-size="14px"
+              line-height="16px"
+              color="#A5A5A5"
       />
       <mj-class name="purple-link" color="#5C3EAC" />
     </mj-attributes>
     <mj-style>
       span { font-weight: 700; } .purple-link { color: #5C3EAC; font-weight:
-      700; } .red-span { color: #E20E18; } .yellow-span { color: #D4E511; }
+              700; } .red-span { color: #E20E18; } .yellow-span { color: #D4E511; }
       .unsubscribe-url { color:#A5A5A5 }
     </mj-style>
   </mj-head>
@@ -70,41 +70,41 @@
     <mj-section mj-class="section">
       <mj-column>
         <mj-image
-          mj-class="hero-image"
-          css-class="css-image"
-          src="https://i.ibb.co/ccdNjqc/title-img.png"
-          alt="Hero cover"
+                mj-class="hero-image"
+                css-class="css-image"
+                src="https://i.ibb.co/ccdNjqc/title-img.png"
+                alt="Hero cover"
         />
         <mj-text
-          mj-class="titleBold27"
-          padding-bottom="24px"
-          padding-top="40px"
-          css-class="css-text"
+                mj-class="titleBold27"
+                padding-bottom="24px"
+                padding-top="40px"
+                css-class="css-text"
         >
           Дорогие гости и участники!
         </mj-text>
         <mj-text
-          mj-class="textRegular18"
-          padding-bottom="40px"
-          css-class="css-text"
+                mj-class="textRegular18"
+                padding-bottom="40px"
+                css-class="css-text"
         >
           Startup Tour 2023 состоится<b> 19 апреля.</b><br />
           Официальное открытие начнется в 11:00 по адресу:<br />
           <b
-            >г. Байкальск, Всероссийский молодежный экологический кампус
+          >г. Байкальск, Всероссийский молодежный экологический кампус
             «ЭКО.ЦЕХ».</b
           >
         </mj-text>
         <mj-image
-          mj-class="hero-image"
-          src="https://i.ibb.co/BfHhGGf/card.png"
-          alt="Карта расположения места"
-          padding-bottom="40px"
+                mj-class="hero-image"
+                src="https://i.ibb.co/BfHhGGf/card.png"
+                alt="Карта расположения места"
+                padding-bottom="40px"
         />
         <mj-text
-          mj-class="textRegular18"
-          padding-bottom="40px"
-          css-class="css-text"
+                mj-class="textRegular18"
+                padding-bottom="40px"
+                css-class="css-text"
         >
           Ознакомиться с программой мероприятия можно на сайте
           <a href="startup-tour.ru" class="purple-link"> startup-tour.ru</a> в
@@ -112,18 +112,18 @@
         </mj-text>
 
         <mj-button
-          mj-class="button"
-          href="https://startup-tour.ru/city/baykalsk/program?utm_source=email_in&utm_medium=letter&utm_campaign=4"
-          width="532px"
-          background-color="#5C3EAC"
-          css-class="css-button"
-          >Программа</mj-button
+                mj-class="button"
+                href="https://startup-tour.ru/city/baykalsk/program?utm_source=email_in&utm_medium=letter&utm_campaign=4"
+                width="532px"
+                background-color="#5C3EAC"
+                css-class="css-button"
+        >Программа</mj-button
         >
         <mj-text
-          mj-class="textRegular18"
-          padding-bottom="40px"
-          padding-top="40px"
-          css-class="css-text"
+                mj-class="textRegular18"
+                padding-bottom="40px"
+                padding-top="40px"
+                css-class="css-text"
         >
           Напоминаем: до начала мероприятия необходимо
           <span class="red-span">распечатать бейдж.</span> — это ваш пропуск на
@@ -132,96 +132,180 @@
         </mj-text>
 
         <mj-button
-          mj-class="button"
-          href="https://startup-tour.ru/login?utm_source=email_in&utm_medium=letter&utm_campaign=4"
-          width="532px"
-          background-color="#CE294D"
-          font-size="20px"
-          padding-bottom="40px"
-          css-class="css-button"
-          >Распечатать бейдж</mj-button
+                mj-class="button"
+                href="https://startup-tour.ru/login?utm_source=email_in&utm_medium=letter&utm_campaign=4"
+                width="532px"
+                background-color="#CE294D"
+                font-size="20px"
+                padding-bottom="40px"
+                css-class="css-button"
+        >Распечатать бейдж</mj-button
         >
-        <mj-image
-          mj-class="hero-image"
-          src="https://i.ibb.co/XY5FTR3/bg-img-1.png"
-          alt="В рамках события пройдет конкурс стартапов. Финалистов ждут подарки от партнеров и другие возможности для проектов, а победитель получит денежный приз в размере 300 000 рублей. Список участников, прошедших отбор в вашем регионе, доступен на нашем сайте в разделе «Города» — «Байкальск» — «Полуфиналисты»."
-        />
-        <mj-image
-          mj-class="hero-image"
-          href="https://startup-tour.ru/city/baykalsk/contest-baykalsk?utm_source=email_in&utm_medium=letter&utm_campaign=4"
-          src="https://i.ibb.co/SdnWp72/bg-link-1.png"
-          alt="Полуфиналисты"
-        />
-        <mj-image
-          mj-class="hero-image"
-          src="https://i.ibb.co/2kN4wRC/bg-img-2.png"
-          alt="Полуфинал конкурса Startup Tour CreativeTECH в Байкальске состоится 19 апреля. Время и кабинет, в котором будет проводиться конкурс по вашей номинации, смотрите на сайте."
-        />
-        <mj-image
-          mj-class="hero-image"
-          href="https://startup-tour.ru/city/baykalsk/program?utm_source=email_in&utm_medium=letter&utm_campaign=4"
-          src="https://i.ibb.co/vhRmR0c/bg-link-2.png"
-          alt="Расписание"
-        />
-        <mj-image
-          mj-class="hero-image"
-          src="https://i.ibb.co/NKyVKq0/bg-img-3.png"
-          alt="Убедительно просим приезжать на площадку за полчаса до начала конкурса по вашей номинации. Для прохода на площадку будет необходимо предъявить бейдж, который нужно заранее распечатать. Он находится в личном кабинете на сайте Startup Tour 2023. Не забудьте взять с собой флешку с презентацией проекта. Тайминг выступления: 5 мин. презентация и 5 мин. вопросы/комментарии жюри. Очередность выступления на конкурсе будет соответствовать списку полуфиналистов, который вывешен на сайте."
-        />
-        <mj-image
-          mj-class="hero-image"
-          href="https://startup-tour.ru/city/baykalsk/contest-baykalsk?utm_source=email_in&utm_medium=letter&utm_campaign=4"
-          src="https://i.ibb.co/6bVXvCp/bg-link-3.png"
-          alt="Очередность выступлений"
-        />
-        <mj-image
-          mj-class="hero-image"
-          src="https://i.ibb.co/7XPDnPx/bg-img-4.png"
-          alt="Зарегистрируйте на сайте Стартап-тура 2023 в категории «стартап» — и получите доступ к серии обучающих видеолекций и мастер-классов для технологических предпринимателей Skolkovo Mini MBA."
-        />
-        <mj-image
-          mj-class="hero-image"
-          href="https://startup-tour.ru/highlights"
-          src="https://i.ibb.co/cXdNCT4/bg-link-4.png"
-          alt="Самое интересное"
-        />
-        <mj-image
-          mj-class="hero-image"
-          src="https://i.ibb.co/vQyYKG4/bg-img-5.png"
-          alt="До встречи на Startup Tour 2023!"
-        />
       </mj-column>
     </mj-section>
     <mj-section
-      background-color="#3C2B69"
-      padding-top="10px"
-      padding-bottom="0"
+            mj-class="section"
+            background-url="https://i.ibb.co/M7qtBRR/bg.png">
+      <mj-column>
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="400"
+                line-height="23px"
+                padding="42px 35px 30px 35px"
+        >
+          В рамках события пройдет конкурс стартапов. Финалистов ждут подарки от партнеров и другие возможности для проектов, а победитель получит денежный приз в размере 300 000 рублей.</mj-text
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="400"
+                line-height="23px"
+                padding="0px 35px 50px 35px"
+        >
+          Список участников, прошедших отбор в вашем регионе, доступен на нашем сайте в разделе «Города» — «Байкальск» — «Полуфиналисты».</mj-text
+        >
+        <mj-button
+                mj-class="button"
+                href="https://startup-tour.ru/city/baykalsk/contest-baykalsk?utm_source=email_in&utm_medium=letter&utm_campaign=4"
+                width="532px"
+                background-color="#FFFFFF"
+                color="#5C3EAC"
+                padding-bottom="42px"
+        >Полуфиналисты</mj-button
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="400"
+                line-height="23px"
+                padding="0px 35px 30px 35px"
+        >
+          Полуфинал конкурса Startup Tour CreativeTECH в Байкальске состоится 19 апреля.</mj-text
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="400"
+                line-height="23px"
+                padding="0px 35px 45px 35px"
+        >
+          Время и кабинет, в котором будет проводиться конкурс по вашей номинации, смотрите на сайте.</mj-text
+        >
+        <mj-button
+                mj-class="button"
+                href="https://startup-tour.ru/city/baykalsk/program?utm_source=email_in&utm_medium=letter&utm_campaign=4"
+                width="532px"
+                background-color="#FFFFFF"
+                color="#5C3EAC"
+                padding-bottom="50px"
+        >расписание</mj-button
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="400"
+                line-height="23px"
+                padding="0px 35px 30px 35px"
+        >
+          Убедительно просим приезжать на площадку за полчаса до начала конкурса по вашей номинации.</mj-text
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="400"
+                line-height="23px"
+                padding="0px 35px 20px 35px"
+        >
+          Для прохода на площадку будет необходимо предъявить <b style="color:#D4E511">бейдж, который нужно заранее распечатать.</b> Он находится в личном кабинете на сайте Startup Tour 2023.</mj-text
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="400"
+                line-height="23px"
+                padding="0px 35px 30px 35px"
+        >
+          Не забудьте взять с собой флешку с презентацией проекта. Тайминг выступления: 5 мин. презентация и 5 мин. вопросы/комментарии жюри.</mj-text
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="400"
+                line-height="23px"
+                padding="0px 35px 40px 35px"
+        >
+          Очередность выступления на конкурсе будет соответствовать списку полуфиналистов, который вывешен на сайте.</mj-text
+        >
+        <mj-button
+                mj-class="button"
+                href="https://startup-tour.ru/city/baykalsk/contest-baykalsk?utm_source=email_in&utm_medium=letter&utm_campaign=4"
+                width="532px"
+                background-color="#FFFFFF"
+                color="#5C3EAC"
+                padding-bottom="50px"
+        >очередность выступлений</mj-button
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="400"
+                line-height="23px"
+                padding="0px 35px 47px 35px"
+        >
+          Зарегистрируйте на сайте Стартап-тура 2023 в категории «стартап» — и получите доступ к серии обучающих видеолекций и мастер-классов для технологических предпринимателей Skolkovo Mini MBA.</mj-text
+        >
+        <mj-button
+                mj-class="button"
+                href="https://startup-tour.ru/highlights"
+                width="532px"
+                background-color="#FFFFFF"
+                color="#5C3EAC"
+                padding-bottom="40px"
+        >самое интересное</mj-button
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="700"
+                line-height="23px"
+                align="center"
+                padding="0px 35px 96px 35px"
+        >
+          До встречи на Startup Tour 2023!</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+            background-color="#3C2B69"
+            padding-top="10px"
+            padding-bottom="0"
     >
       <mj-column
-        vertical-align="middle"
-        width="107px!important"
-        padding-bottom="10px"
+              vertical-align="middle"
+              width="107px!important"
+              padding-bottom="10px"
       >
         <mj-image
-          mj-class="hero-image"
-          src="https://i.ibb.co/LhtY5Tm/startup-tour.png"
-          alt="Image cover"
-          width="107px"
-          href="https://t.me/suv2018"
+                mj-class="hero-image"
+                src="https://i.ibb.co/LhtY5Tm/startup-tour.png"
+                alt="Image cover"
+                width="107px"
+                href="https://t.me/suv2018"
         />
       </mj-column>
 
       <mj-column
-        vertical-align="middle"
-        width="121px!important"
-        padding-bottom="10px"
+              vertical-align="middle"
+              width="121px!important"
+              padding-bottom="10px"
       >
         <mj-image
-          mj-class="hero-image"
-          src="https://i.ibb.co/5xx6fK8/skolkovo-live.png"
-          alt="Image cover"
-          width="121px"
-          href="https://t.me/skolkovolive"
+                mj-class="hero-image"
+                src="https://i.ibb.co/5xx6fK8/skolkovo-live.png"
+                alt="Image cover"
+                width="121px"
+                href="https://t.me/skolkovolive"
         />
       </mj-column>
     </mj-section>
@@ -237,7 +321,7 @@
         </mj-text>
         <mj-text mj-class="footer__text" align="center">
           <a href="$[unsubscribe_url]" class="unsubscribe-url"
-            >Отписаться от рассылки</a
+          >Отписаться от рассылки</a
           >
         </mj-text>
       </mj-column>

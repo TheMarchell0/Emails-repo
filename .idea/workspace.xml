@@ -4,6 +4,15 @@
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/baykalsk-pamyatka/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-img-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-img-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-img-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-img-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-img-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-link-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-link-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-link-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-link-4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/Байкальск-памятка.html" beforeDir="false" afterPath="$PROJECT_DIR$/baykalsk-pamyatka/Байкальск-памятка.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Alexandr Nechkasov/Desktop/base-emails",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexandr Nechkasov/Desktop/base-emails&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,7 +52,9 @@
       <workItem from="1681287396209" duration="1411000" />
       <workItem from="1681301133486" duration="882000" />
       <workItem from="1681309219408" duration="16000" />
-      <workItem from="1681485447937" duration="842000" />
+      <workItem from="1681485447937" duration="882000" />
+      <workItem from="1681488128610" duration="2514000" />
+      <workItem from="1681523673533" duration="2536000" />
     </task>
     <servers />
   </component>
