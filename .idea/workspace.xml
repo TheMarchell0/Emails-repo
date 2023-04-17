@@ -4,15 +4,6 @@
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/baykalsk-pamyatka/email.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-img-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-img-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-img-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-img-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-img-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-link-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-link-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-link-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/images/bg-link-4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/baykalsk-pamyatka/Байкальск-памятка.html" beforeDir="false" afterPath="$PROJECT_DIR$/baykalsk-pamyatka/Байкальск-памятка.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +45,8 @@
       <workItem from="1681309219408" duration="16000" />
       <workItem from="1681485447937" duration="882000" />
       <workItem from="1681488128610" duration="2514000" />
-      <workItem from="1681523673533" duration="2536000" />
+      <workItem from="1681523673533" duration="2914000" />
+      <workItem from="1681718278797" duration="1081000" />
     </task>
     <servers />
   </component>

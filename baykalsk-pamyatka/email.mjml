@@ -95,6 +95,24 @@
             «ЭКО.ЦЕХ».</b
           >
         </mj-text>
+        <mj-text
+                mj-class="textRegular18"
+                padding-bottom="20px"
+                css-class="css-text"
+        >
+          <b>Выберите удобный способ проезда:</b>
+        </mj-text>
+        <mj-text
+                padding="0px 30px 0px 30px"
+                font-weight="400"
+                font-size="18px"
+                line-height="20.7px"
+                color="#000000" padding-bottom="30px">
+          <ul>
+            <li style="padding-bottom:30px"><b>Остановка «Технический университет» (Политех)</b>, в направлении ул. Жуковского. Номера автобусов: Ютонг № т222мт; Грандбирд № в222ух; Гранд-Берд № У462ХМ 38.</li>
+            <li><b>Гостиница Ангара</b> (в районе центрального входа в гостиницу). Номера автобусов: KIA У262СХ38; YUTONG Т212НТ138.</li>
+          </ul>
+        </mj-text>
         <mj-image
                 mj-class="hero-image"
                 src="https://i.ibb.co/BfHhGGf/card.png"
