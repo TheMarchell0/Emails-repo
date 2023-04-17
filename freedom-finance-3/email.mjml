@@ -1,0 +1,133 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" background-color="#FFFFFF" />
+            <mj-class
+                    name="contentText"
+                    padding="0px 40px 0px 40px"
+                    font-weight="400"
+                    font-size="11px"
+                    line-height="17px"
+                    color="#000000"
+            />
+            <mj-class name="hero-image" padding="0" width="600px" />
+            <mj-class
+                    name="button"
+                    border-radius="0"
+                    padding="0"
+                    inner-padding="10px"
+                    font-weight="700"
+                    font-size="11px"
+                    line-height="10px"
+                    color="#FFFFFF"
+                    background-color="#649C47"
+                    width="128px"
+                    text-transform="uppercase"
+            />
+            <mj-class name="footer" padding="30px 0 0" />
+            <mj-class
+                    name="footer__text"
+                    font-weight="300"
+                    font-size="11px"
+                    line-height="11px"
+                    color="rgba(255, 255, 255, 0.6)"
+            />
+        </mj-attributes>
+        <mj-style> @media only screen and (max-width:610px) {
+
+            .list-text {
+                width: 310px!important;
+            }
+
+            .footer-item {
+                width: 100%!important;
+                padding-right:0!important;
+            }
+
+            .footer-item td {
+                padding: 11px 25px 10px 39px!important;
+            }
+        }</mj-style>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        src="https://i.ibb.co/m9jQ4R1/hero-img.png"
+                        alt="Title image"
+                />
+                <mj-text mj-class="contentText" padding-top="40px" padding-bottom="20px">Как заработать 70% от вложений на ценных бумагах? Приобрести акции заблокированных российских компаний. В наличии бумаги <b>Фикс Прайс (FIXP), TCS Group, Polymetal International, OZON</b> и других компаний с дисконтом до 75%.</mj-text>
+                <mj-button
+                        align="center"
+                        mj-class="button"
+                        href="https://t.me/Zimin_Maxim"
+                        width="168px"
+                >Подать заявку</mj-button
+                >
+                <mj-text color="#639B47" padding="40px 40px 20px 40px" font-weight="700" font-size="16px" line-height="17px" text-transform="uppercase">КАК ЭТО РАБОТАЕТ</mj-text>
+                <mj-text mj-class="contentText" padding-bottom="60px" >Вы приобретаете ценные бумаги по цене ниже рынка. Например, <b>акции Тинькофф</b> можно купить <b>за 1566 ₽</b> за бумагу, вместе 2710₽.<br/>
+                    После разблокировки — по оценкам экспертов, через 1-1,5 года — ваша прибыль составит <b>70% от актуальной на тот момент рыночной стоимости бумаг.</b></mj-text>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-image
+                                width="111px"
+                                src="https://i.ibb.co/ngxfx2K/mail-img.png"
+                        ></mj-image>
+                    </mj-column>
+                    <mj-column padding-right="46px">
+                        <mj-text font-size="12px" line-height="13.8px" font-weight="400" padding-bottom="27px"
+                        >Еще больше идей для инвестирования, а также новости с мировых рынков, обзоры стратегий выбора акций и инструментов инвестирования — <b>на моем канале в Telegram!</b></mj-text
+                        >
+                        <mj-button
+                                align="left"
+                                mj-class="button"
+                                href="https://t.me/+CMTB28_IPcVmMWEy"
+                        >Перейти</mj-button
+                        >
+                    </mj-column>
+                </mj-wrapper>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="footer" background-color="#0D0D0D">
+            <mj-column>
+                <mj-wrapper>
+                    <mj-column>
+                        <mj-text mj-class="footer__text">
+                            С уважением<br/>
+                            <span style="color:#FFFFFF">Зимин Максим</span><br/>
+                            старший персональный менеджер<br/>
+                            <span style="color:#FFFFFF">ООО ИК «Фридом Финанс»</span>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text mj-class="footer__text" width="490px"
+                        >Тел.: +7 (495) 783 91 73 ( доб. 55950)<br/>
+                            Моб.: +7 (985) 043 63 73</br>
+                            123100, Москва, 1-й Красногвардейский проезд, дом 15<br/>
+                            Башня «Меркурий», 18 этаж
+                        </mj-text
+                        >
+                        <mj-text mj-class="footer__text" width="490px"
+                        ><span style="color:#91B3FA">cifra-bank.ru</span><span style="color:
+#9E9E9E;padding-left:10px;padding-right:10px;font-size:18px">|</span><span style="color:#91B3FA">zimin@cifra-broker.ru</span></mj-text
+                        >
+                    </mj-column>
+                </mj-wrapper>
+                <mj-text mj-class="footer__text" align="center" padding-bottom="27px">
+                    Вы получили данное письмо, так как ранее указывали согласие<br/>на получение информации от финансового сектора<br/>
+                    Если вам не интересно получать письма, то нажмите
+                    <a
+                            style="color: rgba(255, 255, 255, 0.5)"
+                            href="{{UnsubscribeUrl}}"
+                            class="unsubscribe-url"
+                    >здесь</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
