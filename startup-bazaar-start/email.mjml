@@ -41,135 +41,16 @@
                         src="https://i.ibb.co/NnJhJbG/prize-img.png"
                         alt="Важно! Приём заявок до 30 апреля."
                 />
-                <mj-text font-size="24px" line-height="29px" font-weight="700" padding="0px 34px 40px 34px">
+                <mj-text font-size="24px" line-height="29px" font-weight="700" padding="0px 34px 0px 34px">
                     Участие в выставке<br/>Startup Bazaar доступно 2 форматах:
                 </mj-text>
-            </mj-column>
-        </mj-section>
-        <mj-section mj-class="section">
-            <mj-column border="1px solid #D7D7D7" height="522px">
-                <mj-text
-                        font-weight="400"
-                        font-size="24px"
-                        color="#000000"
-                        line-height="24px"
-                >Online</mj-text
-                >
-                <mj-text
-                        font-weight="400"
-                        font-size="14px"
-                        color="#000000"
-                        line-height="15px"
-                        padding-bottom="15px"
-                >Анкета участника проходит формальный отбор, и на сайте конференции появляется страничка онлайн-экспонента.</mj-text
-                >
-                <mj-text
-                        font-weight="400"
-                        font-size="14px"
-                        color="#000000"
-                        line-height="15px"
-                        padding-bottom="30px"
-                >На онлайн-выставке будет представлено около 500 экспонентов с данными о компаниях и присланными материалами (презентация, ролик).<br/>
-                    С каждым из них можно будет связаться по указанным контактам или через чат конференции.</mj-text
-                >
-                <mj-button
-                        width="160px"
-                        background-color="#FFFFFF"
-                        font-size="20px"
-                        height="40px"
-                        border="1px solid #D7D7D7"
-                        color="#000000"
-                        line-height="20px"
-                        font-weight="700"
-                ><b>Бесплатно</b></mj-button
-                >
-            </mj-column>
-            <mj-column border="1px solid #D7D7D7" height="522px">
-                <mj-text
-                        font-weight="400"
-                        font-size="24px"
-                        color="#000000"
-                        line-height="24px"
-                >Offine</mj-text
-                >
-                <mj-text
-                        font-weight="400"
-                        font-size="14px"
-                        color="#000000"
-                        line-height="15px"
-                        padding-bottom="13px"
-                >Анкета проходит экспертный отбор. В случае прохождения один заявитель приглашается к участию в выставке.</mj-text
-                >
-                <mj-text
-                        font-weight="400"
-                        font-size="14px"
-                        color="#000000"
-                        line-height="15px"
-                        padding-bottom="30px"
-                >Всего будет отобрано 120 проектов.</mj-text
-                >
-                <mj-text
-                        font-weight="700"
-                        font-size="14px"
-                        color="#000000"
-                        line-height="15px"
-                        padding-bottom="30px"
-                >Прием заявок до 30 апреля</mj-text
-                >
-                <mj-text
-                        font-weight="400"
-                        font-size="14px"
-                        color="#000000"
-                        line-height="15px"
-                        padding-bottom="30px"
-                >Результаты отбора <b>— 10 мая</b></mj-text
-                >
-                <mj-divider border-color="#D7D7D7" width="206px" border-width="1px"></mj-divider>
-                <mj-text
-                        font-weight="400"
-                        font-size="14px"
-                        color="#000000"
-                        line-height="15px"
-                        padding-top="20px"
-                        padding-bottom="20px"
-                >Выставочное место<br/>(без плазменной панели)</mj-text
-                >
-                <mj-button
-                        width="160px"
-                        background-color="#FFFFFF"
-                        font-size="20px"
-                        height="40px"
-                        border="1px solid #D7D7D7"
-                        color="#000000"
-                        line-height="20px"
-                        font-weight="700"
-                ><b>60 000₽</b></mj-button
-                >
-                <mj-text
-                        font-weight="400"
-                        font-size="14px"
-                        color="#000000"
-                        line-height="15px"
-                        padding-top="20px"
-                        padding-bottom="20px"
-                >Выставочное место<br/>(с плазменной панелью)</mj-text
-                >
-                <mj-button
-                        width="160px"
-                        background-color="#FFFFFF"
-                        font-size="20px"
-                        height="40px"
-                        border="1px solid #D7D7D7"
-                        color="#000000"
-                        line-height="20px"
-                        font-weight="700"
-                        padding-bottom="30px"
-                ><b>90 000₽</b></mj-button
-                >
-            </mj-column>
-        </mj-section>
-        <mj-section mj-class="section">
-            <mj-column>
+                <mj-image
+                        padding-top="40px"
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://i.ibb.co/tzs34jH/formats.png"
+                        alt="Описание online/offline форматов"
+                />
                 <mj-button
                         width="532px"
                         background-color="#000000"
@@ -222,58 +103,13 @@
                         text-align="left"
                 >STARTUP VILLAGE «ВРЕМЯ ИННОВАЦИЙ» 2023: ЧТО ЕЩЕ ВАС ЖДЕТ</mj-button
                 >
-                <mj-button
-                        width="532px"
-                        background-color="#FFFFFF"
-                        height="781px"
-                        border-radius="20px"
-                        color="#000000"
-                        padding-bottom="30px"
-                        border="1px solid #D7D7D7"
-                        text-align="left">
-                    <mj-text font-size="24px" line-height="24px" font-weight="400" padding="30px 24px 15px 24px">
-                        Деловая программа
-                    </mj-text>
-                    <mj-text font-size="14px" line-height="14px" font-weight="400" padding="30px 24px 30px 24px">
-                        В программе конференции — более 50 интерактивных сессий. Все они посвящены технологическим трендам, новым рынкам, трансформации бизнес-моделей и интеграции прорывных технологий в бизнес-практику.</br>
-                    </mj-text>
-                    <mj-divider border-color="#D7D7D7" width="484px" border-width="1px"></mj-divider>
-                    <mj-text font-size="24px" line-height="24px" font-weight="400" padding="15px 24px 15px 24px">
-                        Инвесторские питчи
-                    </mj-text>
-                    <mj-text font-size="14px" line-height="14px" font-weight="400" padding="30px 24px 30px 24px">
-                        На площадке Startup Village можно будет познакомиться с инвесторами, заинтересованными в технологических стартапах. Воспользуйтесь возможностью найти поддержку для своего проекта!
-                    </mj-text>
-                    <mj-divider border-color="#D7D7D7" width="484px" border-width="1px"></mj-divider>
-                    <mj-text font-size="24px" line-height="24px" font-weight="400" padding="15px 24px 15px 24px">
-                        Инвесторские питчи
-                    </mj-text>
-                    <mj-text font-size="14px" line-height="14px" font-weight="400" padding="30px 24px 30px 24px">
-                        На площадке Startup Village можно будет познакомиться с инвесторами, заинтересованными в технологических стартапах. Воспользуйтесь возможностью найти поддержку для своего проекта!
-                    </mj-text>
-                    <mj-divider border-color="#D7D7D7" width="484px" border-width="1px"></mj-divider>
-                    <mj-text font-size="24px" line-height="24px" font-weight="400" padding="15px 24px 15px 24px">
-                        Инвесторские питчи
-                    </mj-text>
-                    <mj-text font-size="14px" line-height="14px" font-weight="400" padding="30px 24px 30px 24px">
-                        На площадке Startup Village можно будет познакомиться с инвесторами, заинтересованными в технологических стартапах. Воспользуйтесь возможностью найти поддержку для своего проекта!
-                    </mj-text>
-                    <mj-divider border-color="#D7D7D7" width="484px" border-width="1px"></mj-divider>
-                    <mj-text font-size="24px" line-height="24px" font-weight="400" padding="15px 24px 15px 24px">
-                        Инвесторские питчи
-                    </mj-text>
-                    <mj-text font-size="14px" line-height="14px" font-weight="400" padding="30px 24px 30px 24px">
-                        На площадке Startup Village можно будет познакомиться с инвесторами, заинтересованными в технологических стартапах. Воспользуйтесь возможностью найти поддержку для своего проекта!
-                    </mj-text>
-                    <mj-divider border-color="#D7D7D7" width="484px" border-width="1px"></mj-divider>
-                    <mj-text font-size="24px" line-height="24px" font-weight="400" padding="15px 24px 15px 24px">
-                        Инвесторские питчи
-                    </mj-text>
-                    <mj-text font-size="14px" line-height="14px" font-weight="400" padding="30px 24px 30px 24px">
-                        На площадке Startup Village можно будет познакомиться с инвесторами, заинтересованными в технологических стартапах. Воспользуйтесь возможностью найти поддержку для своего проекта!
-                    </mj-text>
-                    <mj-divider border-color="#D7D7D7" width="484px" border-width="1px"></mj-divider>
-                </mj-button>
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://i.ibb.co/JKNxjPw/programm.png"
+                        alt="Описание программы"
+                        padding-bottom="60px"
+                />
                 <mj-image
                         mj-class="hero-image"
                         css-class="css-image"
