@@ -5,12 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/startup-bazaar-start/Startup-bazaar.html" beforeDir="false" afterPath="$PROJECT_DIR$/startup-bazaar-start/Startup-bazaar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/startup-bazaar-start/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/startup-bazaar-start/email.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup-bazaar-start/images/formats.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup-bazaar-start/images/location.png" beforeDir="false" afterPath="$PROJECT_DIR$/startup-bazaar-start/images/location.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup-bazaar-start/images/prize-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/startup-bazaar-start/images/prize-img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup-bazaar-start/images/programm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup-bazaar-start/images/registration-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/startup-bazaar-start/images/registration-black.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup-bazaar-start/images/registration.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,17 +22,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Alexandr Nechkasov/Desktop/ActionAccelerator",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexandr Nechkasov/Desktop/ActionAccelerator&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +52,8 @@
       <workItem from="1681734899984" duration="3243000" />
       <workItem from="1681902823922" duration="5856000" />
       <workItem from="1681909773109" duration="1194000" />
-      <workItem from="1681912842495" duration="14427000" />
+      <workItem from="1681912842495" duration="14896000" />
+      <workItem from="1681979782287" duration="2598000" />
     </task>
     <servers />
   </component>

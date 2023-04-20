@@ -424,6 +424,56 @@
                         alt="До встречи на Startup Village! Кнопка регистрации"
                         padding-bottom="60px"
                 />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="12px">Соорганизаторы</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="322px"
+                        css-class="css-image"
+                        href="https://test.ru"
+                        src="https://i.ibb.co/zZ98G20/partner-1.png"
+                        alt="Лого партнёра"
+                        padding-bottom="30px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="15px">Стратегический партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="175px"
+                        css-class="css-image"
+                        href="https://test.ru"
+                        src="https://i.ibb.co/Vjm0YvW/partner-3.png"
+                        alt="Лого партнёра"
+                        padding-bottom="25px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="15px">Официальный партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="93px"
+                        css-class="css-image"
+                        href="https://test.ru"
+                        src="https://i.ibb.co/b5M3bqt/partner-4.png"
+                        alt="Лого партнёра"
+                        padding-bottom="35px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="15px">Инновационный партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="99px"
+                        css-class="css-image"
+                        href="https://test.ru"
+                        src="https://i.ibb.co/vhcBgpT/partner-5.png"
+                        alt="Лого партнёра"
+                        padding-bottom="35px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="15px">Участник выставки</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="58px"
+                        css-class="css-image"
+                        href="https://test.ru"
+                        src="https://i.ibb.co/gZKNG88/partner-6.png"
+                        alt="Лого партнёра"
+                        padding-bottom="70px"
+                />
             </mj-column>
         </mj-section>
         <mj-section mj-class="footer">
