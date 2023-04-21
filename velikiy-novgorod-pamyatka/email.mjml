@@ -1,0 +1,319 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" />
+      <mj-class
+              name="titleBold27"
+              padding="0 35px"
+              font-weight="700"
+              font-size="27px"
+              line-height="31px"
+              color="#000000"
+              text-transform="uppercase"
+      />
+      <mj-class
+              name="titleBold14"
+              padding="0 35px"
+              font-weight="700"
+              font-size="14px"
+              line-height="18px"
+              color="#000000"
+      />
+      <mj-class
+              name="textRegular18"
+              padding="0 35px"
+              font-size="18px"
+              line-height="21px"
+              color="#000000"
+      />
+      <mj-class
+              name="textRegular20"
+              padding="0 35px"
+              font-size="20px"
+              line-height="23px"
+              color="#FFFFFF"
+      />
+      <mj-class name="hero-image" padding="0" width="600px" />
+      <mj-class name="image" padding="0 56px" width="640px" />
+      <mj-class
+              name="button"
+              border-radius="22px"
+              padding="0"
+              inner-padding="16px 20px"
+              font-weight="700"
+              font-size="16px"
+              line-height="18.4px"
+              color="#FFFFFF"
+              text-transform="uppercase"
+      />
+      <mj-class name="footer" padding="13px 0 0" />
+      <mj-class
+              name="footer__text"
+              padding="0 53px 34px 47px"
+              font-weight="400"
+              font-size="14px"
+              line-height="16px"
+              color="#A5A5A5"
+      />
+    </mj-attributes>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+                mj-class="hero-image"
+                css-class="css-image"
+                src="https://i.ibb.co/kBPTbTr/title-img.png"
+                alt="Hero cover"
+        />
+        <mj-text
+                mj-class="titleBold27"
+                padding-bottom="24px"
+                padding-top="40px"
+                css-class="css-text"
+        >
+          Дорогие гости и участники!
+        </mj-text>
+        <mj-text
+                mj-class="textRegular18"
+                padding-bottom="40px"
+                css-class="css-text"
+        >
+          Startup Tour 2023 состоится <b>28 апреля.</b><br/>
+          Официальное открытие начнется в <b>10:00</b> по адресу: <br/>
+          <b>г. Великий Новгород, Новгородская техническая школа, ул. Великая, дом 18.</b>
+        </mj-text>
+        <mj-image
+                mj-class="hero-image"
+                src="https://i.ibb.co/S0b8Pgh/card.png"
+                alt="Карта расположения места"
+                padding-bottom="40px"
+        />
+        <mj-text
+                mj-class="textRegular18"
+                padding-bottom="40px"
+                css-class="css-text"
+        >
+          Ознакомиться с программой мероприятия можно на сайте
+          <a href="https://startup-tour.ru" style="color:#5C3EAC"> startup-tour.ru</a> в
+          разделе <b>«Города» — «Великий Новгород» — «Программа».</b>
+        </mj-text>
+
+        <mj-button
+                mj-class="button"
+                href="https://startup-tour.ru/city/velikiy-novgorod/program?utm_source=email_in&utm_medium=letter&utm_campaign=4"
+                width="532px"
+                background-color="#5C3EAC"
+                css-class="css-button"
+        >Программа</mj-button
+        >
+        <mj-text
+                mj-class="textRegular18"
+                padding-top="40px"
+                css-class="css-text"
+        >
+          В рамках события пройдет конкурс стартапов.
+        </mj-text>
+        <mj-text
+                mj-class="textRegular18"
+                padding-bottom="48px"
+                padding-top="20px"
+                css-class="css-text"
+        >
+          Список участников, прошедших отбор в вашем регионе, доступен на нашем сайте в разделе «Города» — «Великий Новгород» — «Полуфиналисты».
+        </mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://test.ru"
+                width="532px"
+                background-color="#5C3EAC"
+                css-class="css-button"
+                padding-bottom="53px"
+        >Полуфиналисты</mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+            mj-class="section"
+            background-url="https://i.ibb.co/JrTv27f/bg.png">
+      <mj-column>
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                padding="42px 35px 30px 35px"
+        >Только на Startup Tour в Великом Новгороде вы сможете узнать все об особенностях стартапа как проекта! Познакомиться с правовыми нормами, инфраструктурой и методиками стартапа и, конечно, стать участником или свидетелем защиты стартапа. </mj-text
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                padding="0px 35px 21px 35px"
+        >Бонусом за участие станет <b>удостоверение о повышении квалификации</b> от партнера мероприятия —  Новгородского государственного университета имени Ярослава Мудрого. </mj-text
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                padding="0px 35px 20px 35px"
+        >Чтобы принять участие, необходимо зайти в личный кабинет программы и зарегистрироваться:</mj-text
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                padding="0px 35px 0px 35px"
+        >1. Заполнить заявление и согласие участника курса «Особенности стартапа как проекта» </mj-text>
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                padding="0px 35px 7px 35px"
+        >2. Прикрепить в личном кабинете фото или сканы следующих документов: </mj-text>
+        <mj-text
+                padding="0px 30px 25px 65px"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                color="#FFFFFF"
+                color="#000000">
+          <ul>
+            <li>заявление на обучение;</li>
+            <li>согласие на обучение;</li>
+            <li>СНИЛС;</li>
+            <li>паспорт (1 и 5 страницы);</li>
+            <li>документ о среднем профессиональном или высшем образовании.</li>
+          </ul>
+        </mj-text>
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                padding="0px 35px 21px 35px"
+        >Подробнее о программе можно узнать на <a href="https://dpo.novsu.ru/" style="color:#D4E511">сайте</a> НовГУ им. Ярослава Мудрого.</mj-text>
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="700"
+                line-height="21px"
+                padding="0px 35px 20px 35px"
+        >Успехов в обучении! </mj-text>
+        <mj-text
+                color="#D4E511"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                padding="0px 35px 21px 35px">Важно!</mj-text>
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                padding="0px 35px 21px 35px"
+        >Если вы имеете среднее профессиональное или высшее образование, то удостоверение о повышении квалификации вы получите в течение 2 недель после окончания мероприятия.</mj-text>
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                padding="0px 35px 40px 35px"
+        >Если вы студент и у вас нет профессионального образования, то удостоверение о повышении квалификации вам выдадут при предъявлении документа об образовании после его получения.</mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://dpo.novsu.ru/services/kursy/programmy-povysheniya-kvalifikatsii/osobennosti-startapa-kak-proekta-2023/"
+                width="532px"
+                background-color="#FFFFFF"
+                color="#5C3EAC"
+                padding-bottom="60px"
+        >Программа «Особенности стартапа как проекта»</mj-button
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                padding="0px 35px 47px 35px"
+        >Зарегистрируйте на сайте Стартап-тура 2023 в категории «стартап» — и получите доступ к серии обучающих видеолекций и мастер-классов для технологических предпринимателей Skolkovo Mini MBA.</mj-text
+        >
+        <mj-button
+                mj-class="button"
+                href="https://startup-tour.ru/highlights"
+                width="532px"
+                background-color="#FFFFFF"
+                color="#5C3EAC"
+                padding-bottom="40px"
+        >самое интересное</mj-button
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="400"
+                line-height="21px"
+                align="center"
+                padding="0px 35px 60px 35px"
+        >
+          До встречи на Startup Tour 2023!</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+            background-color="#3C2B69"
+            padding-top="10px"
+            padding-bottom="0"
+    >
+      <mj-column
+              vertical-align="middle"
+              width="107px!important"
+              padding-bottom="10px"
+      >
+        <mj-image
+                mj-class="hero-image"
+                src="https://i.ibb.co/LhtY5Tm/startup-tour.png"
+                alt="Image cover"
+                width="107px"
+                href="https://t.me/suv2018"
+        />
+      </mj-column>
+
+      <mj-column
+              vertical-align="middle"
+              width="121px!important"
+              padding-bottom="10px"
+      >
+        <mj-image
+                mj-class="hero-image"
+                src="https://i.ibb.co/5xx6fK8/skolkovo-live.png"
+                alt="Image cover"
+                width="121px"
+                href="https://t.me/skolkovolive"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer__text" align="justify">
+          Вы получили эту рассылку, так как подписаны на рассылки от
+          «Сколково<br />Форум», посвященные конкурсам и мероприятиям «Startup
+          Tour», «Startup<br />
+          Village» и «Nobel Vision. Открытые инновации», а также
+          информационные<br />
+          письма партнеров «Сколково».
+        </mj-text>
+        <mj-text mj-class="footer__text" align="center">
+          <a href="$[unsubscribe_url]" style="color:#A5A5A5"
+          >Отписаться от рассылки</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
