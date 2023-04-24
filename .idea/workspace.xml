@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velikiy-novgorod-pamyatka/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/velikiy-novgorod-pamyatka/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velikiy-novgorod-pamyatka/Великий-Новгород-памятка.html" beforeDir="false" afterPath="$PROJECT_DIR$/velikiy-novgorod-pamyatka/Великий-Новгород-памятка.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +28,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexandr Nechkasov/Desktop/ActionAccelerator&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexandr Nechkasov/Desktop/base-emails&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -59,7 +61,10 @@
       <workItem from="1682003950055" duration="6458000" />
       <workItem from="1682060363903" duration="7000" />
       <workItem from="1682060733603" duration="391000" />
-      <workItem from="1682067071956" duration="3741000" />
+      <workItem from="1682067071956" duration="4034000" />
+      <workItem from="1682077752364" duration="7000" />
+      <workItem from="1682332381796" duration="1083000" />
+      <workItem from="1682339235422" duration="330000" />
     </task>
     <servers />
   </component>
