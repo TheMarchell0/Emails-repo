@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/velikiy-novgorod-pamyatka/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/velikiy-novgorod-pamyatka/email.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/velikiy-novgorod-pamyatka/Великий-Новгород-памятка.html" beforeDir="false" afterPath="$PROJECT_DIR$/velikiy-novgorod-pamyatka/Великий-Новгород-памятка.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +63,11 @@
       <workItem from="1682077752364" duration="7000" />
       <workItem from="1682332381796" duration="1083000" />
       <workItem from="1682339235422" duration="330000" />
+      <workItem from="1682339576169" duration="138000" />
+      <workItem from="1682339950919" duration="4000" />
+      <workItem from="1682341155981" duration="16000" />
+      <workItem from="1682342635588" duration="7000" />
+      <workItem from="1683101145449" duration="1812000" />
     </task>
     <servers />
   </component>

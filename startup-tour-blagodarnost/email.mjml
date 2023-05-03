@@ -1,0 +1,214 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" />
+      <mj-class
+              name="textRegular18"
+              padding="0 35px"
+              font-weight="400"
+              font-size="18px"
+              line-height="21px"
+              color="#000000"
+      />
+      <mj-class
+              name="titleBold20"
+              padding="0 34px"
+              font-size="20px"
+              line-height="23px"
+              font-weight="700"
+              text-transform="uppercase"
+              color="#000000"
+      />
+      <mj-class name="hero-image" padding="0" width="600px" />
+      <mj-class name="image" padding="0 56px" width="640px" />
+      <mj-class
+              name="button"
+              border-radius="22px"
+              padding="0"
+              inner-padding="16px 20px"
+              font-weight="700"
+              font-size="16px"
+              line-height="18.4px"
+              color="#FFFFFF"
+              text-transform="uppercase"
+      />
+      <mj-class name="footer" padding="13px 0 0" />
+      <mj-class
+              name="footer__text"
+              padding="0 53px 34px 47px"
+              font-weight="400"
+              font-size="14px"
+              line-height="16px"
+              color="#A5A5A5"
+      />
+    </mj-attributes>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+                mj-class="hero-image"
+                css-class="css-image"
+                src="https://i.ibb.co/cv26YL7/title-img.png"
+                alt="Обложка"
+        />
+        <mj-text
+                mj-class="titleBold20"
+                padding-bottom="40px"
+                padding-top="40px"
+                css-class="css-text"
+        >
+          Уважаемые конкурсанты и участники!
+        </mj-text>
+        <mj-text
+                mj-class="textRegular18"
+                padding-bottom="20px"
+                css-class="css-text"
+        >От лица фонда «Сколково» благодарим Вас за участие в конференции <b>Startup Tour 2023!</b>
+        </mj-text>
+        <mj-text
+                mj-class="textRegular18"
+                padding-bottom="60px"
+                css-class="css-text"
+        >Ее результатом стало <b>4300</b> участников в 6 городах, <b>801</b> проект на конкурс, среди которых <b>120</b> финалистов по направлениям:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+            mj-class="section"
+            background-url="https://i.ibb.co/qLHhD4K/bg-1.png">
+      <mj-column>
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="700"
+                line-height="23px"
+                align="center"
+                padding-top="50px"
+                padding-bottom="15px"
+        >Информационные технологии</mj-text>
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="700"
+                line-height="23px"
+                align="center"
+                padding-bottom="13px"
+        >Индустриальные и энергетические технологии</mj-text>
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="700"
+                line-height="23px"
+                align="center"
+                padding-bottom="13px"
+        >Биотехнологии в медицине и сельском хозяйстве</mj-text>
+        <mj-text
+                color="#FFFFFF"
+                font-size="20px"
+                font-weight="700"
+                line-height="23px"
+                align="center"
+                padding-bottom="39px"
+        >CreativeTECH</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-text
+                mj-class="textRegular18"
+                padding-bottom="34px"
+                padding-top="40px"
+                css-class="css-text"
+        >Мы будем благодарны, если вы найдете время, чтобы пройти опрос, и поделитесь с нами своими впечатлениями о мероприятии.</b>
+        </mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://docs.google.com/forms/d/1dnKOcYZVmhCA3T-lKEQGMb_PPLfkBHOt3P-S-dxTT0s/edit"
+                width="532px"
+                background-color="#5C3EAC"
+                css-class="css-button"
+                padding-bottom="46px"
+        >Пройти опрос</mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+            mj-class="section"
+            background-url="https://i.ibb.co/YkVhVZv/bg-2.png">
+      <mj-column>
+        <mj-text
+                color="#D4E511"
+                font-size="20px"
+                font-weight="700"
+                line-height="24px"
+                align="center"
+                padding-top="72px"
+                padding-bottom="18px"
+                text-transform="uppercase"
+        >Спасибо, что были с нами!</mj-text>
+        <mj-text
+                color="#F9F9F9"
+                font-size="18px"
+                font-weight="700"
+                line-height="22px"
+                align="center"
+                padding-bottom="84px"
+        >И до встречи на Startup Village, 24-25 мая на территории Центрального парка «Сколково»!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+            background-color="#3C2B69"
+            padding-top="10px"
+            padding-bottom="0"
+    >
+      <mj-column
+              vertical-align="middle"
+              width="107px!important"
+              padding-bottom="10px"
+      >
+        <mj-image
+                mj-class="hero-image"
+                src="https://i.ibb.co/LhtY5Tm/startup-tour.png"
+                alt="Image cover"
+                width="107px"
+                href="https://t.me/suv2018"
+        />
+      </mj-column>
+
+      <mj-column
+              vertical-align="middle"
+              width="121px!important"
+              padding-bottom="10px"
+      >
+        <mj-image
+                mj-class="hero-image"
+                src="https://i.ibb.co/5xx6fK8/skolkovo-live.png"
+                alt="Image cover"
+                width="121px"
+                href="https://t.me/skolkovolive"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer__text" align="justify">
+          Вы получили эту рассылку, так как подписаны на рассылки от
+          «Сколково<br />Форум», посвященные конкурсам и мероприятиям «Startup
+          Tour», «Startup<br />
+          Village» и «Nobel Vision. Открытые инновации», а также
+          информационные<br />
+          письма партнеров «Сколково».
+        </mj-text>
+        <mj-text mj-class="footer__text" align="center">
+          <a href="$[unsubscribe_url]" style="color:#A5A5A5"
+          >Отписаться от рассылки</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
