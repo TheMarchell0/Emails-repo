@@ -82,13 +82,12 @@
                 padding-bottom="40px"
                 css-class="css-text"
         >
-          Startup Tour 2023 состоится <b>28 апреля.</b><br/>
-          Официальное открытие начнется в <b>10:00</b> по адресу: <br/>
+          Startup Tour 2023 состоится <b>28 апреля.</b><br /> Официальное открытие начнется в <b>11:00</b> по адресу: <br />
           <b>г. Великий Новгород, Новгородская техническая школа, ул. Великая, дом 18.</b>
         </mj-text>
         <mj-image
                 mj-class="hero-image"
-                src="https://i.ibb.co/S0b8Pgh/card.png"
+                src="https://i.ibb.co/99VM8cN/card.png"
                 alt="Карта расположения места"
                 padding-bottom="40px"
         />
