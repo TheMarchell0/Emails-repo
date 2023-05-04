@@ -1,0 +1,318 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Open Sans, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+            <mj-class name="footer" padding="20px 0 0" background-color="#535D5E" />
+            <mj-class
+                    name="footer__text"
+                    padding="0 34px 30px 34px"
+                    font-weight="400"
+                    font-size="16px"
+                    line-height="22px"
+                    color="#A5A5A5"
+            />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=head-1.png"
+                        alt="Список соорганизаторов"
+                />
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=head-2-zayavki.png"
+                        alt="Запись к менторам Startup Village открыта!"
+                />
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="40px 30px 24px 30px">
+                    24 и 25 мая в рамках технологической конференции <b>Startup Village 2023</b> пройдет <b>конкурс стартапов.</b> Участники смогут представить проект экспертам в области технологий, креативных индустрий и развития бизнеса. 
+                </mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 40px 30px">
+                    Это ваш шанс заявить о себе, <b>найти инвесторов</b> и побороться за главный <b>приз — 1 000 000 ₽!</b>
+                </mj-text>
+                <mj-text font-weight="700" color="#000000" font-size="32px" line-height="48px" padding="0px 30px 40px 30px">Направления конкурса:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" padding="0px 34px 40px 34px">
+            <mj-column padding="0">
+                <mj-section background-color="#D7D7D7" padding="1px" border-radius="10px">
+                    <mj-column border-radius="10px" background-color="#fff">
+                        <mj-text
+                                font-weight="700"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="30px 14px 14px 15px"
+                        >Инструментарий для креативных индустрий</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— Цифровой инструментарий для аудиовизуального контента;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— Цифровой инструментарий для GameDev;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— Цифровой инструментарий для стриминговых сервисов;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— Цифровой инструментарий для медиа;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— Аппаратные решения и комплексы для создания креативного материального продукта (3D принтеры, специализированные робототехнические решения и прочее);</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— Программно-аппаратные комплексы (ПАК) для создания креативного цифрового контента;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 30px 14px"
+                        >— RestoTECH. Роботизация гастропространств.</mj-text>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" padding="0px 34px 40px 34px">
+            <mj-column padding="0">
+                <mj-section background-color="#D7D7D7" padding="1px" border-radius="10px">
+                    <mj-column border-radius="10px" background-color="#fff">
+                        <mj-text
+                                font-weight="700"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="30px 14px 14px 15px"
+                        >Контент</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— GameDev;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— Виртуальный мир;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— Метавселенная;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— Генеративная графика;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— Цифровые аватары;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— AR/VR;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 30px 14px"
+                        >— Wellness. Инструменты для longevity, Mindfulness, психологическое здоровье и реабилитация, здоровый сон, творческое долголетие, Entertainment для ЗОЖ.</mj-text>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" padding="0px 34px 40px 34px">
+            <mj-column padding="0">
+                <mj-section background-color="#D7D7D7" padding="1px" border-radius="10px">
+                    <mj-column border-radius="10px" background-color="#fff">
+                        <mj-text
+                                font-weight="700"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="30px 14px 20px 20px"
+                        >Материалы для креативных индустрий</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >— Технологии промышленного и индустриального дизайна, улучшающие функциональные характеристики продукта; 
+                        </mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >—  Мода. «Умные» ткани, термо- и светочувствительные краски, текстиль, защищающий от ультрафиолетового излучения;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >—  Архитектура. Материалы для 3D-печати, конструкционные материалы;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 14px 14px"
+                        >—  Foodtech. Растительное и клеточное мясо, съедобная упаковка, recycle reuse упаковка, пищевые компоненты для 3D-печати;</mj-text>
+                        <mj-text
+                                font-weight="400"
+                                font-size="16px"
+                                color="#000000"
+                                line-height="24px"
+                                padding="0px 10px 30px 14px"
+                        >— Lifetech. Новые материалы для здоровья и качества жизни.</mj-text>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=bg-img-zayavki.png" background-size="cover">
+            <mj-column>
+                <mj-text font-weight="700" color="#000000" font-size="32px" line-height="48px" padding="41px 30px 40px 37px" >Стать участником просто!</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 15px 37px" >1. Оставьте заявку на сайте конференции <a href="https://startupvillage.ru/" target="_blank" style="color:#0038FF">https://startupvillage.ru/</a></mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 15px 37px">2. Заполните анкету участника</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 15px 37px">3. В личном кабинете откройте вкладку «Конкурс», заполните и отправьте анкету</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 15px 37px">4. Дождитесь результатов отбора: итоги будут опубликованы на сайте 22 мая</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 15px 37px">5. Получите письмо-подтверждение</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 0px 37px">6. Оплатите участие</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="40px 30px 63px 30px"><b>Участие в конкурсе CreativeTECH</b> — это возможность найти инвестора, новые рынки сбыта и получить денежный приз на развитие проекта!</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-button
+                        width="322px"
+                        href="https://2023.startupvillage.ru/registration/email?status=contestant&utm_source=email_in&utm_medium=letter&utm_campaign=2"
+                        background-color="#E131A8"
+                        font-size="20px"
+                        font-weight="700"
+                        height="77px"
+                        padding-top="40px"
+                        border-radius="10px"
+                        color="#FFFFFF"
+                        line-height="30px"
+                        padding-bottom="29px"
+                >ПОДАТЬ ЗАЯВКУ</mj-button
+                >
+                <mj-text align="center" font-weight="700" color="#000000" font-size="24px" line-height="33px" padding-bottom="32px">До встречи в Инновационном<br/>
+                    центре «Сколково»!</mj-text>
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Соорганизаторы</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="322px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-1.png"
+                        alt="Лого партнёра"
+                        padding-bottom="19px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Стратегический партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="175px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-3.png"
+                        alt="Лого партнёра"
+                        padding-bottom="16px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Официальный партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="93px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-4.png"
+                        alt="Лого партнёра"
+                        padding-bottom="26px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Инновационный партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="99px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-5.png"
+                        alt="Лого партнёра"
+                        padding-bottom="27px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="27px">Автомобильный партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="260px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-7.png"
+                        alt="Лого партнёра"
+                        padding-bottom="40px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="footer">
+            <mj-column>
+                <mj-text mj-class="footer__text" align="justify">
+                    Вы получили эту рассылку, так как подписаны на рассылки от
+                    «Сколково Форум», посвященные конкурсам и мероприятиям «Startup
+                    Tour», «Startup
+                    Village» и «Nobel Vision. Открытые инновации», а также
+                    информационные
+                    письма партнеров «Сколково».
+                </mj-text>
+                <mj-text mj-class="footer__text" align="center">
+                    <a href="$[unsubscribe_url]" style="color: #A5A5A5"
+                    >Отписаться от рассылки</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
