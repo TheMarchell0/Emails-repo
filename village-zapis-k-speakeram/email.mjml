@@ -23,13 +23,13 @@
                 <mj-image
                         mj-class="hero-image"
                         css-class="css-image"
-                        src="https://i.ibb.co/HY1P3L7/head-1.png"
-                        alt="Список соорганизторов"
+                        src="https://i.ibb.co/1KGVGS3/head-1.png"
+                        alt="Список соорганизаторов"
                 />
                 <mj-image
                         mj-class="hero-image"
                         css-class="css-image"
-                        src="https://i.ibb.co/55VvjQr/head-2.png"
+                        src="https://i.ibb.co/93JMkPf/head-2.png"
                         alt="Запись к менторам Startup Village открыта!"
                 />
                 <mj-text font-size="16px" line-height="24px" font-weight="400" padding="40px 30px 24px 30px">
