@@ -1,0 +1,152 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Open Sans, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+            <mj-class name="footer" padding="20px 0 0" background-color="#535D5E" />
+            <mj-class
+                    name="footer__text"
+                    padding="0 34px 30px 34px"
+                    font-weight="400"
+                    font-size="16px"
+                    line-height="22px"
+                    color="#A5A5A5"
+            />
+            <mj-class
+                    name="list"
+                    padding="9px 40px 9px 14px"
+                    font-weight="400"
+                    font-size="16px"
+                    line-height="24px"
+                    color="#000000"
+            />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=head-1.png"
+                        alt="Список соорганизаторов"
+                />
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=head-2-konkurs.png"
+                        alt="Запись к менторам Startup Village открыта!"
+                />
+                <mj-text font-size="16px" line-height="24px" font-weight="700" padding="40px 30px 24px 30px">
+                    24-25 мая в Сколково пройдет XI технологическая конференция Startup Village — эпицентр зарождения перспективных технологических проектов!
+                </mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 0px 30px">
+                    Здесь соберутся предприниматели и представители крупных корпораций, инвесторы и менторы, ученые и визионеры. У вас будет максимум возможностей для общения, новых деловых знакомств и получения крутых знаний.
+                </mj-text>
+                <mj-text mj-class="list">
+                    <ul>
+                        <li>как технологии меняют все и всех</li>
+                        <li>что ждет мир с развитием нейросетей</li>
+                        <li>как корпорации работают со стартапами</li>
+                        <li>какие инновации внедряют сейчас в бизнес</li>
+                    </ul>
+                </mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 40px 30px">
+                    Все полуфиналисты конкурса Startup Tour CreativeTECH получают <b>два бесплатных билета</b> на конференцию Startup Village!
+                </mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        padding-bottom="40px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=table-konkurs.png"
+                        alt="Когда? 24 и 25 мая начало конференции в 10:00. Где? ЦЕНТРАЛЬНЫЙ ПАРК СКОЛКОВО"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=bg-img-konkurs.png" background-size="cover">
+            <mj-column>
+                <mj-text font-weight="700" color="#000000" font-size="24px" line-height="36px" padding="39px 30px 40px 32px" >Как получить два бесплатных билета на конференцию:</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 15px 37px" >1. На сайте <a href="https://startupvillage.ru/" target="_blank" style="color:#0038FF">https://startupvillage.ru/</a> выберите пакет «Стандарт»</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 15px 37px">2. В поле «Промокод» введите промокод <b>STARTUP2023</b></mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 15px 37px">3. Нажмите кнопку «Оплатить»</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 15px 37px">4. Перейдите по ссылке, которая придет вам на e-mail, и заполните все поля для успешной регистрации (включая паспортные данные и фотографию)</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 50px 37px">5. Бейдж-билет будет доступен после 10 мая в личном кабинете участника.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-button
+                        width="322px"
+                        href="https://startupvillage.ru/?utm_source=email_in&utm_medium=letter&utm_campaign=3"
+                        background-color="#E131A8"
+                        font-size="20px"
+                        font-weight="700"
+                        height="77px"
+                        padding-top="40px"
+                        border-radius="10px"
+                        color="#FFFFFF"
+                        line-height="30px"
+                        padding-bottom="29px"
+                >РЕГИСТРАЦИЯ</mj-button
+                >
+                <mj-text align="center" font-weight="700" color="#000000" font-size="24px" line-height="33px" padding-bottom="32px">Ждем вас в Инновационном центре<br/>«Сколково»!</mj-text>
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Соорганизаторы</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="322px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-1.png"
+                        alt="Лого партнёра"
+                        padding-bottom="19px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Стратегический партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="175px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-3.png"
+                        alt="Лого партнёра"
+                        padding-bottom="16px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Официальный партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="93px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-4.png"
+                        alt="Лого партнёра"
+                        padding-bottom="26px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Инновационный партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="99px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-5.png"
+                        alt="Лого партнёра"
+                        padding-bottom="50px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="footer">
+            <mj-column>
+                <mj-text mj-class="footer__text" align="justify">
+                    Вы получили эту рассылку, так как подписаны на рассылки от
+                    «Сколково Форум», посвященные конкурсам и мероприятиям «Startup
+                    Tour», «Startup
+                    Village» и «Nobel Vision. Открытые инновации», а также
+                    информационные
+                    письма партнеров «Сколково».
+                </mj-text>
+                <mj-text mj-class="footer__text" align="center">
+                    <a href="$[unsubscribe_url]" style="color: #A5A5A5"
+                    >Отписаться от рассылки</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
