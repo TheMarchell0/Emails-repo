@@ -4,6 +4,9 @@
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/village-konkurs/Конкурс.html" beforeDir="false" afterPath="$PROJECT_DIR$/village-konkurs/Конкурс.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-must-go-on/images/head-1-must-go-on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-must-go-on/images/mnp-must-go-on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-must-go-on/images/table-must-go-on.png" beforeDir="false" afterPath="$PROJECT_DIR$/village-must-go-on/images/table-must-go-on.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +74,7 @@
       <workItem from="1683178560559" duration="1230000" />
       <workItem from="1683189099682" duration="2695000" />
       <workItem from="1683194686837" duration="183000" />
-      <workItem from="1684167156699" duration="1424000" />
+      <workItem from="1684167156699" duration="1811000" />
     </task>
     <servers />
   </component>
