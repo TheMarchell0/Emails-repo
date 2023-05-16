@@ -50,8 +50,11 @@
                 <mj-text font-size="16px" line-height="24px" font-weight="400" padding="41px 30px 24px 30px">
                     *«Инновации должны продолжаться», а технологическим предпринимателям пришло время выложиться на все сто и показать стране свои проекты!
                 </mj-text>
-                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 21px 30px">
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 24px 30px">
                     24-25 мая на конференции Startup Village 2023 обсудим инновации в различных отраслях: креативные индустрии, фудтех, финтех, кибербезопасность, биохакинг, умные города, фарма – и многих других. 
+                </mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 21px 30px">
+                    Startup Village проходит в рамках Московской недели предпринимательства – масштабного бизнес-события города для начинающих и опытных бизнесменов, а также тех, кому интересны темы инновационных стартапов и изобретений.
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -186,12 +189,12 @@
                         alt="Лого партнёра"
                         padding-bottom="16px"
                 />
-                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Официальный партнер</mj-text>
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Официальные партнеры</mj-text>
                 <mj-image
                         mj-class="hero-image"
-                        width="93px"
+                        width="252px"
                         css-class="css-image"
-                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-4.png"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-4-must-go-on.png"
                         alt="Лого партнёра"
                         padding-bottom="26px"
                 />

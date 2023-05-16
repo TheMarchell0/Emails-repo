@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/village-konkurs/Конкурс.html" beforeDir="false" afterPath="$PROJECT_DIR$/village-konkurs/Конкурс.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/village-must-go-on/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/village-must-go-on/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-must-go-on/images/partner-4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/village-must-go-on/Инновации должны продолжаться.html" beforeDir="false" afterPath="$PROJECT_DIR$/village-must-go-on/Инновации должны продолжаться.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,8 @@
       <workItem from="1683189099682" duration="2695000" />
       <workItem from="1683194686837" duration="183000" />
       <workItem from="1684167156699" duration="1934000" />
-      <workItem from="1684224794963" duration="881000" />
+      <workItem from="1684224794963" duration="1100000" />
+      <workItem from="1684234043605" duration="389000" />
     </task>
     <servers />
   </component>
