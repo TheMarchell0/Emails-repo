@@ -37,9 +37,9 @@
                 <mj-image
                         mj-class="hero-image"
                         css-class="css-image"
-                        href="https://mnp2023.ru/?utm_source=startupvillage&utm_medium=sait_glavnaya&utm_campaign=mnp"
+                        href="https://mnp2023.ru/?utm_source=startupvillage&utm_medium=email&utm_campaign=mnp"
                         src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mnp-must-go-on.png"
-                        alt="Список соорганизаторов"
+                        alt="МНП 2023"
                 />
                 <mj-image
                         mj-class="hero-image"
@@ -113,17 +113,12 @@
                         font-weight="700"
                         height="77px"
                         padding-top="40px"
+                        padding-bottom="30px"
                         border-radius="10px"
                         color="#FFFFFF"
                         line-height="30px"
                 >ПРОГРАММА</mj-button
                 >
-                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="40px 30px 37px 30px"><b>Московская неделя предпринимательства (МНП)</b> – масштабное бизнес-событие города для начинающих и опытных бизнесменов, а также тех, кому интересны темы инновационных стартапов и изобретений.
-                </mj-text>
-                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 37px 30px">Последний раз МНП и ее ключевое событие – Московский предпринимательский форум – проходили в столице в 2019 году. Тогда в мероприятиях приняли участие порядка <b>1500 экспертов</b> в сфере бизнеса и более <b>60 тысяч гостей.</b>
-                </mj-text>
-                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 37px 30px">Проведение МНП традиционно приурочено ко Дню российского предпринимательства, который отмечают 26 мая. Организатором выступает Департамент предпринимательства и инновационного развития города Москвы.
-                </mj-text>
                 <mj-text align="center" font-weight="700" color="#000000" font-size="25px" line-height="30px" padding-bottom="40px">СТОИМОСТЬ УЧАСТИЯ<br/>
                     В STARTUP VILLAGE 2023</mj-text>
                 <mj-image
@@ -132,25 +127,43 @@
                         src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=table-must-go-on.png"
                         alt="Стандарт - 5 000 ₽. Бизнес - 15 000 ₽. VIP - 150 000₽."
                 />
-                <mj-text font-size="16px" line-height="20px" font-weight="400" padding="40px 30px 37px 30px">Присоединяйтесь к открытому диалогу о технологических трендах будущего на Startup Village 2023 и проведите два плодотворных дня в окружении лучших инноваторов!
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="40px 30px 23px 30px"><b>Московская неделя предпринимательства (МНП)</b> – масштабное бизнес-событие города для начинающих и опытных бизнесменов, а также тех, кому интересны темы инновационных стартапов и изобретений.
+                </mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 23px 30px">Последний раз МНП и ее ключевое событие – <a href="http://mnp2023.ru/mpf/?utm_source=startupvillage&utm_medium=email&utm_campaign=mnp" target="_blank" style="color:#0B89FE">Московский предпринимательский форум</a> – проходили в столице в 2019 году. Тогда в мероприятиях приняли участие порядка <b>1500 экспертов</b> в сфере бизнеса и более <b>60 тысяч гостей.</b>
+                </mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 23px 30px">Проведение МНП традиционно приурочено ко Дню российского предпринимательства, который отмечают 26 мая. Организатором выступает Департамент предпринимательства и инновационного развития города Москвы.
+                </mj-text>
+                <mj-text font-size="16px" line-height="20px" font-weight="400" padding="18px 30px 37px 30px">Присоединяйтесь к открытому диалогу о технологических трендах будущего на Startup Village 2023 и проведите два плодотворных дня в окружении лучших инноваторов!
                 </mj-text>
             </mj-column>
         </mj-section>
         <mj-section mj-class="section" background-color="linear-gradient(180deg, #06D5F5 0%, #56F8C0 100%)">
             <mj-column>
-                <mj-text font-size="16px" line-height="20px" font-weight="400" padding="39px 30px 18px 30px" color="#000000">
-                    <b>Подарок всем участникам Startup Tour 2023</b> -  5 дней<br/>
-                    в Коворкинге 2.0!
+                <mj-text font-size="16px" line-height="20px" font-weight="700" padding="39px 30px 18px 30px" color="#000000">
+                    Бонус для участников Startup Village!
                 </mj-text>
                 <mj-text font-size="16px" line-height="20px" font-weight="400" padding="0px 30px 18px 30px" color="#000000">
-                    Планируете деловую поездку в Москву  - приезжайте в «Сколково» и протестируйте новое пространство для работы - Коворкинг 2.0
+                    Ощутите эффект экосистемы «Сколково» и ознакомьтесь со всеми возможностями в <a href="https://coworking.sk.ru/" target="_blank" style="color:##1F5EFF">Коворкинге 2.0</a>
                 </mj-text>
                 <mj-text font-size="16px" line-height="20px" font-weight="400" padding="0px 30px 18px 30px" color="#000000">
-                    <b>Коворкинг 2.0</b> — это возможность комфортно работать во время командировок в Москву, углубиться в инновационную экосистему и расширить свой нетворкинг.
+                    Это — пространство, где можно найти единомышленников, бизнес-партнеров, расширить нетворкинг и продуктивно совмещать работу и отдых.
                 </mj-text>
                 <mj-text font-size="16px" line-height="20px" font-weight="400" padding="0px 30px 34px 30px" color="#000000">
-                    Когда захотите воспользоваться предложением, заполните небольшую форму и приезжайте в Технопарк «Сколково». До встречи в Коворкинге 2.0!
+                    Не верьте на слово — дарим вам день в Коворкинге 2.0, чтобы вы попробовали все сами и увидели собственными глазами. Когда захотите воспользоваться тестовым днем, заполните небольшую форму и приезжайте в Технопарк «Сколково».
                 </mj-text>
+                <mj-button
+                        width="322px"
+                        href="https://anketolog.ru/s/675178/YZxgg9Uy"
+                        background-color="#FFFFFF"
+                        font-size="20px"
+                        font-weight="700"
+                        padding-bottom="40px"
+                        height="77px"
+                        border-radius="10px"
+                        color="#000000"
+                        line-height="30px"
+                >ОСТАВИТЬ ЗАЯВКУ</mj-button
+                >
             </mj-column>
         </mj-section>
         <mj-section mj-class="section">
