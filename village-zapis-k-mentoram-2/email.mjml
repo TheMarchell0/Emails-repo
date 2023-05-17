@@ -87,9 +87,8 @@
         </mj-section>
         <mj-section mj-class="section" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=bg-img-zapis-k-mentoram-small.png" background-size="cover">
             <mj-column>
-                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="41px 30px 10px 37px" >1. Зайти в аккаунт по автоматически сгенерированной ссылке. Ссылка была направлена вам на email после покупки билета.</mj-text>
-                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 40px 37px">2. Выбрать одного или двух менторов и свободный временной слот для встречи.</mj-text>
-                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 180px 30px">У вас будет всего <b>30 минут</b> на общение — <b>заранее подготовьте вопросы</b> и все необходимые материалы о проекте!</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="41px 30px 40px 30px">Выбрать одного или двух менторов и свободный временной слот для встречи.</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 237px 30px">У вас будет всего <b>30 минут</b> на общение — <b>заранее подготовьте вопросы</b> и все необходимые материалы о проекте!</mj-text>
             </mj-column>
         </mj-section>
         <mj-section mj-class="section">
