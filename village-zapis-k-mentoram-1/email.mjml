@@ -1,0 +1,183 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Open Sans, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+            <mj-class name="footer" padding="20px 0 0" background-color="#535D5E" />
+            <mj-class
+                    name="footer__text"
+                    padding="0 34px 30px 34px"
+                    font-weight="400"
+                    font-size="16px"
+                    line-height="22px"
+                    color="#A5A5A5"
+            />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=head-1.png"
+                        alt="Список соорганизаторов"
+                />
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=head-2-zapis-k-mentoram.png"
+                        alt="Запись к менторам Startup Village открыта!"
+                />
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="40px 30px 24px 30px">Главное событие года в области инноваций — конференция Startup Village 2023 — состоится совсем скоро. 24 и 25 мая на площадке Центрального парка «Сколково» соберутся бизнес-лидеры, инвесторы и менторы, а значит, будет максимум возможностей для продвижения проектов. 
+                </mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 40px 30px">
+                    Предприниматели могут принять участие в <a href="https://2023.startupvillage.ru/mentor-hours" target="_blank" style="color:#0B89FE;font-weight:700;">Mentor hours</a> — узнать у профессиональных менторов, как улучшить проект и замотивировать инвесторов вложить в него деньги. 
+                </mj-text>
+                <mj-text font-size="32px" line-height="48px" font-weight="700" padding="0px 30px 20px 30px" color="#000000">Менторы</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image align="left" width="115px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mentor-1.png"></mj-image>
+                <mj-text align="left" font-weight="700" font-size="24px" color="#62D5F6" line-height="33px">АЛЕКСАНДР<br/>КАШИРИН</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px">Заместитель Председателя НТС. РОСТЕХ</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image align="left" width="115px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mentor-2.png"></mj-image>
+                <mj-text align="left" font-weight="700" font-size="24px" color="#62D5F6" line-height="33px">ЖАМИЛЯ КАМЕНЕВА</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px">Директор по маркетингу. AXENIX</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image align="left" width="115px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mentor-3.png"></mj-image>
+                <mj-text align="left" font-weight="700" font-size="24px" color="#62D5F6" line-height="33px">ИЛЬЯ ГОЛЬДТ</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px">Управляющий директор, партнер. Фонд «Новая индустрия»</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image align="left" width="115px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mentor-4.png"></mj-image>
+                <mj-text align="left" font-weight="700" font-size="24px" color="#62D5F6" line-height="33px">ДМИТРИЙ ЛИСОГОР</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px">Заместитель генерального директора по цифровому здравоохранению. PHILIPS</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-button
+                        width="376px"
+                        href="https://startupvillage.ru/?utm_source=email_in&utm_medium=letter&utm_campaign=1"
+                        background-color="#E131A8"
+                        font-size="20px"
+                        font-weight="700"
+                        height="77px"
+                        padding-top="40px"
+                        border-radius="10px"
+                        color="#FFFFFF"
+                        line-height="30px"
+                        padding-bottom="40px"
+                >ПОСМОТРЕТЬ ВСЕХ МЕНТОРОВ</mj-button
+                >
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 40px 30px">Количество временных слотов ограничено.
+                </mj-text>
+                <mj-text font-size="32px" line-height="48px" font-weight="700" padding="0px 30px 40px 30px" color="#000000">Чтобы записаться к ментору, необходимо:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=bg-img-zapis-k-mentoram.png" background-size="cover">
+            <mj-column>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="41px 30px 10px 37px" >1. Оплатить участие в конференции Startup Village 2023 <a href="https://startupvillage.ru/price/" target="_blank" style="color:#0053A0">https://startupvillage.ru/price/</a></mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 10px 37px">2. Зайти в аккаунт по автоматически сгенерированной ссылке. Ссылка будет направлена вам на email после покупки билета.</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 40px 37px">3. Выбрать одного или двух менторов и свободный временной слот для встречи <a href="https://2023.startupvillage.ru/mentor-hours" target="_blank" style="color:#0053A0">на этой странице</a>.</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 24px 30px">У вас будет всего <b>30 минут</b> на общение — <b>заранее подготовьте вопросы</b> и все необходимые материалы о проекте!</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="24px" padding="0px 30px 162px 30px">Напоминаем, что опция доступна после оплаты участия в конференции Startup Village 2023.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-button
+                        width="322px"
+                        href="https://startupvillage.ru/?utm_source=email_in&utm_medium=letter&utm_campaign=1"
+                        background-color="#E131A8"
+                        font-size="20px"
+                        font-weight="700"
+                        height="77px"
+                        padding-top="40px"
+                        border-radius="10px"
+                        color="#FFFFFF"
+                        line-height="30px"
+                        padding-bottom="40px"
+                >КУПИТЬ БИЛЕТ</mj-button
+                >
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=bg-img-2-zapis-k-mentoram.png" background-size="cover">
+            <mj-column>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="40px 30px 0px 31px" ><b>Подарок всем участникам Startup Tour 2023</b> -  5 дней в Коворкинге 2.0!</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="18px 30px 0px 31px" >Планируете деловую поездку в Москву  - приезжайте в «Сколково» и протестируйте новое пространство для работы - Коворкинг 2.0 </mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="18px 30px 0px 31px" ><b>Коворкинг 2.0</b> — это возможность комфортно работать во время командировок в Москву, углубиться в инновационную экосистему и расширить свой нетворкинг. </mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="18px 30px 42px 31px" >Когда захотите воспользоваться предложением, заполните небольшую форму и приезжайте в Технопарк «Сколково». До встречи в Коворкинге 2.0!</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-text align="center" font-weight="700" color="#000000" font-size="24px" line-height="33px" padding-bottom="32px" padding-top="40px">До встречи в Инновационном<br/>
+                    центре «Сколково»!</mj-text>
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Соорганизаторы</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="322px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-1.png"
+                        alt="Лого партнёра"
+                        padding-bottom="19px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Стратегический партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="175px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-3.png"
+                        alt="Лого партнёра"
+                        padding-bottom="16px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Официальный партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="93px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-4.png"
+                        alt="Лого партнёра"
+                        padding-bottom="26px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Инновационный партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="99px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-5.png"
+                        alt="Лого партнёра"
+                        padding-bottom="50px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="footer">
+            <mj-column>
+                <mj-text mj-class="footer__text" align="justify">
+                    Вы получили эту рассылку, так как подписаны на рассылки от
+                    «Сколково Форум», посвященные конкурсам и мероприятиям «Startup
+                    Tour», «Startup
+                    Village» и «Nobel Vision. Открытые инновации», а также
+                    информационные
+                    письма партнеров «Сколково».
+                </mj-text>
+                <mj-text mj-class="footer__text" align="center">
+                    <a href="$[unsubscribe_url]" style="color: #A5A5A5"
+                    >Отписаться от рассылки</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
