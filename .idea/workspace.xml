@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-zapis-k-mentoram-1/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/village-zapis-k-mentoram-1/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-zapis-k-mentoram-1/Запись к менторам (где текста больше и купить билет).html" beforeDir="false" afterPath="$PROJECT_DIR$/village-zapis-k-mentoram-1/Запись к менторам (где текста больше и купить билет).html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-zapis-k-mentoram-2/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/village-zapis-k-mentoram-2/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-zapis-k-mentoram-2/Запись к менторам-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/village-zapis-k-mentoram-2/Запись к менторам-2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +78,7 @@
       <workItem from="1684224794963" duration="1100000" />
       <workItem from="1684234043605" duration="450000" />
       <workItem from="1684240071882" duration="75000" />
-      <workItem from="1684316078069" duration="7140000" />
+      <workItem from="1684316078069" duration="8763000" />
     </task>
     <servers />
   </component>

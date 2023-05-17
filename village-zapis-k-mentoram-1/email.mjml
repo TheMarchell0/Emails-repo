@@ -117,7 +117,32 @@
                 <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="40px 30px 0px 31px" ><b>Подарок всем участникам Startup Tour 2023</b> -  5 дней в Коворкинге 2.0!</mj-text>
                 <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="18px 30px 0px 31px" >Планируете деловую поездку в Москву  - приезжайте в «Сколково» и протестируйте новое пространство для работы - Коворкинг 2.0 </mj-text>
                 <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="18px 30px 0px 31px" ><b>Коворкинг 2.0</b> — это возможность комфортно работать во время командировок в Москву, углубиться в инновационную экосистему и расширить свой нетворкинг. </mj-text>
-                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="18px 30px 42px 31px" >Когда захотите воспользоваться предложением, заполните небольшую форму и приезжайте в Технопарк «Сколково». До встречи в Коворкинге 2.0!</mj-text>
+                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="18px 30px 0px 31px" >Когда захотите воспользоваться предложением, заполните небольшую форму и приезжайте в Технопарк «Сколково». До встречи в Коворкинге 2.0!</mj-text>
+                <mj-text font-size="16px" line-height="20px" font-weight="700" padding="39px 30px 18px 30px" color="#000000">
+                    Бонус для участников Startup Village!
+                </mj-text>
+                <mj-text font-size="16px" line-height="20px" font-weight="400" padding="0px 30px 18px 30px" color="#000000">
+                    Ощутите эффект экосистемы «Сколково» и ознакомьтесь со всеми возможностями в <a href="https://coworking.sk.ru/" target="_blank" style="color:##1F5EFF">Коворкинге 2.0</a>
+                </mj-text>
+                <mj-text font-size="16px" line-height="20px" font-weight="400" padding="0px 30px 18px 30px" color="#000000">
+                    Это — пространство, где можно найти единомышленников, бизнес-партнеров, расширить нетворкинг и продуктивно совмещать работу и отдых.
+                </mj-text>
+                <mj-text font-size="16px" line-height="20px" font-weight="400" padding="0px 30px 34px 30px" color="#000000">
+                    Не верьте на слово — дарим вам день в Коворкинге 2.0, чтобы вы попробовали все сами и увидели собственными глазами. Когда захотите воспользоваться тестовым днем, заполните небольшую форму и приезжайте в Технопарк «Сколково».
+                </mj-text>
+                <mj-button
+                        width="322px"
+                        href="https://anketolog.ru/s/675178/YZxgg9Uy"
+                        background-color="#FFFFFF"
+                        font-size="20px"
+                        font-weight="700"
+                        padding-bottom="40px"
+                        height="77px"
+                        border-radius="10px"
+                        color="#000000"
+                        line-height="30px"
+                >ОСТАВИТЬ ЗАЯВКУ</mj-button
+                >
             </mj-column>
         </mj-section>
         <mj-section mj-class="section">
