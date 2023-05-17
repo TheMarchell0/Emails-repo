@@ -112,10 +112,6 @@
         </mj-section>
         <mj-section mj-class="section" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=bg-img-2-zapis-k-mentoram.png" background-size="cover">
             <mj-column>
-                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="40px 30px 0px 31px" ><b>Подарок всем участникам Startup Tour 2023</b> -  5 дней в Коворкинге 2.0!</mj-text>
-                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="18px 30px 0px 31px" >Планируете деловую поездку в Москву  - приезжайте в «Сколково» и протестируйте новое пространство для работы - Коворкинг 2.0 </mj-text>
-                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="18px 30px 0px 31px" ><b>Коворкинг 2.0</b> — это возможность комфортно работать во время командировок в Москву, углубиться в инновационную экосистему и расширить свой нетворкинг. </mj-text>
-                <mj-text font-weight="400" color="#000000" font-size="16px" line-height="19px" padding="18px 30px 0px 31px" >Когда захотите воспользоваться предложением, заполните небольшую форму и приезжайте в Технопарк «Сколково». До встречи в Коворкинге 2.0!</mj-text>
                 <mj-text font-size="16px" line-height="20px" font-weight="700" padding="39px 30px 18px 30px" color="#000000">
                     Бонус для участников Startup Village!
                 </mj-text>
