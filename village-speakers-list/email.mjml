@@ -1,0 +1,183 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Open Sans, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+            <mj-class name="footer" padding="20px 0 0" background-color="#535D5E" />
+            <mj-class
+                    name="footer__text"
+                    padding="0 34px 30px 34px"
+                    font-weight="400"
+                    font-size="16px"
+                    line-height="22px"
+                    color="#A5A5A5"
+            />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=head-1.png"
+                        alt="Список соорганизаторов"
+                />
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=head-2-speakers-list.png"
+                        alt="Двигайте инновации вместе с экспертами Startup Village 2023. Центральный парк Сколково"
+                />
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="40px 30px 24px 30px"><b>24 и 25 мая в Центральном парке «Сколково»</b> вас ждет одно из самых масштабных событий в мире инноваций и технологического предпринимательства — <b>Startup Village 2023!</b>
+                </mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 0px 30px">Это уникальная площадка, где соберутся лучшие стартапы, инвесторы, менторы и представители крупных компаний. Вместе с ними обсудим технологии в различных отраслях: от креативных индустрий и биохакинга до фармы и финтеха — и возможности для развития стратапов.
+                </mj-text>
+                <mj-button
+                        width="322px"
+                        href="https://test.ru"
+                        background-color="#E131A8"
+                        font-size="20px"
+                        font-weight="700"
+                        height="77px"
+                        padding-top="40px"
+                        border-radius="10px"
+                        color="#FFFFFF"
+                        line-height="30px"
+                        padding-bottom="40px"
+                >ПРОГРАММА</mj-button
+                >
+                <mj-text font-size="32px" line-height="48px" font-weight="700" padding="0px 30px 20px 30px" color="#000000">Спикеры</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" padding-bottom="20px">
+            <mj-column>
+                <mj-image width="167px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=speaker-1.png"></mj-image>
+                <mj-text  font-weight="700" font-size="16px" color="#000000" line-height="22px" align="center" padding-bottom="10px">Артемий Лебедев</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px" align="center" padding="0 0 20px 0">Дизайнер</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="167px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=speaker-2.png"></mj-image>
+                <mj-text  font-weight="700" font-size="16px" color="#000000" line-height="22px" align="center" padding-bottom="10px">Юрий Максимов</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px" align="center" padding="0">Сооснователь, председатель совета<br/>директоров<br/>
+                    Positive Technologies</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" padding-bottom="20px">
+            <mj-column>
+                <mj-image width="167px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=speaker-3.png"></mj-image>
+                <mj-text  font-weight="700" font-size="16px" color="#000000" line-height="22px" align="center" padding-bottom="10px">Алексей Фурсин</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px" align="center" padding="0 0 20px 0">Руководитель департамента<br/>предпринимательства и<br/>инновационного развития города<br/>Москвы</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="167px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=speaker-4.png"></mj-image>
+                <mj-text  font-weight="700" font-size="16px" color="#000000" line-height="22px" align="center" padding-bottom="10px">Ирина Петровская</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px" align="center" padding="0">Руководитель Департамента<br/>организации и контроля<br/>технологических изменений -<br/>старший вице президент<br/>
+                    БАНК ВТБ</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" padding-bottom="20px">
+            <mj-column>
+                <mj-image width="167px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=speaker-5.png"></mj-image>
+                <mj-text  font-weight="700" font-size="16px" color="#000000" line-height="22px" align="center" padding-bottom="10px">Александр Айвазов</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px" align="center" padding="0 0 20px 0">Старший вице-президент по<br/>инвестициям и развитию бизнеса<br/>
+                    VK</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="167px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=speaker-6.png"></mj-image>
+                <mj-text  font-weight="700" font-size="16px" color="#000000" line-height="22px" align="center" padding-bottom="10px">Никил Трипати</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px" align="center" padding="0">Сооснователь<br/>
+                    BIJAK, Индия</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" padding-bottom="20px">
+            <mj-column>
+                <mj-image width="167px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=speaker-7.png"></mj-image>
+                <mj-text  font-weight="700" font-size="16px" color="#000000" line-height="22px" align="center" padding-bottom="10px">Амор Макланг</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px" align="center" padding="0 0 20px 0">Организатор<br/>
+                    DIGITAL PILIPINAS, Филиппины</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="167px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=speaker-8.png"></mj-image>
+                <mj-text  font-weight="700" font-size="16px" color="#000000" line-height="22px" align="center" padding-bottom="10px">Федерико Винер</mj-text>
+                <mj-text font-weight="400" font-size="14px" color="#000000" line-height="19px" align="center" padding="0">Генеральный директор<br/>
+                    DDLABS, Швейцария</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-button
+                        width="322px"
+                        href="https://test.ru"
+                        background-color="#E131A8"
+                        font-size="20px"
+                        font-weight="700"
+                        height="77px"
+                        padding-top="0px"
+                        border-radius="10px"
+                        color="#FFFFFF"
+                        line-height="30px"
+                        padding-bottom="31px"
+                >РЕГИСТРАЦИЯ</mj-button>
+                <mj-text align="center" font-weight="700" color="#000000" font-size="24px" line-height="33px" padding-bottom="32px">До встречи в Инновационном<br/>
+                    центре «Сколково»!</mj-text>
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Соорганизаторы</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="322px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-1.png"
+                        alt="Лого партнёра"
+                        padding-bottom="19px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Стратегический партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="175px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-3.png"
+                        alt="Лого партнёра"
+                        padding-bottom="16px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Официальный партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="93px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-4.png"
+                        alt="Лого партнёра"
+                        padding-bottom="26px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Инновационный партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="99px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-5.png"
+                        alt="Лого партнёра"
+                        padding-bottom="50px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="footer">
+            <mj-column>
+                <mj-text mj-class="footer__text" align="justify">
+                    Вы получили эту рассылку, так как подписаны на рассылки от
+                    «Сколково Форум», посвященные конкурсам и мероприятиям «Startup
+                    Tour», «Startup
+                    Village» и «Nobel Vision. Открытые инновации», а также
+                    информационные
+                    письма партнеров «Сколково».
+                </mj-text>
+                <mj-text mj-class="footer__text" align="center">
+                    <a href="$[unsubscribe_url]" style="color: #A5A5A5"
+                    >Отписаться от рассылки</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
