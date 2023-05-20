@@ -147,8 +147,6 @@
             </mj-column>
             <mj-column>
                 <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" padding="0">Разместите рекламу в <a href="https://novikovtv.tv/?utm_source=startup&utm_medium=email" target="_blank" style="color:#1F5EFF">эфире</a> и <a href="https://novikovtv.tv/internet-targeting?utm_source=startup&utm_medium=email" target="_blank" style="color:#1F5EFF">онлайн</a> с таргетингом на аудиторию ресторанов А. Новикова, топовых салонов красоты, фитнес-клубов, отелей и клиник:</mj-text>
-                <mj-text font-weight="400" font-size="16px" line-height="24px" padding="25px 0 0 0"><a href="tel:+79099092022" style="color:#1F5EFF">+7 (909) 909-20-22</a></mj-text>
-                <mj-text font-weight="400" font-size="16px" line-height="24px" padding="5px 0 0 0"><a href="mailto:hello@novikovtv.tv" style="color:#1F5EFF">hello@novikovtv.tv</a></mj-text>
             </mj-column>
         </mj-section>
         <mj-section mj-class="section">
