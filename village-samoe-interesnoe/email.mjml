@@ -136,20 +136,7 @@
         </mj-section>
         <mj-section mj-class="section">
             <mj-column>
-                <mj-text font-size="18px" line-height="27px" font-weight="400" padding="20px 30px 20px 30px" color="#000000">Трансляцию Фестиваля впервые можно будет посмотреть в метавселенной для предпринимателей “КоМета” от Сбера. Смотрите прямой эфир, общайтесь с другими участниками, участвуйте в квизах и получайте призы.</mj-text>
-                <mj-button
-                        width="322px"
-                        href="https://metapark-demoday.ru/R5URviQ/mainhub"
-                        background-color="#E131A8"
-                        font-size="20px"
-                        font-weight="700"
-                        height="77px"
-                        padding-top="0px"
-                        border-radius="10px"
-                        color="#FFFFFF"
-                        line-height="30px"
-                >СМОТРЕТЬ ТРАНСЛЯЦИЮ</mj-button>
-                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="6px 30px 20px 30px" color="#000000"><b>Skoltech Triple Point</b> - это соревнование студенческих стартапов, организованное в 2021 году в Сколковском институте науки и технологий. За 2 года существования конкурса в нём приняло участие более 80 команд. 10 инновационных проектов получило финансирование из Фонда Конкурса общим объемом более чем два миллиона рублей! </mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="20px 30px 20px 30px" color="#000000"><b>Skoltech Triple Point</b> - это соревнование студенческих стартапов, организованное в 2021 году в Сколковском институте науки и технологий. За 2 года существования конкурса в нём приняло участие более 80 команд. 10 инновационных проектов получило финансирование из Фонда Конкурса общим объемом более чем два миллиона рублей! </mj-text>
                 <mj-text font-size="24px" line-height="36px" font-weight="700" padding="10px 30px 20px 30px" color="#000000">Novikov TV для вашего бизнеса</mj-text>
             </mj-column>
         </mj-section>
