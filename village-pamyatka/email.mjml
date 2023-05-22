@@ -95,6 +95,22 @@
                 >АВТОМОБИЛЬ</mj-button>
             </mj-column>
         </mj-section>
+        <mj-section mj-class="section" padding-bottom="28px">
+            <mj-column>
+                <mj-button
+                        width="322px"
+                        href="https://2023.startupvillage.ru/faq"
+                        background-color="#E131A8"
+                        font-size="20px"
+                        font-weight="700"
+                        height="77px"
+                        padding-top="10px"
+                        border-radius="10px"
+                        color="#FFFFFF"
+                        line-height="30px"
+                >КАК ДОБРАТЬСЯ</mj-button>
+            </mj-column>
+        </mj-section>
         <mj-section mj-class="section" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=village-pamyatka-bg.png" background-size="cover">
             <mj-column>
                 <mj-text font-size="24px" line-height="36px" font-weight="700" padding="40px 30px 20px 40px" color="#FFFFFF">4. Подготовиться</b></mj-text>
