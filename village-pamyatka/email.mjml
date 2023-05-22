@@ -42,10 +42,10 @@
         </mj-section>
         <mj-section mj-class="section">
             <mj-column>
-                <mj-image width="260px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=village-pamyatka-table-1.png" href="https://test.ru"></mj-image>
+                <mj-image width="260px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=village-pamyatka-table-1.png" href="https://2023.startupvillage.ru/program?day=05-24&group=main-program&utm_source=email_in&utm_medium=letter&utm_campaign=9"></mj-image>
             </mj-column>
             <mj-column>
-                <mj-image width="260px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=village-pamyatka-table-2.png" href="https://test.ru"></mj-image>
+                <mj-image width="260px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=village-pamyatka-table-2.png" href="https://2023.startupvillage.ru/program?day=05-25&group=main-program&utm_source=email_in&utm_medium=letter&utm_campaign=9"></mj-image>
             </mj-column>
         </mj-section>
         <mj-section mj-class="section">
@@ -54,7 +54,7 @@
                 <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 20px 30px">После завершения регистрации и <b>оплаты</b> в личном кабинете появится ваш бейдж. Пожалуйста, распечатайте его — это ваш пропуск на площадку.</mj-text>
                 <mj-button
                         width="322px"
-                        href="https://test.ru/"
+                        href="https://2023.startupvillage.ru/login?utm_source=email_in&utm_medium=letter&utm_campaign=9"
                         background-color="#E131A8"
                         font-size="20px"
                         font-weight="700"
@@ -103,10 +103,10 @@
         </mj-section>
         <mj-section mj-class="section">
             <mj-column>
-                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="40px 30px 30px 30px"><b>Важная информация</b> о том, как оплатить участие онлайн, получить закрывающие документы — в разделе «ВОПРОСЫ» на сайте startupvillage.ru.<br/>Выбрать рекомендованный отель по <a href="https://test.ru" target="_blank" style="color:#0053A0">ссылке</a>.</mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="40px 30px 30px 30px"><b>Важная информация</b> о том, как оплатить участие онлайн, получить закрывающие документы — в разделе «ВОПРОСЫ» на сайте startupvillage.ru.<br/>Выбрать рекомендованный отель по <a href="https://drive.google.com/file/d/1cWiiN05JxWny1paUxhURap53xTz2utOa/view?usp=sharing" target="_blank" style="color:#0053A0">ссылке</a>.</mj-text>
                 <mj-button
                         width="322px"
-                        href="https://test.ru/"
+                        href="https://2023.startupvillage.ru/faq"
                         background-color="#E131A8"
                         font-size="20px"
                         font-weight="700"
