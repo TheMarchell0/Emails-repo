@@ -132,22 +132,7 @@
                         color="#FFFFFF"
                         line-height="30px"
                 >ВАЖНАЯ ИНФОРМАЦИЯ</mj-button>
-                <mj-text font-size="24px" line-height="36px" font-weight="700" padding="30px 30px 20px 30px" color="#000000">Novikov TV для вашего бизнеса</mj-text>
-            </mj-column>
-        </mj-section>
-                <mj-section mj-class="section">
-                    <mj-column>
-                        <mj-image width="220px"src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=novikov-tv.png"></mj-image>
-                    </mj-column>
-                    <mj-column>
-                        <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" padding="0">Разместите рекламу в <a href="https://novikovtv.tv/?utm_source=startup&utm_medium=email" target="_blank" style="color:#1F5EFF">эфире</a> и <a href="https://novikovtv.tv/internet-targeting?utm_source=startup&utm_medium=email" target="_blank" style="color:#1F5EFF">онлайн</a> с таргетингом на аудиторию ресторанов А. Новикова, топовых салонов красоты, фитнес-клубов, отелей и клиник:</mj-text>
-                    </mj-column>
-                </mj-section>
-                <mj-section mj-class="section">
-                    <mj-column>
-                        <mj-image padding-top="19px" width="536px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=novikov-info.png"></mj-image>
-                        <mj-image padding-top="21px" padding-bottom="30px" width="204px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=novikov-logo.png"></mj-image>
-                        <mj-text align="center" font-weight="700" color="#000000" font-size="24px" line-height="33px" padding-bottom="32px" padding-top="30px">До встречи на главном событии года в<br/>области инноваций! </mj-text>
+                <mj-text align="center" font-weight="700" color="#000000" font-size="24px" line-height="33px" padding-bottom="32px" padding-top="30px">До встречи на главном событии года в<br/>области инноваций! </mj-text>
                 <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Соорганизаторы</mj-text>
                 <mj-image
                         mj-class="hero-image"
@@ -241,6 +226,16 @@
                         width="393px"
                         css-class="css-image"
                         src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-6.png"
+                        alt="Лого партнёра"
+                        padding-bottom="30px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">ПРЕМИАЛЬНОЕ ИНДОР-ТЕЛЕВИДЕНИЕ</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="175px"
+                        href="https://novikovtv.tv/"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=novikov-logo-pamyatka.png"
                         alt="Лого партнёра"
                         padding-bottom="30px"
                 />
