@@ -27,7 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Alexandr Nechkasov/Desktop/billing-prod",
+    "last_opened_file_path": "C:/Users/Alexandr Nechkasov/Desktop/base-emails",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -96,6 +96,9 @@
       <workItem from="1684841096793" duration="12000" />
       <workItem from="1684852040835" duration="1112000" />
       <workItem from="1684853676926" duration="19000" />
+      <workItem from="1684854592647" duration="160000" />
+      <workItem from="1685015879074" duration="12000" />
+      <workItem from="1685367928684" duration="2401000" />
     </task>
     <servers />
   </component>
