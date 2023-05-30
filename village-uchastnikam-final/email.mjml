@@ -36,7 +36,7 @@
                 <mj-text font-size="16px" line-height="24px" font-weight="700" padding="0px 30px 20px 30px">Мы будем благодарны за обратную связь: ваши впечатления о мероприятии, пожелания и конструктивную критику.</mj-text>
                 <mj-button
                         width="322px"
-                        href="https://test.ru"
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSeCzjEZjUIPPT1k79X8kXIYFIH_pQls7ui6kztJFevKvO_FEg/viewform?usp=sf_link"
                         background-color="#E131A8"
                         font-size="20px"
                         font-weight="700"
@@ -54,7 +54,7 @@
                 </mj-text>
                 <mj-button
                         width="322px"
-                        href="https://test.ru"
+                        href="https://2023.startupvillage.ru/video?day=05-24&track=main-stage&utm_source=email_in&utm_medium=letter&utm_campaign=10"
                         background-color="#FFFFFF"
                         font-size="20px"
                         font-weight="700"
