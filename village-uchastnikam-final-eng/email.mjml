@@ -46,7 +46,7 @@
                         line-height="30px"
                         padding-bottom="42px"
                 >COMPLETE THE SURVEY</mj-button>
-                <mj-text font-size="16px" line-height="24px" font-weight="700" padding="0px 30px 20px 30px">Startup Village “The time of innovations” 2023 event:</mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="700" padding="0px 30px 20px 30px">Startup Village “Time of innovations” 2023 event:</mj-text>
             </mj-column>
         </mj-section>
         <mj-section mj-class="section" padding-top="9px">
@@ -63,8 +63,7 @@
         <mj-section mj-class="section" padding-top="9px">
             <mj-column>
                 <mj-text font-weight="700" font-size="24px" color="#8DE1AD" line-height="36px" align="center"> 120</mj-text>
-                <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" align="center">business-like<br/>
-                    program session</mj-text>
+                <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" align="center">business-program<br/>session</mj-text>
             </mj-column>
             <mj-column>
                 <mj-text font-weight="700" font-size="24px" color="#8DE1AD" line-height="36px" align="center"> 350</mj-text>
