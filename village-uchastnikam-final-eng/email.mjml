@@ -1,0 +1,290 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Open Sans, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+            <mj-class name="footer" padding="20px 0 0" background-color="#535D5E" />
+            <mj-class
+                    name="footer__text"
+                    padding="0 34px 30px 34px"
+                    font-weight="400"
+                    font-size="16px"
+                    line-height="22px"
+                    color="#A5A5A5"
+            />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=head-1-eng.png"
+                        alt="Coorganizers list"
+                />
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=head-2-uchastnikam-final-eng.png"
+                        alt="Dear participants"
+                />
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="32px 30px 39px 30px">We’re glad you visited us and we hope that the event was useful and helpful for you.</mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="700" padding="0px 30px 20px 30px">We would appreciate your feedback: your impressions of the event, suggestions and constructive critics.</mj-text>
+                <mj-button
+                        width="322px"
+                        href="https://docs.google.com/forms/d/1hklD_NUzAiNOlisl9gnK_ghLhOKtdFMCUq0G6qugwTg/edit"
+                        background-color="#E131A8"
+                        font-size="20px"
+                        font-weight="700"
+                        height="77px"
+                        border-radius="10px"
+                        color="#FFFFFF"
+                        line-height="30px"
+                        padding-bottom="42px"
+                >COMPLETE THE SURVEY</mj-button>
+                <mj-text font-size="16px" line-height="24px" font-weight="700" padding="0px 30px 20px 30px">Startup Village “The time of innovations” 2023 event:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" padding-top="9px">
+            <mj-column>
+                <mj-text font-weight="700" font-size="24px" color="#8DE1AD" line-height="36px" align="center"> 9 000+</mj-text>
+                <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" align="center">guests from <b>40</b> countries</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-weight="700" font-size="24px" color="#8DE1AD" line-height="36px" align="center">  2 000 000+</mj-text>
+                <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" align="center">online-broadcast<br/>
+                    viewers</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" padding-top="9px">
+            <mj-column>
+                <mj-text font-weight="700" font-size="24px" color="#8DE1AD" line-height="36px" align="center"> 120</mj-text>
+                <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" align="center">business-like<br/>
+                    program session</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-weight="700" font-size="24px" color="#8DE1AD" line-height="36px" align="center"> 350</mj-text>
+                <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" align="center">speakers from <b>13</b> countries</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="30px 30px 40px 30px">Thank you for helping us make it possible!</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=uchastnikam-final-bg-1.png" background-size="cover" background-repeat="no-repeat">
+            <mj-column>
+                <mj-text font-size="16px" line-height="24px" font-weight="700" padding="40px 30px 25px 30px" color="#FFFFFF" align="center">Speaker’s performances recordings are available<br/>to watch on website
+
+                </mj-text>
+                <mj-button
+                        width="322px"
+                        href="https://2023.startupvillage.ru/video?day=05-24&track=main-stage&utm_source=email_in&utm_medium=letter&utm_campaign=10"
+                        background-color="#FFFFFF"
+                        font-size="20px"
+                        font-weight="700"
+                        height="77px"
+                        border-radius="10px"
+                        color="#000000"
+                        line-height="30px"
+                        padding-bottom="40px"
+                >GO ON WEBSITE</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" padding-top="40px">
+            <mj-column>
+                <mj-image width="153px"src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=reklama.png"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text font-weight="700" font-size="16px" color="#000000" line-height="24px" padding="0 0 25px 0">For conference participants:</mj-text>
+                <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" padding="0 0 0 0">
+                    The Media-group “Russia Today” offers you translation services in foreign languages with 10% discount. Wide range of topics and any level of difficulty. Send you request to <a href="mailto:translation@ria.ru" target="_blank" style="color:#1F5EFF">translation@ria.ru</a> with the email topic  “The time of innovation”</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" padding="20px 30px 40px 30px">*Any order, placed in May-June, will be discounted until 31.08.2023</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=uchastnikam-final-bg-2.png" background-size="cover" background-repeat="no-repeat">
+            <mj-column>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="40px 30px 20px 30px" color="#FFFFFF">This year the AR-navigation on the forum has been launched,that allows you to display the route in augmented reality,find any object easily and get a context information about the forum objects.</mj-text>
+                <mj-text font-size="16px" line-height="24px" font-weight="400" padding="0px 30px 16px 30px" color="#FFFFFF">The project, which is a Skolkovo resident,<br/>was created by Skoltech students and<br/>sponsored by Bortnik fund.</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="140px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=navigio-logo.png"
+                        alt="Navigio logo"
+                        href="https://t.me/Navigio_bot"
+                        padding-bottom="33px"
+                        align="left"
+                        padding-left="30px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-text align="center" font-weight="700" color="#000000" font-size="24px" line-height="33px" padding-bottom="20px" padding-top="40px">Thank you!</mj-text>
+                <mj-text align="center" font-weight="700" color="#000000" font-size="24px" line-height="33px" padding-bottom="32px">Respectfully, the team<br/>
+                    of Startup Village 2023</mj-text>
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Co-organizers</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="322px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-1.png"
+                        alt="Partner logo"
+                        padding-bottom="33px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">With the organizational support of</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="172px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-11.png"
+                        alt="Partner logo"
+                        padding-bottom="18px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="32px">Strategic partner</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="175px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-3.png"
+                        alt="Partner logo"
+                        padding-bottom="24px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Official partner</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="93px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-4.png"
+                        alt="Partner logo"
+                        padding-bottom="33px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Innovational partner</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="99px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=partner-5.png"
+                        alt="Partner logo"
+                        padding-bottom="44px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">General informational partners</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="470px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-1.png"
+                        alt="Partner logo"
+                        padding-bottom="18px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Informational partners</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="430px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-2.png"
+                        alt="Partner logo"
+                        padding-bottom="30px"
+                />
+                <mj-image
+                        mj-class="hero-image"
+                        width="466px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-3.png"
+                        alt="Partner logo"
+                        padding-bottom="30px"
+                />
+                <mj-image
+                        mj-class="hero-image"
+                        width="478px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-4.png"
+                        alt="Partner logo"
+                        padding-bottom="30px"
+                />
+                <mj-image
+                        mj-class="hero-image"
+                        width="410px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-5.png"
+                        alt="Partner logo"
+                        padding-bottom="32px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Industry informational partners</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="393px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-6.png"
+                        alt="Partner logo"
+                        padding-bottom="30px"
+                />
+                <mj-image
+                        mj-class="hero-image"
+                        width="486px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-7.png"
+                        alt="Partner logo"
+                        padding-bottom="32px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Premium indoor-television</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="175px"
+                        href="https://novikovtv.tv/"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=novikov-logo-pamyatka.png"
+                        alt="Partner logo"
+                        padding-bottom="30px"
+                />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Official informational partners</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="487px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-8.png"
+                        alt="Partner logo"
+                        padding-bottom="25px"
+                />
+                <mj-image
+                        mj-class="hero-image"
+                        width="446px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-9.png"
+                        alt="Partner logo"
+                        padding-bottom="32px"
+                />
+                <mj-image
+                        mj-class="hero-image"
+                        width="231px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=big-partners-10.png"
+                        alt="Partner logo"
+                        padding-bottom="55px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="footer">
+            <mj-column>
+                <mj-text mj-class="footer__text" align="justify">
+                    You received this newsletter,since you’re subscribed to Skolkovo Forum newsletters,related to contests and events “Startup Tour”,” Startup Village” and “Nobel vision.Opened innovations”, as well as to informational emails of Skolkovo partners.
+                </mj-text>
+                <mj-text mj-class="footer__text" align="center">
+                    <a href="$[unsubscribe_url]" style="color: #A5A5A5"
+                    >Unsubscribe</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
+
