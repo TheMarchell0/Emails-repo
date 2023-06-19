@@ -207,6 +207,15 @@
                         alt="Лого партнёра"
                         padding-bottom="50px"
                 />
+                <mj-text font-weight="400" font-size="16px" line-height="18px" text-transform="uppercase" align="center" padding-bottom="25px">Технологический партнер</mj-text>
+                <mj-image
+                        mj-class="hero-image"
+                        width="177px"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vk-logo.png"
+                        alt="Лого партнёра"
+                        padding-bottom="50px"
+                />
             </mj-column>
         </mj-section>
         <mj-section mj-class="footer">

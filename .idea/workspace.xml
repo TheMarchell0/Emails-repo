@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/village-uchastnikam-final/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/village-uchastnikam-final/email.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/village-uchastnikam-final/Участникам финал.html" beforeDir="false" afterPath="$PROJECT_DIR$/village-uchastnikam-final/Участникам финал.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-must-go-on/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/village-must-go-on/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-must-go-on/Инновации должны продолжаться.html" beforeDir="false" afterPath="$PROJECT_DIR$/village-must-go-on/Инновации должны продолжаться.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-samoe-interesnoe/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/village-samoe-interesnoe/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-samoe-interesnoe/Самое интересное.html" beforeDir="false" afterPath="$PROJECT_DIR$/village-samoe-interesnoe/Самое интересное.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-speakers-list/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/village-speakers-list/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/village-speakers-list/Спикеры.html" beforeDir="false" afterPath="$PROJECT_DIR$/village-speakers-list/Спикеры.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,17 +27,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexandr Nechkasov/Desktop/base-emails&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Alexandr Nechkasov/Desktop/base-emails",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -103,7 +107,9 @@
       <workItem from="1685367928684" duration="2533000" />
       <workItem from="1685435678069" duration="873000" />
       <workItem from="1685455319174" duration="19000" />
-      <workItem from="1685523915943" duration="719000" />
+      <workItem from="1685523915943" duration="781000" />
+      <workItem from="1685612782222" duration="72000" />
+      <workItem from="1687183007784" duration="823000" />
     </task>
     <servers />
   </component>
