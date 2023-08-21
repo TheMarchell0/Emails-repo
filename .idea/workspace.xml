@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/village-must-go-on/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/village-must-go-on/email.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/village-must-go-on/Инновации должны продолжаться.html" beforeDir="false" afterPath="$PROJECT_DIR$/village-must-go-on/Инновации должны продолжаться.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/village-samoe-interesnoe/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/village-samoe-interesnoe/email.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/village-samoe-interesnoe/Самое интересное.html" beforeDir="false" afterPath="$PROJECT_DIR$/village-samoe-interesnoe/Самое интересное.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/village-speakers-list/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/village-speakers-list/email.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/village-speakers-list/Спикеры.html" beforeDir="false" afterPath="$PROJECT_DIR$/village-speakers-list/Спикеры.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +104,9 @@
       <workItem from="1685523915943" duration="781000" />
       <workItem from="1685612782222" duration="72000" />
       <workItem from="1687183007784" duration="823000" />
+      <workItem from="1687429633232" duration="8000" />
+      <workItem from="1687783178550" duration="13000" />
+      <workItem from="1692607194310" duration="23020000" />
     </task>
     <servers />
   </component>

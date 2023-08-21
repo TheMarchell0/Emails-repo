@@ -1,0 +1,337 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" />
+      <mj-class name="hero-image" padding="0" width="600px" />
+      <mj-class name="image" padding="0 56px" width="640px" />
+      <mj-class
+              name="button"
+              border-radius="100px"
+              padding="0"
+              inner-padding="17px 30px"
+              font-weight="600"
+              font-size="20px"
+              color="#FFFFFF"
+      />
+    </mj-attributes>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+                mj-class="hero-image"
+                css-class="css-image"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=title-img-psb-1.png"
+                alt="ПСБ Цифровая Лаборатория. Это митап для разработчиков от разработчиков!"
+        />
+        <mj-button
+                width="520px"
+                background-color="#F5F5F5"
+                color="#222"
+                padding-top="40px"
+                padding-bottom="30px"
+                border-radius="20px"
+                font-size="14px"
+                line-height="110%"
+                text-align="left"
+                inner-padding="20px"
+        ><span style="display: block;padding-bottom:13px"><b>26 августа</b> на встрече <b>«Продуктовая разработка в финтехе»</b> обсудим внедрение в работу цифрового рубля, полезные фичи и опыт QA-специалистов.</span>
+          Инженеры-программисты, DevOps-специалисты и эксперты
+          по развитию ПСБ поделятся своими инструментами и реальными кейсами в области финтеха.</mj-button>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=content-img-1.png"
+                alt="О чём расскажем"
+                width="317px"
+                align="left"
+                padding-left="47px"
+                padding-bottom="19px"
+        ></mj-image>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=info-line-mobile.png"
+                alt="Декоративная линия"
+                width="450px"
+                align="left"
+                padding-left="59px"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=content-line-1.png"
+                alt="Декоративная линия"
+                width="2px"
+                align="left"
+                padding-left="59px"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+                padding-bottom="20px"
+        >Как построить работу цифровой команды эффективно и с взаимным пониманием.</mj-text>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+                padding-bottom="20px"
+        >Какие утилиты и пакеты помогли frontend-разработчикам улучшить свою работу.</mj-text>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+                padding-bottom="20px"
+        >Переходим к микросервисам. Как это сделать?</mj-text>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+                padding-bottom="20px"
+        >Как специалисту выстроить эффективное взаимодействие с QA командами.</mj-text>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+                padding-bottom="20px"
+        >Код в продуктовой среде.</mj-text>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+        >Опыт специалистов ПСБ по внедрению цифрового рубля. Что из этого вышло.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-button
+                mj-class="button"
+                href="https://psb-meetup.ru/?utm_source=in_email&utm_medium=letter&utm_campaign=1"
+                width="296px"
+                background-color="linear-gradient(140deg, #7E3C8F 0%, #D04A71 30.60%, #EC624F 55.11%, #EF7767 90.63%);"
+                color="#FFFFFF"
+                padding-top="45px"
+                padding-bottom="75px"
+        >Посмотреть программу</mj-button
+        >
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=speakers-mobile.png"
+                alt="Список спикеров"
+                width="400px"
+                padding-bottom="40px"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-speakers-img.png"
+                alt="О чём расскажем"
+                width="78px"
+                align="left"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text
+                font-weight="700"
+                font-size="30px"
+                color="#000"
+                align="left"
+                padding-bottom="47px"
+        >Опытом поделятся:</mj-text>
+        <mj-text
+                font-weight="700"
+                font-size="24px"
+                color="#000"
+                align="left"
+                padding-bottom="12px"
+        >Анастасия Титова</mj-text>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+                padding-bottom="20px"
+        >Управляющий эксперт по развитию
+          интеграционных карточных продуктов</mj-text>
+        <mj-text
+                font-weight="700"
+                font-size="24px"
+                color="#000"
+                align="left"
+                padding-bottom="12px"
+        >Ольга Борисова</mj-text>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+                padding-bottom="20px"
+        >Главный инженер-программист</mj-text>
+        <mj-text
+                font-weight="700"
+                font-size="24px"
+                color="#000"
+                align="left"
+                padding-bottom="12px"
+        >Расим Сулейманов</mj-text>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+                padding-bottom="20px"
+        >Главный инженер-программист</mj-text>
+        <mj-text
+                font-weight="700"
+                font-size="24px"
+                color="#000"
+                align="left"
+                padding-bottom="12px"
+        >Денис Болдырев</mj-text>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+                padding-bottom="20px"
+        >Главный инженер по тестированию</mj-text>
+        <mj-text
+                font-weight="700"
+                font-size="24px"
+                color="#000"
+                align="left"
+                padding-bottom="12px"
+        >Александр Татаринцев</mj-text>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+                padding-bottom="20px"
+        >DevOps</mj-text>
+        <mj-text
+                font-weight="700"
+                font-size="24px"
+                color="#000"
+                align="left"
+                padding-bottom="12px"
+        >Андрей Паниченко</mj-text>
+        <mj-text
+                font-weight="400"
+                font-size="16px"
+                color="#000"
+                align="left"
+                padding-bottom="114px"
+        >Продакт-менеджер в команде цифрового рубля</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+            mj-class="section"
+            background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-bg-img.png"
+            background-size="cover">
+      <mj-column>
+        <mj-text
+                color="#FFFFFF"
+                font-size="30px"
+                font-weight="700"
+                line-height="110%"
+                align="center"
+                padding="97px 55px 2px 55px"
+        >Не упустите возможность выиграть главный приз - домашний проектор от Xiaomi</mj-text
+        >
+        <mj-text
+                color="#FFFFFF"
+                font-size="16px"
+                font-weight="700"
+                line-height="110%"
+                align="center"
+                padding-bottom="39px"
+        >Условия: быть активным слушателем лекций</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-text
+                color="#000000"
+                font-size="30px"
+                font-weight="700"
+                line-height="110%"
+                align="center"
+                padding-top="38px"
+                padding-bottom="17px"
+        >26 августа, с 16:30 до 23:00</mj-text>
+        <mj-text
+                color="#000000"
+                font-size="30px"
+                font-weight="400"
+                line-height="110%"
+                align="center"
+                padding-bottom="42px"
+        >г. Севастополь, ул. Парковая 11,<br/>Отель Aquamarine.</mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://psb-meetup.ru/?utm_source=in_email&utm_medium=letter&utm_campaign=1"
+                width="296px"
+                background-color="linear-gradient(140deg, #7E3C8F 0%, #D04A71 30.60%, #EC624F 55.11%, #EF7767 90.63%);"
+                color="#FFFFFF"
+                padding-bottom="52px"
+        >Участвовать</mj-button
+        >
+        <mj-image
+                mj-class="hero-image"
+                css-class="css-image"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-cart.png"
+                alt="Карта расположения"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#282828">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-footer-logo.png"
+                alt="ПСБ Цифровая лаборатория"
+                width="240px"
+                align="left"
+                padding-top="47px"
+        ></mj-image>
+        <mj-text color="#FFF" padding-top="62px" font-size="19px" font-weight="600" line-height="150%">
+          Если у вас остались вопросы, вы можете<br/>обратиться по телефону <span style="text-decoration:underline;color: #FFD000">+7 903 145 3256</span><br/>и/или написать на почту<br/><a href="mailto:nizkousna@psbank.ru" style="text-decoration:underline;color:#FFFFFF">nizkousna@psbank.ru</a>
+        </mj-text>
+        <mj-text padding-top="65px" color="#FFD000" font-size="19px" font-weight="700" line-height="130%">
+          ПСБ ДИДЖИТАЛ
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#282828">
+      <mj-column>
+        <mj-image
+                href="https://www.psbank.ru/"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=logo_psb.png"
+                alt="ПСБ Цифровая лаборатория"
+                width="45px"
+                align="left"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image
+                href="https://t.me/psb_it_team"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=telegram.png"
+                alt="ПСБ Цифровая лаборатория"
+                width="45px"
+                align="left"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
