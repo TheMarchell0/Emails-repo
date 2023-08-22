@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psb-1/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/psb-1/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psb-1/images/psb-cart.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/psb-1/psb-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/psb-1/psb-1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +111,8 @@
       <workItem from="1687783178550" duration="13000" />
       <workItem from="1692607194310" duration="23349000" />
       <workItem from="1692688016888" duration="20000" />
-      <workItem from="1692688063466" duration="10000" />
+      <workItem from="1692688063466" duration="22000" />
+      <workItem from="1692695072264" duration="77000" />
     </task>
     <servers />
   </component>
