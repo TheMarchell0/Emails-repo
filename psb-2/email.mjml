@@ -1,0 +1,165 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" />
+      <mj-class name="hero-image" padding="0" width="600px" />
+      <mj-class name="image" padding="0 56px" width="640px" />
+      <mj-class
+              name="button"
+              border-radius="100px"
+              padding="0"
+              inner-padding="17px 30px"
+              font-weight="600"
+              font-size="20px"
+              color="#FFFFFF"
+      />
+    </mj-attributes>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+                mj-class="hero-image"
+                css-class="css-image"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=title-img-psb-2.png"
+                alt="ПСБ Цифровая Лаборатория. Вы уже в числе участников митапа для финтех-разработчиков!"
+        />
+        <mj-button
+                width="520px"
+                background-color="#F5F5F5"
+                color="#222"
+                padding-top="40px"
+                border-radius="20px"
+                font-size="14px"
+                line-height="110%"
+                text-align="left"
+                inner-padding="20px"
+        ><span style="display: block;padding-bottom:13px">Добрый день!</span>
+          <b>26 августа</b> ждем вас на встрече «Продуктовая разработка в финтехе»
+          с экспертами Цифровой лаборатории ПСБ.</mj-button>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-2-content-img-1.png"
+                alt="Вы узнаете"
+                width="216px"
+                align="left"
+                padding-left="46px"
+                padding-top="47px"
+        ></mj-image>
+        <mj-text
+                color="#00000"
+                font-size="16px"
+                font-weight="400"
+                line-height="113%"
+                padding="20px 64px 2px 106px"
+        >Вы узнаете от разработчиков и продакт-менеджеров об их опыте внедрения цифрового рубля, полезных утилитах и взаимодействии внутри команды. </mj-text>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-2-content-img-2.png"
+                alt="Время"
+                width="146px"
+                align="left"
+                padding-left="46px"
+                padding-top="37px"
+                padding-bottom="2px"
+        ></mj-image>
+        <mj-text
+                color="#00000"
+                font-size="19px"
+                font-weight="700"
+                padding="0px 55px 2px 106px"
+        >с 16:30 до 23:00</mj-text>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-2-content-img-3.png"
+                alt="Место проведения"
+                width="324px"
+                align="left"
+                padding-left="46px"
+                padding-top="58px"
+                padding-bottom="3px"
+        ></mj-image>
+        <mj-text
+                color="#00000"
+                font-size="16px"
+                font-weight="400"
+                padding="0px 55px 2px 106px"
+        >Отель Aquamarine, г. Севастополь, ул. Парковая 11</mj-text>
+        <mj-text
+                color="#00000"
+                font-size="20px"
+                font-weight="700"
+                padding="2px 55px 75px 106px"
+        >Как добраться?</mj-text>
+        <mj-image
+                mj-class="hero-image"
+                css-class="css-image"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-map-1.jpg"
+                alt="Карта расположения"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section
+            mj-class="section"
+            background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-2-bg-img.png"
+            background-size="cover">
+      <mj-column>
+        <mj-text
+                color="#FFFFFF"
+                font-size="30px"
+                font-weight="700"
+                line-height="110%"
+                align="center"
+                padding="76px 40px 2px 33px"
+        >Вас ждет афтепати и возможность пообщаться с коллегами, обсудить темы встречи и обменяться опытом.</mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://psb-meetup.ru/?utm_source=in_email&utm_medium=letter&utm_campaign=1"
+                width="296px"
+                background-color="linear-gradient(140deg, #7E3C8F 0%, #D04A71 30.60%, #EC624F 55.11%, #EF7767 90.63%);"
+                color="#FFFFFF"
+                padding-top="35px"
+                padding-bottom="67px"
+        >Принять участие</mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#282828">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-footer-logo.png"
+                alt="ПСБ Цифровая лаборатория"
+                width="240px"
+                align="left"
+                padding-top="47px"
+        ></mj-image>
+        <mj-text color="#FFF" padding-top="62px" font-size="19px" font-weight="600" line-height="150%">
+          Если у вас остались вопросы, вы можете<br/>обратиться по телефону <span style="text-decoration:underline;color: #FFD000">+7 903 145 3256</span><br/>и/или написать на почту<br/><a href="mailto:nizkousna@psbank.ru" style="text-decoration:underline;color:#FFFFFF">nizkousna@psbank.ru</a>
+        </mj-text>
+        <mj-text padding-top="65px" color="#FFD000" font-size="19px" font-weight="700" line-height="130%">
+          ПСБ ДИДЖИТАЛ
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#282828">
+      <mj-column>
+        <mj-image
+                href="https://www.psbank.ru/"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=logo_psb.png"
+                alt="ПСБ Цифровая лаборатория"
+                width="45px"
+                align="left"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image
+                href="https://t.me/psb_it_team"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=telegram.png"
+                alt="ПСБ Цифровая лаборатория"
+                width="45px"
+                align="left"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
