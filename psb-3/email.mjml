@@ -48,7 +48,7 @@
         >Посмотреть, как прошел митап «Продуктовая разработка в финтехе» вы можете по ссылке</mj-text>
         <mj-button
                 mj-class="button"
-                href="https://psb-meetup.ru/?utm_source=in_email&utm_medium=letter&utm_campaign=1"
+                href="https://psb-meetup.ru/?utm_medium=email&utm_campaign=3"
                 width="296px"
                 background-color="linear-gradient(140deg, #7E3C8F 0%, #D04A71 30.60%, #EC624F 55.11%, #EF7767 90.63%);"
                 color="#FFFFFF"
