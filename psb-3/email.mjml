@@ -38,7 +38,7 @@
                 text-align="left"
                 inner-padding="20px"
         ><span style="display: block;padding-bottom:13px">Добрый день!</span>
-          Мы рады были видеть вас среди участников, и с удовольствие ждем вас на следующих встречах.</mj-button>
+          Мы рады были видеть вас среди участников, и с удовольствием ждем вас на следующих встречах.</mj-button>
         <mj-text
                 color="#00000"
                 font-size="20px"
