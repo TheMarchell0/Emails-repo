@@ -1,0 +1,185 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Roboto Flex, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+            <mj-class name="footer" padding="20px 0 0" background-color="#535D5E" />
+            <mj-class
+                    name="footer__text"
+                    padding="0 34px 30px 34px"
+                    font-weight="400"
+                    font-size="14px"
+                    line-height="16px"
+                    color="#A5A5A5"
+            />
+            <mj-class
+                    name="list"
+                    padding="0px 54px 0px 62px"
+                    font-weight="400"
+                    font-size="15px"
+                    line-height="140%"
+                    color="#000000"
+            />
+        </mj-attributes>
+        <mj-style>
+            ul { margin: 0; padding: 0; } ul li { margin: 0; padding-left: 0px;
+                                              padding-bottom: 0px; } .unsubscribe-url { color:#A5A5A5; }
+        </mj-style>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vebinar-head.png"
+                        alt="Взгляните на бизнес по-новому! 31 августа в 11:00"
+                />
+                <mj-text font-size="15px" line-height="140%" font-weight="400" padding="5px 44px 20px 44px"><b>7 сентября в 11:00</b> пройдет вебинар по получению статуса участника проекта «Сколково» с руководителями кластера Энерготех Фонда «Сколково».</mj-text>
+                <mj-text font-size="15px" line-height="140%" font-weight="800" padding="0px 40px 16px 40px">Приглашаем вас на нашу онлайн-встречу, если вы хотя бы раз задавались такими вопросами, как:</mj-text>
+                <mj-text mj-class="list" padding-bottom="7px">
+                    <ul>
+                        <li>Как технологическим компаниям снизить издержки?</li>
+                        <li> Где стартаперам найти заинтересованных заказчиков?</li>
+                        <li style="padding-bottom:17px">Как получить конкурентные преимущества?</li>
+                    </ul>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-text font-size="20px" line-height="36px" font-weight="700" padding="19px 30px 20px 41px" color="#000000">Кому будет интересно?
+                </mj-text>
+                <mj-text font-size="15px" line-height="140%" font-weight="400" padding="0px 30px 20px 41px" color="#000000">Участие в онлайн-встрече будет полезно как крупным<br/>технологическим игрокам, так и малым технологическим<br/> компаниям <span style="font-weight:700;background-color:#b1ec52;padding:2px 5px 3px 5px; border-radius:5px;">следующих&nbspнаправлений:</span>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image width="186px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vebinar-list-1.png"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="187px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vebinar-list-2.png" padding-bottom="20px"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vebinar-bg-1.png" background-size="100%" background-repeat="no-repeat">
+            <mj-column>
+                <mj-text font-size="18px" line-height="27px" font-weight="700" padding="60px 20% 40px 40px" color="#000000">На вебинаре мы расскажем,<br/><span style="margin-left:-5px;background-color:#b1ec52;padding:5px 5px 5px 5px; border-radius:5px;">как&nbsp;«Сколково»&nbspможет&nbspпомочь</span><br/>в развитии именно<br/>вашего бизнеса.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-text font-size="20px" line-height="36px" font-weight="700" padding="14px 40px 7px 40px" color="#000000">Вы узнаете:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image width="250px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vebinar-list-3.png"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="236px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vebinar-list-4.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-button
+                        width="518px"
+                        href="https://test.ru"
+                        background-color="#B1EC52"
+                        font-size="18px"
+                        font-weight="500"
+                        height="50px"
+                        border-radius="10px"
+                        color="#000000"
+                        line-height="140%"
+                        padding-top="22px"
+                        padding-bottom="30px"
+                >Регистрация</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-color="#b1ec52">
+            <mj-column>
+                <mj-text font-size="30px" line-height="36px"color="#000000" align="center" padding-top="30px" padding-bottom="30px"><b>Почему «Сколково»:</b></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-color="#b1ec52">
+            <mj-column>
+                <mj-image width="511" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vebinar-why-1.png" padding-bottom="10px"></mj-image>
+                <mj-image width="511" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vebinar-why-2.png" padding-bottom="10px"></mj-image>
+                <mj-image width="511" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vebinar-why-3.png" padding-bottom="10px"></mj-image>
+                <mj-image width="511" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vebinar-why-4.png" padding-bottom="10px"></mj-image>
+                <mj-image width="511" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=vebinar-why-5.png" padding-bottom="10px"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-color="#b1ec52">
+            <mj-column background-color="#FFFFFF" border-radius="20px">
+                <mj-text font-size="15px" line-height="130%" color="#000000"><span style="font-weight:700;font-size:24px;display: block;padding-bottom:20px">+3500</span>Количество компаний,<br/>которые пользуются<br/>поддержкой «Сколково» </mj-text>
+            </mj-column>
+            <mj-column background-color="#FFFFFF" border-radius="20px">
+                <mj-text font-size="15px" line-height="130%" color="#000000"><span style="font-weight:700;font-size:24px;display: block;padding-bottom:20px">351,9 млрд <br/>рублей </span>Суммарная выручка<br/>ключевых технологических<br/>компаний экосистемы<br/>«Сколково» на конец 2022 г.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-color="#b1ec52">
+            <mj-column>
+                <mj-button
+                        width="518px"
+                        href="https://test.ru"
+                        background-color="#FFFFFF"
+                        font-size="18px"
+                        font-weight="500"
+                        height="50px"
+                        border-radius="10px"
+                        color="#000000"
+                        line-height="140%"
+                        padding-top="31px"
+                        padding-bottom="30px"
+                >Подать заявку</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-text font-size="24px" line-height="130%"color="#000000" align="center" padding-top="60px" padding-bottom="20px"><b>До начала вебинара вы можете<br/>задать свой вопрос и получить ответ<br/>на него в рамках онлайн-встречи.</b></mj-text>
+                <mj-button
+                        width="518px"
+                        href="https://test.ru"
+                        background-color="#B1EC52"
+                        font-size="18px"
+                        font-weight="500"
+                        height="50px"
+                        border-radius="10px"
+                        color="#000000"
+                        line-height="140%"
+                        padding-bottom="35px"
+                >Задать вопрос</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text  padding-top="12px" padding-bottom="15px" align="center" font-size="18px" line-height="140%">Подключайтесь <b>каждую неделю<br/>в четверг, в 11:00</b> — чтобы узнать,<br/>как эффективно развивать бизнес!</mj-text>
+                <mj-text padding-bottom="9px" align="center" font-size="20px" line-height="140%"><b>До встречи на вебинаре!</b></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="footer">
+            <mj-column>
+                <mj-text mj-class="footer__text" align="justify">
+                    Вы получили эту рассылку, так как подписаны на рассылки от
+                    «Сколково Форум», посвященные конкурсам и мероприятиям «Startup
+                    Tour», «Startup
+                    Village» и «Nobel Vision. Открытые инновации», а также
+                    информационные
+                    письма партнеров «Сколково».
+                </mj-text>
+                <mj-text mj-class="footer__text" align="center" padding="0 34px 23px 34px">
+                    <a href="$[unsubscribe_url]" style="color: #A5A5A5;"
+                    >Отписаться от рассылки</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
+
