@@ -117,10 +117,12 @@
         </mj-section>
         <mj-section mj-class="section" background-color="#b1ec52">
             <mj-column background-color="#FFFFFF" border-radius="20px">
-                <mj-text font-size="15px" line-height="130%" color="#000000"><span style="font-weight:700;font-size:24px;display: block;padding-bottom:20px">+3500</span>Количество компаний,<br/>которые пользуются<br/>поддержкой «Сколково» </mj-text>
+                <mj-text font-weight="700" font-size="24px" padding-bottom="20px">+3500</mj-text>
+                <mj-text font-size="15px" line-height="130%" color="#000000">Количество компаний,<br/>которые пользуются<br/>поддержкой «Сколково» </mj-text>
             </mj-column>
             <mj-column background-color="#FFFFFF" border-radius="20px">
-                <mj-text font-size="15px" line-height="130%" color="#000000"><span style="font-weight:700;font-size:24px;display: block;padding-bottom:20px">351,9 млрд <br/>рублей </span>Суммарная выручка<br/>ключевых технологических<br/>компаний экосистемы<br/>«Сколково» на конец 2022 г.</mj-text>
+                <mj-text font-weight="700" font-size="24px" padding-bottom="20px">351,9 млрд <br/>рублей</mj-text>
+                <mj-text font-size="15px" line-height="130%" color="#000000">Суммарная выручка<br/>ключевых технологических<br/>компаний экосистемы<br/>«Сколково» на конец 2022 г.</mj-text>
             </mj-column>
         </mj-section>
         <mj-section mj-class="section" background-color="#b1ec52">
@@ -142,7 +144,7 @@
         </mj-section>
         <mj-section mj-class="section">
             <mj-column>
-                <mj-text font-size="24px" line-height="130%"color="#000000" align="center" padding-top="60px" padding-bottom="20px"><b>До начала вебинара вы можете<br/>задать свой вопрос и получить ответ<br/>на него в рамках онлайн-встречи.</b></mj-text>
+                <mj-text font-size="24px" line-height="130%" color="#000000" align="center" padding-top="60px" padding-bottom="20px"><b>До начала вебинара вы можете<br/>задать свой вопрос и получить ответ<br/>на него в рамках онлайн-встречи.</b></mj-text>
                 <mj-button
                         width="518px"
                         href="https://test.ru"
@@ -182,4 +184,3 @@
         </mj-section>
     </mj-body>
 </mjml>
-
