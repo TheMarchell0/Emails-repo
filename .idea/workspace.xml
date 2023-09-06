@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skolkovo-vebinar/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/skolkovo-vebinar/email.mjml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skolkovo-vebinar/images/vebinar-head.png" beforeDir="false" afterPath="$PROJECT_DIR$/skolkovo-vebinar/images/vebinar-head.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skolkovo-vebinar/Вебинар.html" beforeDir="false" afterPath="$PROJECT_DIR$/skolkovo-vebinar/Вебинар.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +121,11 @@
       <workItem from="1693466839216" duration="17755000" />
       <workItem from="1693497733620" duration="95000" />
       <workItem from="1693498509705" duration="597000" />
-      <workItem from="1693818851433" duration="7106000" />
+      <workItem from="1693818851433" duration="7350000" />
+      <workItem from="1693832860913" duration="139000" />
+      <workItem from="1693908139709" duration="600000" />
+      <workItem from="1693929774965" duration="547000" />
+      <workItem from="1693985922551" duration="20827000" />
     </task>
     <servers />
   </component>

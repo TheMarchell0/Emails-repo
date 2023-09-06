@@ -1,0 +1,230 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Arial, Helvetica, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+            <mj-class
+                    name="list"
+                    padding="0px 54px 0px 62px"
+                    font-weight="400"
+                    font-size="15px"
+                    line-height="140%"
+                    color="#000000"
+            />
+        </mj-attributes>
+        <mj-style>
+            .block-shadow {
+                box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.10)!important;
+                margin-bottom: 20px!important;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        css-class="css-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-head.png"
+                        alt="Nativity дайджест Август. Новое в Telegram в августе:
+stories, тренды и лучшие кейсы"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-text font-size="14px" line-height="100%" font-weight="400" padding="12px 20px 12px 20px">Привет!</mj-text>
+                <mj-text font-size="14px" line-height="113%" font-weight="400" padding="0px 20px 6px 20px">Вы открыли дайджест <a href="https://promo.nativity.tech/" target="_blank" style="color:#000000">Nativity,</a> и теперь это ваш ежемесячный проводник в медиамир Telegram. Пока мы все отходили от кучи постов про 1 и 3 сентября, незаметно начался новый бизнес-сезон и рынок требует новых и «очень новых» решений. </mj-text>
+                <mj-text font-size="14px" line-height="113%" font-weight="400" padding="5px 20px 20px 20px">Поэтому, перефразируя Полонского, если в вашем медиаплане нет строчки «Telegram», ваш план уйдет не туда. А сейчас мы расскажем, что происходит в мессенджере за пределами рабочих чатиков с миллионом уведомлений.</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="113px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-1.png" padding-bottom="20px"></mj-image>
+                <mj-text font-size="14px" line-height="140%" font-weight="700">Владимир Балашов</mj-text>
+                <mj-text font-size="10px" line-height="140%" font-weight="400">Product Director, Nativity Tech</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-1.png" background-size="100%" background-repeat="no-repeat">
+            <mj-column>
+                <mj-button
+                        width="90px"
+                        background-color="none"
+                        border="1px solid #FFFFFF"
+                        font-size="12px"
+                        font-weight="400"
+                        height="23px"
+                        border-radius="30px"
+                        color="#FFFFFF"
+                        line-height="140%"
+                >Sponsored</mj-button>
+                <mj-text font-size="14px" line-height="140%" font-weight="400" padding="4px 30px 20px 41px" color="#FFFFFF"><b>Nativity</b> — платформа таргетированной рекламы в лучших Telegram-каналах с programmatic-подходом.</mj-text>
+                <mj-text font-size="14px" line-height="140%" font-weight="400" padding="0px 30px 20px 41px" color="#FFFFFF"><a href="https://promo.nativity.tech/" target="_blank" style="color:#FFFFFF; font-style:italic">Перейти на сайт</a></mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="292px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-2.png" padding-bottom="20px"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-text font-size="20px" line-height="120%" font-weight="600" padding="60px 20px 40px 20px" color="#000000">Новости индустрии за 4 минуты
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px">
+            <mj-column>
+                <mj-text align="right"><span style="background-color:#1078F1;border-top-left-radius:100px;border-bottom-left-radius:100px;color:#FFFFFF;font-size:9px;line-height:120%;font-weight:600;padding:6px 12px;">#Законы</span></mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="200px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-3.png"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="20px" font-weight="700" line-height="110%" padding-bottom="6px">Рекламный пост без маркировки в Telegram — теперь очень дорого</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="110%" padding-bottom="3px"><b>С 1 сентября вводятся штрафы<b/> за непредставление, некорректную подачу данных о рекламной кампании в РКН и отсутствие токена.</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="110%">У брендов был ровно год на адаптацию и изучение нового закона о рекламе. Теперь кто не успел — тот опоздал. <b>За нарушения ждут штрафы от 100 000 до 700 000 руб.<b/></mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="13px" font-weight="400" line-height="110%">Рекламодатели платформы Nativity могут быть спокойны: <b>системой<br/> предусмотрены автоматическая маркировка рекламы</b>, передача данных<br/>и внесение отчетности в ОРД.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px">
+            <mj-column>
+                <mj-text align="right"><span style="background-color:#318C2C;border-top-left-radius:100px;border-bottom-left-radius:100px;color:#FFFFFF;font-size:9px;line-height:120%;font-weight:600;padding:6px 12px;">#Функционал</span></mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="20px" font-weight="600" line-height="110%">Stories в Telegram: как войти<br/>и сразу выйти из моды</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%" padding-bottom="3px">Запущенный в июне <b>формат Stories в Telegram уже успел стать непопулярным</b>. По опросу Nativity более 64% пользователей* уже заархивировали Stories от «просто контактов» из записной книжки, оставив только близких знакомых.</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%"><b>Почему?</b> Во-первых, каждая площадка прививает свою модель потребления контента: <b>Telegram мы привыкли использовать для делового общения и чтения новостей.</b> А во-вторых, в мессенджере, в отличие от соцсети с картинками, отсутствует возможность выбирать, на кого подписываться, а на кого нет.</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="13px" font-weight="400" line-height="150%"><b>Что нового?</b> Ждем появление <b>Stories для Telegram-каналов</b>. Данный формат расширит подход к подаче контента и рекламе в Telegram. Но авторы каналов, в отличие от блогеров других соцсетей, в большинстве не станут выходить в публичное поле: как мы помним — Instagram** для красивых, а Telegram для умных.</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="207px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-4.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px">
+            <mj-column>
+                <mj-text align="right"><span style="background-color:#FF5530;border-top-left-radius:100px;border-bottom-left-radius:100px;color:#FFFFFF;font-size:9px;line-height:120%;font-weight:600;padding:6px 12px;">#Тренды</span></mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="20px" font-weight="600" line-height="110%">Тренды 2023 года<br/>в Influence Marketing от АРИР</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%"     padding-bottom="2px">В <a href="https://interactivead.ru/wp-content/uploads/2023/07/arir23_infuencer_marketing_trendbook.pdf" target="_blank" style="color:#000000">исследовании АРИР</a> (Ассоциация развития интерактивной рекламы) <b>Telegram занял второе место среди платформ, на которых будут акцентироваться influence-эксперты</b> в России.</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%"     padding-bottom="2px">Первое место взял VK. Однако не стоит обнадеживаться и заливать туда бюджеты: у многих специалистов возникают сложности в оценке эффективности площадки для performance-кампаний</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="13px" font-weight="400" line-height="150%">Замыкает тройку лидеров YouTube: видеоконтент все еще в топе, поэтому спрос на рекламу в популярных каналах продолжает расти, несмотря на слухи о скорой блокировке платформы в России.</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="207px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-5.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-2.png" background-size="100%" background-repeat="no-repeat">
+            <mj-column>
+                <mj-text align="right"><span style="background-color:#FCB950;border-top-left-radius:100px;border-bottom-left-radius:100px;color:#000000;font-size:9px;line-height:120%;font-weight:600;padding:6px 12px;">#Telegram в мире</span></mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="20px" font-weight="600" line-height="110%">Ирак решил заблокировать Telegram</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%"     padding-bottom="6px">Министерство связи Ирака приняло решение <b>заблокировать Telegram из соображений национальной безопасности</b>. Но как мы помним, принять решение и заблокировать — не всегда одно и то же.</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%">Главное, не путайте с Ираном, где Telegram — самая популярная социальная сеть. Ежемесячно сервисом пользуется 40 миллионов человек, что составляет половину всего населения страны.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-3.png" background-size="100%" background-repeat="no-repeat">
+            <mj-column>
+                <mj-text font-size="20px" font-weight="600" line-height="116%" padding-bottom="2px">Нейросеть для анализа<br/>
+                    всего русскоязычного<br/>контента в Telegram</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%">В платформу Nativity внедрена нейросеть Nativity Scan. Искусственный интеллект сканирует контент всех русскоязычных Telegram-каналов, анализируя его
+                    по множеству параметров, и решает целый ряд задач для эффективной рекламы в Telegram.</mj-text>
+                <mj-text font-size="15px" font-weight="500" line-height="120%"><a href="https://www.sostav.ru/publication/novaya-rossijskaya-nejroset-nativity-scan-analiziruet-kontent-telegram-kanalov-61993.html" target="_blank" style="color:#1B81F9;">читать подробнее</a></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-4.png" background-size="100%" background-repeat="no-repeat">
+            <mj-column>
+                <mj-text font-size="14px" font-weight="700" line-height="120%" color="#1B81F9" padding-bottom="0">Кейсы</mj-text>
+                <mj-text font-size="16px" font-weight="700" line-height="120%" padding-top="3px" padding-bottom="3px">Как жить жизнь? Кейс<br/>продвижения нового сериала<br/>Start.ru на платформе Nativity </mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%"
+                         padding-bottom="31px">Промо нового сериала «Жить жизнь» на Nativity с оптимизацией показов  позволило <b>сократить стоимость целевых контактов на 38%</b></mj-text>
+                <mj-text font-size="15px" font-weight="500" line-height="120%"><a href="https://vc.ru/u/1404050-nativity/787519-onlayn-kinoteatr-start-provel-reklamnuyu-kampaniyu-na-platforme-nativity-s-optimizaciey-stoimosti-kontakta-na-38" target="_blank" style="color:#1B81F9;">читать подробнее</a></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-5.png" background-size="100%" background-repeat="no-repeat">
+            <mj-column>
+                <mj-text font-size="14px" font-weight="700" line-height="120%" color="#1B81F9" padding-bottom="5px">Кейсы</mj-text>
+                <mj-text font-size="16px" font-weight="700" line-height="120%" padding-top="0px" padding-bottom="3px">B2B-продвижение:<br/>привлечение экспортеров<br/>для Правительства Москвы </mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="132%" padding-bottom="0px"><b>8.000 + целевых подписчиков в Telegram-канал</b> <a href="https://t.me/moscowexport/1456" target="_blank" style="color:#000000">Московского экспортного центра</a> и сотни заявок от экспортеров на субсидии
+                    и участие в мероприятиях.</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="142%" padding-top="15px">Узкий таргетинг на бизнес-аудиторию и участников ВЭД на платформе Nativity.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-6.png" background-size="100%" background-repeat="no-repeat">
+            <mj-column>
+                <mj-text font-size="14px" font-weight="700" line-height="120%" color="#1B81F9" padding-bottom="5px">Кейсы</mj-text>
+                <mj-text font-size="16px" font-weight="700" line-height="120%">Реклама новых ЖК<br/>на платформе Nativity — источник ценного трафика</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%" padding-top="0px" padding-bottom="3px" padding-bottom="15px">Целевой источник аудитории для рекламы элитной недвижимости: <b>реклама 12 новых ЖК в августе.</b></mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%"><b>Средний CTR по кампаниям — 1,9%</b></mj-text>
+                <mj-text font-size="15px" font-weight="500" line-height="120%"><a href="mailto:more@nativity.tech" target="_blank" style="color:#1B81F9;">запросить презентацию</a></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-7.png" background-size="100%" background-repeat="no-repeat">
+            <mj-column>
+                <mj-text font-size="14px" font-weight="700" line-height="120%" color="#1B81F9" padding-bottom="3px">Кейсы</mj-text>
+                <mj-text font-size="16px" font-weight="700" line-height="120%" padding-top="0px" padding-bottom="5px">Увеличить знание и набрать<br/>позитивных отзывов для<br/>бренда Synergetic</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="126%" padding-bottom="15px">Вовлечь аудиторию, рассказать о новых продуктах и собрать сотни комментариев: Synergetic провел рекламную кампанию новых товаров на платформе Nativity с целью повышения знания у core-аудитории.</mj-text>
+                <mj-text font-size="15px" font-weight="500" line-height="120%"><a href="mailto:more@nativity.tech" target="_blank" style="color:#1B81F9;">запросить презентацию</a></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="19px" line-height="120%" font-weight="600" padding-bottom="7px" padding-top="0px">Планы на сентябрь?</mj-text>
+                <mj-text font-size="14px" font-weight="700" color="#1B81F9" line-height="120%" padding-top="0px" padding-bottom="0px">Чего ждать от Nativity</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-8.png" background-size="100%" background-repeat="no-repeat">
+            <mj-column>
+                <mj-text font-size="16px" font-weight="700" line-height="150%" padding-bottom="11px">Расширенные возможности агентского<br/>кабинета Nativity</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%" padding-top="0px">В личном кабинете появилась <b>возможность предоставлять разный уровень доступа к кампаниям</b>. Например, только для просмотра или с возможностью редактирования.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-9.png" background-size="100%" background-repeat="no-repeat">
+            <mj-column>
+                <mj-text font-size="16px" font-weight="700" line-height="149%" padding-bottom="0px">10+ новых супертаргетов<br/>и гео в настройках кампаний</mj-text>
+                <mj-text font-size="13px" font-weight="400" line-height="150%">Расширение таргетингов на платформе: <b>10+ новых узких сегментов</b> и геонастроек — возможности для проведения более точечных рекламных кампаний. </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000000">
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="19px" line-height="120%">
+                    Больше новостей
+                </mj-text>
+                <mj-text color="#FFFFFF" font-size="11px" line-height="100%" padding-top="0px">
+                    <a href="https://t.me/nativitytech" style=";color:#FFFFFF;">Telegram-канал Nativity</a>
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="19px" line-height="120%">
+                    Связаться с нами
+                </mj-text>
+                <mj-text color="#FFFFFF" font-size="11px" line-height="100%" padding-top="0px">
+                    <a href="mailto:more@nativity.tech" style=";color:#FFFFFF;">more@nativity.tech</a>
+                </mj-text>
+                <mj-text color="#FFFFFF" font-size="10px" line-height="100%" padding-top="0px">
+                    <a href="www.nativity.tech" target="_blank" style="color:#FFFFFF;">www.nativity.tech</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000000">
+            <mj-column>
+                <mj-text color="#8D8D8D" font-size="6px" line-height="150%">
+                    * - данные исследования Nativity, проведенные в период с 21-31 августа 2023 г., выборка 1200 респондентов
+                    ** - принадлежат Meta, признана в России запрещенной экстремистской организацией
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#8D8D8D" font-size="10px" line-height="150%">
+                    © Nativity, 2023
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
