@@ -11,9 +11,9 @@
               name="button"
               border-radius="100px"
               padding="0"
-              inner-padding="17px 30px"
+              height="50px"
               font-weight="600"
-              font-size="20px"
+              font-size="17px"
               color="#FFFFFF"
       />
     </mj-attributes>
@@ -27,35 +27,182 @@
                 src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=title-img-psb-3.png"
                 alt="ПСБ Цифровая Лаборатория. Спасибо, что были с нами на митапе 26 августа!"
         />
-        <mj-button
-                width="520px"
-                background-color="#F5F5F5"
-                color="#222"
-                padding-top="40px"
-                border-radius="20px"
-                font-size="14px"
-                line-height="110%"
-                text-align="left"
-                inner-padding="20px"
-        ><span style="display: block;padding-bottom:13px">Добрый день!</span>
-          Мы рады были видеть вас среди участников, и с удовольствием ждем вас на следующих встречах.</mj-button>
-        <mj-text
-                color="#00000"
-                font-size="20px"
-                font-weight="700"
-                padding="20px 43px 2px 39px"
-                align="center"
-        >Посмотреть, как прошел митап «Продуктовая разработка в финтехе» вы можете по ссылке</mj-text>
+        <mj-text padding="35px 31px 15px" font-size="26px" font-weight="700" color="#000000">Митап прошел, а впечатления остались!</mj-text>
+        <mj-text padding="0px 31px 21px" font-size="16px" font-weight="400" align="center" color="#000000" line-height="1.1">Смотрите, как прошел митап<br/>«Продуктовая разработка в финтехе» </mj-text>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-3-content-img.png"
+                alt="ПСБ Цифровая Лаборатория."
+                width="227px"
+        ></mj-image>
+        <mj-text padding="21px 31px 7px" font-size="26px" font-weight="700" color="#000000" align="center" line-height="1.17">Ищите себя и забирайте<br/>фото на память</mj-text>
         <mj-button
                 mj-class="button"
-                href="https://psb-meetup.ru/?utm_medium=email&utm_campaign=3"
-                width="296px"
+                href="https://disk.yandex.ru/d/7IaTzltP82dQiA"
+                width="180px"
                 background-color="linear-gradient(140deg, #7E3C8F 0%, #D04A71 30.60%, #EC624F 55.11%, #EF7767 90.63%);"
                 color="#FFFFFF"
-                padding-top="35px"
-                padding-bottom="49px"
-        >Посмотреть</mj-button
-        >
+        >Смотреть фото</mj-button>
+        <mj-text padding="51px 31px 10px" font-size="26px" font-weight="700" color="#000000">Доклады экспертов</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section" border-bottom="2px solid #EEEEEE" padding-bottom="10px">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-speaker-1.png"
+                alt="Фото - Анастасия Титова"
+                width="78px"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="20px" font-weight="700" padding-bottom="6px">Анастасия Титова</mj-text>
+        <mj-text color="#000000" font-size="15px" font-weight="700" padding-bottom="6px">Системный анализ в цифровых командах</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="500">Как выстроить эффективное взаимодействие внутри команды, оптимизировать процессы и работать на одной волне.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-3-button.png"
+                alt="Кнопка ссылки"
+                width="47px"
+                href="https://test.ru/"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section" border-bottom="2px solid #EEEEEE">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-speaker-2.png"
+                alt="Фото - Ольга Борисова"
+                width="78px"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="20px" font-weight="700" padding-bottom="6px">Ольга Борисова</mj-text>
+        <mj-text color="#000000" font-size="15px" font-weight="700" padding-bottom="6px">Как мы улучшаем пользовательский опыт frontend-разработчиков в финтехе</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="500">Про утилиты и пакеты, которые мы используем и разрабатываем. И про то, как сделать свою работу более эффективной.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-3-button.png"
+                alt="Кнопка ссылки"
+                width="47px"
+                href="https://test.ru/"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section" border-bottom="2px solid #EEEEEE">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-speaker-3.png"
+                alt="Фото - Расим Сулейманов"
+                width="78px"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="20px" font-weight="700" padding-bottom="6px">Расим Сулейманов</mj-text>
+        <mj-text color="#000000" font-size="15px" font-weight="700" padding-bottom="6px">Переход от монолита к микросервисам на .NET</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="500">О реальном опыте превращении большого монолита в набор микросервисов. Шаги, примеры, выводы.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-3-button.png"
+                alt="Кнопка ссылки"
+                width="47px"
+                href="https://test.ru/"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section" border-bottom="2px solid #EEEEEE">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-speaker-4.png"
+                alt="Фото - Денис Болдырев"
+                width="78px"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="20px" font-weight="700" padding-bottom="6px">Денис Болдырев</mj-text>
+        <mj-text color="#000000" font-size="15px" font-weight="700" padding-bottom="6px">Как выстроить эффективное взаимодействие QA с командой</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="500">Как взаимодействовать с различными ролями и быть полезным для команды. Как согласовать процесс релиза, чтобы все прошло хорошо и как улучшать качество на проекте.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-3-button.png"
+                alt="Кнопка ссылки"
+                width="47px"
+                href="https://test.ru/"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section" border-bottom="2px solid #EEEEEE">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-speaker-5.png"
+                alt="Фото - Александр Татаринцев"
+                width="78px"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="20px" font-weight="700" padding-bottom="6px">Александр Татаринцев</mj-text>
+        <mj-text color="#000000" font-size="15px" font-weight="700" padding-bottom="6px">Путь кода в продуктовую среду</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="500">О том, какую роль в продуктовой команде выполняют DevOps специалисты.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-3-button.png"
+                alt="Кнопка ссылки"
+                width="47px"
+                href="https://test.ru/"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section" border-bottom="2px solid #EEEEEE">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-speaker-6.png"
+                alt="Фото - Андрей Паниченко"
+                width="78px"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="20px" font-weight="700" padding-bottom="6px">Андрей Паниченко</mj-text>
+        <mj-text color="#000000" font-size="15px" font-weight="700" padding-bottom="6px">Как ПСБ адаптировал цифровой рубль</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="500">Что такое цифровой рубль и какую ценность он несет для организаций, как ПСБ адаптирует свои решения для его использования клиентами.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-3-button.png"
+                alt="Кнопка ссылки"
+                width="47px"
+                href="https://test.ru/"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-text padding="48px 31px 10px" font-size="26px" font-weight="700" color="#000000" align="center" line-height="1.26">Станьте частью команды<br/>Цифровой лаборатории ПСБ</mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://career.habr.com/companies/psb"
+                width="214px"
+                background-color="linear-gradient(140deg, #7E3C8F 0%, #D04A71 30.60%, #EC624F 55.11%, #EF7767 90.63%);"
+                color="#FFFFFF"
+        >Отправить резюме</mj-button>
+        <mj-text padding="48px 31px 12px" font-size="26px" font-weight="700" color="#000000" align="center" line-height="1.17">Поделитесь своим мнением<br/>о митапе</mj-text>
+        <mj-text padding="0px 31px 10px" font-size="16px" font-weight="400" color="#000000" align="center" line-height="1.14">Нам важны, как положительные, так и отрицательные моменты.<br/>Прохождение опроса займет не больше 10 минут.</mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://test.ru/"
+                width="214px"
+                background-color="linear-gradient(140deg, #7E3C8F 0%, #D04A71 30.60%, #EC624F 55.11%, #EF7767 90.63%);"
+                color="#FFFFFF"
+                padding-bottom="19px"
+        >Поделиться</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-3-bg.png" background-size="100%" background-repeat="no-repeat">
+      <mj-column>
+        <mj-text padding="23px 31px 12px" font-size="26px" font-weight="700" color="#FFFFFF" align="center" line-height="1.2">Спасибо, что были с нами, активно<br/>участвовали и задавали вопросы!</mj-text>
+        <mj-text padding="0px 31px 20px" font-size="16px" font-weight="400" color="#FFFFFF" align="center" line-height="1.16">Ждем вас на наших<br/>следующих мероприятиях!</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#282828">
