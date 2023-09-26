@@ -33,27 +33,13 @@
                 color="#222"
                 padding-top="40px"
                 border-radius="20px"
-                font-size="14px"
-                line-height="110%"
+                font-size="24px"
+                line-height="26.4px"
                 text-align="left"
-                inner-padding="20px"
-        ><span style="display: block;padding-bottom:13px">Добрый день!</span>
+                inner-padding="19px 11px"
+        ><span style="display: block;padding-bottom:25px">Добрый день!</span>
           <b>13 октября</b> ждем вас на встрече «Тестирование и обеспечение качества» с экспертами Цифровой лаборатории ПСБ.</mj-button>
-        <mj-image
-                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-2-content-img-1.png"
-                alt="Вы узнаете"
-                width="216px"
-                align="left"
-                padding-left="46px"
-                padding-top="47px"
-        ></mj-image>
-        <mj-text
-                color="#00000"
-                font-size="16px"
-                font-weight="400"
-                line-height="113%"
-                padding="19px 64px 2px 103px"
-        >Вы узнаете о том, какие процессы упрощают жизнь и повышают эффективность не только команды QA-инженеров, но и разработчиков.</mj-text>
+
         <mj-image
                 src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-2-content-img-2.png"
                 alt="Время"
@@ -75,8 +61,8 @@
                 width="324px"
                 align="left"
                 padding-left="46px"
-                padding-top="58px"
-                padding-bottom="3px"
+                padding-top="22px"
+                padding-bottom="0px"
         ></mj-image>
         <mj-text
                 color="#00000"
@@ -106,17 +92,17 @@
       <mj-column>
         <mj-text
                 color="#FFFFFF"
-                font-size="30px"
+                font-size="40px"
                 font-weight="700"
-                line-height="110%"
+                line-height="44px"
                 align="center"
-                padding="26px 40px 27px 33px"
-        >На афтепати вас ждет сюрприз<br/>от организаторов!</mj-text>
+                padding="19px 20px 21px"
+        >На афтепати вас ждет сюрприз от организаторов!</mj-text>
         <mj-text
                 color="#FFFFFF"
                 font-size="26px"
                 font-weight="700"
-                line-height="110%"
+                line-height="28px"
                 align="center"
                 padding="0px 40px 0px 33px"
         >Подписатьcя на телеграм-канал<br/>PSB IT Team</mj-text>
@@ -127,8 +113,8 @@
                 background-color="linear-gradient(289deg, #551864 97.49%, #D04A71 147.16%, #EC624F 160.73%, #EF7767 201.49%);
 "
                 color="#FFFFFF"
-                padding-top="14px"
-                padding-bottom="37px"
+                padding-top="19px"
+                padding-bottom="25px"
         >Подписаться</mj-button
         >
       </mj-column>

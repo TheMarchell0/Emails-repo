@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/psb-test-meetup/email.mjml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/psb-test-meetup/images/logo_psb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/psb-test-meetup/images/psb-2-content-img-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/psb-test-meetup/images/psb-2-content-img-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/psb-test-meetup/images/psb-2-content-img-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/psb-test-meetup/images/psb-footer-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/psb-test-meetup/images/telegram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/psb-test-meetup/psb-test-meetup.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psb-test-meetup/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/psb-test-meetup/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psb-test-meetup/psb-test-meetup.html" beforeDir="false" afterPath="$PROJECT_DIR$/psb-test-meetup/psb-test-meetup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,17 +23,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Alexandr Nechkasov/Desktop/base-emails",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexandr Nechkasov/Desktop/base-emails&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Alexandr Nechkasov\Desktop\base-emails" />
@@ -146,7 +140,9 @@
       <workItem from="1695311718447" duration="106000" />
       <workItem from="1695312015849" duration="222000" />
       <workItem from="1695312450467" duration="9000" />
-      <workItem from="1695629690339" duration="2376000" />
+      <workItem from="1695629690339" duration="2718000" />
+      <workItem from="1695716066791" duration="565000" />
+      <workItem from="1695720998632" duration="490000" />
     </task>
     <servers />
   </component>
