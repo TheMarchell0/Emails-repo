@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/nativity-september-digest/Nativity дайджест сентябрь.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativity-september-digest/email.mjml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-content-bg-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-content-img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-content-img-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-footer-bg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/Nativity дайджест август.html" beforeDir="false" afterPath="$PROJECT_DIR$/nativity-august-digest/Nativity дайджест август.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/nativity-august-digest/email.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-img-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-img-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-1.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +34,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Alexandr Nechkasov/Desktop/base-emails/nativity-august-digest",
+    "last_opened_file_path": "C:/Users/Alexandr Nechkasov/Desktop/base-emails",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Alexandr Nechkasov\Desktop\base-emails\nativity-august-digest" />
       <recent name="C:\Users\Alexandr Nechkasov\Desktop\base-emails" />
+      <recent name="C:\Users\Alexandr Nechkasov\Desktop\base-emails\nativity-august-digest" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -158,7 +154,7 @@
       <workItem from="1695820446350" duration="133000" />
       <workItem from="1695822717104" duration="221000" />
       <workItem from="1695823329637" duration="8000" />
-      <workItem from="1696318774117" duration="7532000" />
+      <workItem from="1696318774117" duration="29909000" />
     </task>
     <servers />
   </component>
