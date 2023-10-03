@@ -120,17 +120,22 @@ stories, тренды и лучшие кейсы"
                 <mj-image width="207px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-5.png"></mj-image>
             </mj-column>
         </mj-section>
-        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-2.png" background-size="100%" background-repeat="no-repeat">
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px">
             <mj-column>
                 <mj-text align="right"><span style="background-color:#FCB950;border-top-left-radius:100px;border-bottom-left-radius:100px;color:#000000;font-size:9px;line-height:120%;font-weight:600;padding:6px 12px;">#Telegram в мире</span></mj-text>
             </mj-column>
             <mj-column>
                 <mj-text font-size="20px" font-weight="600" line-height="110%">Ирак решил заблокировать Telegram</mj-text>
+            </mj-column>
+            <mj-column>
                 <mj-text font-size="13px" font-weight="400" line-height="150%"     padding-bottom="6px">Министерство связи Ирака приняло решение <b>заблокировать Telegram из соображений национальной безопасности</b>. Но как мы помним, принять решение и заблокировать — не всегда одно и то же.</mj-text>
                 <mj-text font-size="13px" font-weight="400" line-height="150%">Главное, не путайте с Ираном, где Telegram — самая популярная социальная сеть. Ежемесячно сервисом пользуется 40 миллионов человек, что составляет половину всего населения страны.</mj-text>
             </mj-column>
+            <mj-column>
+                <mj-image width="200px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-6.png"></mj-image>
+            </mj-column>
         </mj-section>
-        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-3.png" background-size="100%" background-repeat="no-repeat">
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px">
             <mj-column>
                 <mj-text font-size="20px" font-weight="600" line-height="116%" padding-bottom="2px">Нейросеть для анализа<br/>
                     всего русскоязычного<br/>контента в Telegram</mj-text>
@@ -138,17 +143,23 @@ stories, тренды и лучшие кейсы"
                     по множеству параметров, и решает целый ряд задач для эффективной рекламы в Telegram.</mj-text>
                 <mj-text font-size="15px" font-weight="500" line-height="120%"><a href="https://www.sostav.ru/publication/novaya-rossijskaya-nejroset-nativity-scan-analiziruet-kontent-telegram-kanalov-61993.html" target="_blank" style="color:#1B81F9;">читать подробнее</a></mj-text>
             </mj-column>
+            <mj-column>
+                <mj-image width="200px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-7.png"></mj-image>
+            </mj-column>
         </mj-section>
-        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-4.png" background-size="100%" background-repeat="no-repeat">
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px">
             <mj-column>
                 <mj-text font-size="14px" font-weight="700" line-height="120%" color="#1B81F9" padding-bottom="0">Кейсы</mj-text>
                 <mj-text font-size="16px" font-weight="700" line-height="120%" padding-top="3px" padding-bottom="3px">Как жить жизнь? Кейс<br/>продвижения нового сериала<br/>Start.ru на платформе Nativity </mj-text>
                 <mj-text font-size="13px" font-weight="400" line-height="150%"
-                         padding-bottom="31px">Промо нового сериала «Жить жизнь» на Nativity с оптимизацией показов  позволило <b>сократить стоимость целевых контактов на 38%</b></mj-text>
-                <mj-text font-size="15px" font-weight="500" line-height="120%"><a href="https://vc.ru/u/1404050-nativity/787519-onlayn-kinoteatr-start-provel-reklamnuyu-kampaniyu-na-platforme-nativity-s-optimizaciey-stoimosti-kontakta-na-38" target="_blank" style="color:#1B81F9;">читать подробнее</a></mj-text>
+                >Промо нового сериала «Жить жизнь» на Nativity с оптимизацией показов  позволило <b>сократить стоимость целевых контактов на 38%</b></mj-text>
+                <mj-text font-size="15px" font-weight="500" line-height="120%" padding-bottom="20px"><a href="https://vc.ru/u/1404050-nativity/787519-onlayn-kinoteatr-start-provel-reklamnuyu-kampaniyu-na-platforme-nativity-s-optimizaciey-stoimosti-kontakta-na-38" target="_blank" style="color:#1B81F9;">читать подробнее</a></mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="200px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-8.png"></mj-image>
             </mj-column>
         </mj-section>
-        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-5.png" background-size="100%" background-repeat="no-repeat">
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px">
             <mj-column>
                 <mj-text font-size="14px" font-weight="700" line-height="120%" color="#1B81F9" padding-bottom="5px">Кейсы</mj-text>
                 <mj-text font-size="16px" font-weight="700" line-height="120%" padding-top="0px" padding-bottom="3px">B2B-продвижение:<br/>привлечение экспортеров<br/>для Правительства Москвы </mj-text>
@@ -156,8 +167,11 @@ stories, тренды и лучшие кейсы"
                     и участие в мероприятиях.</mj-text>
                 <mj-text font-size="13px" font-weight="400" line-height="142%" padding-top="15px">Узкий таргетинг на бизнес-аудиторию и участников ВЭД на платформе Nativity.</mj-text>
             </mj-column>
+            <mj-column>
+                <mj-image width="200px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-9.png"></mj-image>
+            </mj-column>
         </mj-section>
-        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-6.png" background-size="100%" background-repeat="no-repeat">
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px">
             <mj-column>
                 <mj-text font-size="14px" font-weight="700" line-height="120%" color="#1B81F9" padding-bottom="5px">Кейсы</mj-text>
                 <mj-text font-size="16px" font-weight="700" line-height="120%">Реклама новых ЖК<br/>на платформе Nativity — источник ценного трафика</mj-text>
@@ -165,13 +179,19 @@ stories, тренды и лучшие кейсы"
                 <mj-text font-size="13px" font-weight="400" line-height="150%"><b>Средний CTR по кампаниям — 1,9%</b></mj-text>
                 <mj-text font-size="15px" font-weight="500" line-height="120%"><a href="mailto:more@nativity.tech" target="_blank" style="color:#1B81F9;">запросить презентацию</a></mj-text>
             </mj-column>
+            <mj-column>
+                <mj-image width="200px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-10.png"></mj-image>
+            </mj-column>
         </mj-section>
-        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-7.png" background-size="100%" background-repeat="no-repeat">
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px">
             <mj-column>
                 <mj-text font-size="14px" font-weight="700" line-height="120%" color="#1B81F9" padding-bottom="3px">Кейсы</mj-text>
                 <mj-text font-size="16px" font-weight="700" line-height="120%" padding-top="0px" padding-bottom="5px">Увеличить знание и набрать<br/>позитивных отзывов для<br/>бренда Synergetic</mj-text>
                 <mj-text font-size="13px" font-weight="400" line-height="126%" padding-bottom="15px">Вовлечь аудиторию, рассказать о новых продуктах и собрать сотни комментариев: Synergetic провел рекламную кампанию новых товаров на платформе Nativity с целью повышения знания у core-аудитории.</mj-text>
                 <mj-text font-size="15px" font-weight="500" line-height="120%"><a href="mailto:more@nativity.tech" target="_blank" style="color:#1B81F9;">запросить презентацию</a></mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="200px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-11.png"></mj-image>
             </mj-column>
         </mj-section>
         <mj-section>
@@ -180,16 +200,22 @@ stories, тренды и лучшие кейсы"
                 <mj-text font-size="14px" font-weight="700" color="#1B81F9" line-height="120%" padding-top="0px" padding-bottom="0px">Чего ждать от Nativity</mj-text>
             </mj-column>
         </mj-section>
-        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-8.png" background-size="100%" background-repeat="no-repeat">
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px">
             <mj-column>
                 <mj-text font-size="16px" font-weight="700" line-height="150%" padding-bottom="11px">Расширенные возможности агентского<br/>кабинета Nativity</mj-text>
                 <mj-text font-size="13px" font-weight="400" line-height="150%" padding-top="0px">В личном кабинете появилась <b>возможность предоставлять разный уровень доступа к кампаниям</b>. Например, только для просмотра или с возможностью редактирования.</mj-text>
             </mj-column>
+            <mj-column>
+                <mj-image width="200px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-12.png"></mj-image>
+            </mj-column>
         </mj-section>
-        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px" background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-bg-9.png" background-size="100%" background-repeat="no-repeat">
+        <mj-section mj-class="section" css-class="block-shadow" border-radius="20px">
             <mj-column>
                 <mj-text font-size="16px" font-weight="700" line-height="149%" padding-bottom="0px">10+ новых супертаргетов<br/>и гео в настройках кампаний</mj-text>
                 <mj-text font-size="13px" font-weight="400" line-height="150%">Расширение таргетингов на платформе: <b>10+ новых узких сегментов</b> и геонастроек — возможности для проведения более точечных рекламных кампаний. </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="200px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=nativity-content-img-13.png"></mj-image>
             </mj-column>
         </mj-section>
         <mj-section background-color="#000000">
