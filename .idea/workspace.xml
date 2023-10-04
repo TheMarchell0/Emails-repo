@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/nativity-september-digest/Nativity дайджест сентябрь.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nativity-september-digest/email.mjml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-content-bg-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-content-img-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-content-img-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-footer-bg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/nativity-august-digest/images/nativity-content-bg-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativity-september-digest/Nativity дайджест сентябрь.html" beforeDir="false" afterPath="$PROJECT_DIR$/nativity-september-digest/Nativity дайджест сентябрь.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativity-september-digest/images/nativity-content-september-img-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-content-september-img-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativity-september-digest/images/nativity-september-head.png" beforeDir="false" afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-september-head.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,17 +24,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Alexandr Nechkasov/Desktop/base-emails",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexandr Nechkasov/Desktop/base-emails&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Alexandr Nechkasov\Desktop\base-emails" />
@@ -154,7 +150,8 @@
       <workItem from="1695820446350" duration="133000" />
       <workItem from="1695822717104" duration="221000" />
       <workItem from="1695823329637" duration="8000" />
-      <workItem from="1696318774117" duration="29909000" />
+      <workItem from="1696318774117" duration="30790000" />
+      <workItem from="1696414521773" duration="5670000" />
     </task>
     <servers />
   </component>
