@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/psb-test-dev-meetup/psb-test-meetup.html" beforeDir="false" afterPath="$PROJECT_DIR$/psb-test-dev-meetup/psb-test-dev-meetup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativity-september-digest/Nativity дайджест сентябрь.html" beforeDir="false" afterPath="$PROJECT_DIR$/nativity-september-digest/Nativity дайджест сентябрь.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativity-september-digest/images/nativity-content-bg-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-content-bg-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativity-september-digest/images/nativity-september-head.png" beforeDir="false" afterPath="$PROJECT_DIR$/nativity-september-digest/images/nativity-september-head.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psb-test-dev-meetup/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/psb-test-dev-meetup/email.mjml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psb-test-dev-meetup/images/psb-footer-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/psb-test-dev-meetup/images/psb-footer-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psb-test-dev-meetup/psb-test-dev-meetup.html" beforeDir="false" afterPath="$PROJECT_DIR$/psb-test-dev-meetup/psb-test-dev-meetup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +155,7 @@
       <workItem from="1695823329637" duration="8000" />
       <workItem from="1696318774117" duration="30790000" />
       <workItem from="1696414521773" duration="7899000" />
-      <workItem from="1696495241941" duration="2152000" />
+      <workItem from="1696495241941" duration="7166000" />
     </task>
     <servers />
   </component>

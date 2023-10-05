@@ -6,16 +6,7 @@
       <mj-class name="body" width="600px" background-color="#FFFFFF" />
       <mj-class name="section" padding="0" />
       <mj-class name="hero-image" padding="0" width="600px" />
-      <mj-class name="image" padding="0 56px" width="640px" />
-      <mj-class
-              name="button"
-              border-radius="82px"
-              padding="0"
-              height="50px"
-              font-weight="600"
-              font-size="16px"
-              color="#FFFFFF"
-      />
+      <mj-class name="image" width="640px" />
     </mj-attributes>
   </mj-head>
   <mj-body mj-class="body">
@@ -24,99 +15,108 @@
         <mj-image
                 mj-class="hero-image"
                 css-class="css-image"
-                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-meetup-hero.png"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-dev-meetup-head.png"
                 alt="ПСБ Цифровая Лаборатория. Вы уже в числе участников митапа по тестированию!"
-        />
-        <mj-button
-                width="533px"
-                background-color="#F5F5F5"
-                color="#222"
-                padding-top="40px"
-                border-radius="20px"
-                font-size="24px"
-                line-height="26.4px"
-                text-align="left"
-                inner-padding="19px 11px"
-        ><span style="display: block;padding-bottom:25px">Добрый день!</span>
-          <b>13 октября</b> ждем вас на встрече «Тестирование и обеспечение качества» с экспертами Цифровой лаборатории ПСБ.</mj-button>
-
-        <mj-image
-                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-2-content-img-2.png"
-                alt="Время"
-                width="146px"
-                align="left"
-                padding-left="46px"
-                padding-top="37px"
-                padding-bottom="2px"
-        ></mj-image>
-        <mj-text
-                color="#00000"
-                font-size="19px"
-                font-weight="700"
-                padding="0px 55px 2px 103px"
-        >с 18:00 до 23:00</mj-text>
-        <mj-image
-                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-2-content-img-3.png"
-                alt="Место проведения"
-                width="324px"
-                align="left"
-                padding-left="46px"
-                padding-top="22px"
-                padding-bottom="0px"
-        ></mj-image>
-        <mj-text
-                color="#00000"
-                font-size="16px"
-                font-weight="400"
-                padding="0px 55px 11px 103px"
-                line-height="1.1"
-        ><b>Станкозавод, конференц-зал «Бенке холл»</b><br/>г. Самара, ул. Куйбышева, 128/1</mj-text>
-        <mj-text
-                color="#00000"
-                font-size="20px"
-                font-weight="700"
-                padding="2px 55px 32px 102px"
-        >Как добраться?</mj-text>
-        <mj-image
-                mj-class="hero-image"
-                css-class="css-image"
-                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-meetup-cart.png"
-                alt="Карта расположения"
         />
       </mj-column>
     </mj-section>
-    <mj-section
-            mj-class="section"
-            background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-meetup-bg.png"
-            background-size="cover">
+    <mj-section background-color="#F5F5F5" border-radius="20px">
       <mj-column>
-        <mj-text
-                color="#FFFFFF"
-                font-size="40px"
-                font-weight="700"
-                line-height="44px"
-                align="center"
-                padding="19px 20px 21px"
-        >На афтепати вас ждет сюрприз от организаторов!</mj-text>
-        <mj-text
-                color="#FFFFFF"
-                font-size="26px"
-                font-weight="700"
-                line-height="28px"
-                align="center"
-                padding="0px 40px 0px 33px"
-        >Подписатьcя на телеграм-канал<br/>PSB IT Team</mj-text>
+        <mj-text color="#222222" font-size="14px" font-weight="400" line-height="110%"><b>13 октября</b> поговорим о том, какие процессы упрощают жизнь и повышают эффективность не только команды QA-инженеров, но и разработчиков.</mj-text>
+        <mj-text color="#222222" font-size="14px" font-weight="400" line-height="110%">Расскажем про инструменты, обсудим реальные кейсы. Также у вас будет отличная возможность поделиться опытом среди единомышленников и вместе придумывать решения для непростых задач</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-dev-meetup-content-img-1.png"
+                alt="О чём расскажем:"
+                width="317px"
+        ></mj-image>
+        <mj-text color="#000000" font-size="16px" font-weight="400" line-height="100%">как начинающему инженеру по тестированию стать сотрудником ПСБ и что его ожидает</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="400" line-height="100%">Как использование ИИ создает новые вызовы для QA-инженеров</mj-text>
         <mj-button
                 mj-class="button"
-                href="https://t.me/psb_it_team"
-                width="200px"
-                background-color="linear-gradient(289deg, #551864 97.49%, #D04A71 147.16%, #EC624F 160.73%, #EF7767 201.49%);
-"
+                href="https://psb-meetup.ru/?utm_medium=email&utm_campaign=4"
+                width="296px"
+                background-color="linear-gradient(140deg, #7E3C8F 0%, #D04A71 30.61%, #EC624F 55.14%, #EF7767 90.67%);"
+                font-size="20px"
                 color="#FFFFFF"
-                padding-top="19px"
-                padding-bottom="25px"
-        >Подписаться</mj-button
+                height="60px"
+                border-radius="82px"
+                font-weight="600"
+        >Посмотреть программу</mj-button
         >
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-dev-meetup-content-img-2.png"
+                width="50px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="30px" font-weight="700" line-height="100%">Опытом поделятся:</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-dev-meetup-speaker-1.png"
+                width="78px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="30px" font-weight="700" line-height="100%">Михаил Костецкий</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="400" line-height="100%">Управляющий эксперт, QA lead, ПСБ</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-dev-meetup-speaker-2.png"
+                width="78px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="30px" font-weight="700" line-height="100%">Александра Сухорукова</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="400" line-height="100%">Старший специалист по контролю качества, ITFB</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-dev-meetup-content-img-3.png"
+                width="67px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="45px" font-weight="700" line-height="100%">Место проведения</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text color="#000000" font-size="24px" font-weight="600" line-height="150%">Станкозавод, конференц-зал "Бенке холл"</mj-text>
+        <mj-text color="#000000" font-size="18px" font-weight="400" line-height="150%">Самара, ул. Куйбышева, 128/1</mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://yandex.ru/maps/-/CCUVmGdpdA"
+                width="296px"
+                background-color="linear-gradient(140deg, #7E3C8F 0%, #D04A71 30.61%, #EC624F 55.14%, #EF7767 90.67%);"
+                font-size="20px"
+                color="#FFFFFF"
+                height="60px"
+                border-radius="82px"
+                font-weight="600"
+        >Как добраться?</mj-button
+        >
+        <mj-image
+                mj-class="hero-image"
+                css-class="css-image"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-dev-meetup-location.png"
+                alt="Карта расположения"
+        />
       </mj-column>
     </mj-section>
     <mj-section background-color="#282828">
@@ -124,14 +124,12 @@
         <mj-image
                 src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-footer-logo.png"
                 alt="ПСБ Цифровая лаборатория"
-                width="240px"
-                align="left"
-                padding-top="47px"
+                width="356px"
         ></mj-image>
-        <mj-text color="#FFF" padding-top="62px" font-size="19px" font-weight="600" line-height="150%">
-          Если у вас остались вопросы, вы можете<br/>обратиться по телефону <span style="text-decoration:underline;color: #FFD000">+7 903 145 3256</span><br/>и/или написать на почту<br/><a href="mailto:nizkousna@psbank.ru" style="text-decoration:underline;color:#FFFFFF">nizkousna@psbank.ru</a>
+        <mj-text color="#FFF" font-size="24px" font-weight="600" line-height="150%">
+          Если у вас остались вопросы, вы можете<br/>обратиться по телефону <a href="tel:+79958816081" style="text-decoration:underline;color: #FFD000">+7 995 881-60-81</a><br/>и/или написать на почту<br/><a href="mailto:Samara@marketemotion.ru" style="text-decoration:underline;color:#FFFFFF">Samara@marketemotion.ru</a>
         </mj-text>
-        <mj-text padding-top="65px" color="#FFD000" font-size="19px" font-weight="700" line-height="130%">
+        <mj-text color="#FFD000" font-size="21px" font-weight="700" line-height="130%">
           ПСБ ДИДЖИТАЛ
         </mj-text>
       </mj-column>
@@ -141,7 +139,7 @@
         <mj-image
                 href="https://www.psbank.ru/"
                 src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=logo_psb.png"
-                alt="ПСБ Цифровая лаборатория"
+                alt="Логотип ПСБ"
                 width="45px"
                 align="left"
         ></mj-image>
@@ -150,9 +148,8 @@
         <mj-image
                 href="https://t.me/psb_it_team"
                 src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=telegram.png"
-                alt="ПСБ Цифровая лаборатория"
+                alt="Логотип телеграмма"
                 width="45px"
-                align="left"
         ></mj-image>
       </mj-column>
     </mj-section>
