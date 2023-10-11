@@ -50,7 +50,7 @@
                 padding-bottom="2px"
         ></mj-image>
         <mj-text
-                color="#00000"
+                color="#000000"
                 font-size="19px"
                 font-weight="700"
                 padding="0px 55px 2px 103px"
@@ -65,18 +65,38 @@
                 padding-bottom="0px"
         ></mj-image>
         <mj-text
-                color="#00000"
+                color="#000000"
                 font-size="16px"
                 font-weight="400"
                 padding="0px 55px 11px 103px"
                 line-height="1.1"
         ><b>Станкозавод, конференц-зал «Бенке холл»</b><br/>г. Самара, ул. Куйбышева, 128/1</mj-text>
         <mj-text
-                color="#00000"
+                color="#000000"
                 font-size="20px"
                 font-weight="700"
                 padding="2px 55px 32px 102px"
         >Как добраться?</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-meetup-arrow.png"
+                alt="Декор. стрелка"
+                width="33px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text
+                color="#000000"
+                font-size="20px"
+                font-weight="400"
+        >Вход на мероприятие по документу, удостоверяющему личность</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
         <mj-image
                 mj-class="hero-image"
                 css-class="css-image"
