@@ -4,8 +4,6 @@
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/psb-test-dev-meetup/email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/psb-test-dev-meetup/email.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psb-test-dev-meetup/images/psb-test-dev-meetup-head.png" beforeDir="false" afterPath="$PROJECT_DIR$/psb-test-dev-meetup/images/psb-test-dev-meetup-head.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psb-test-dev-meetup/psb-test-dev-meetup.html" beforeDir="false" afterPath="$PROJECT_DIR$/psb-test-dev-meetup/psb-test-dev-meetup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +154,10 @@
       <workItem from="1696584114197" duration="34000" />
       <workItem from="1697029736742" duration="2350000" />
       <workItem from="1697032254894" duration="1201000" />
-      <workItem from="1697042010251" duration="1922000" />
+      <workItem from="1697042010251" duration="2059000" />
+      <workItem from="1697123977797" duration="594000" />
+      <workItem from="1697138543706" duration="12922000" />
+      <workItem from="1697188375127" duration="3421000" />
     </task>
     <servers />
   </component>

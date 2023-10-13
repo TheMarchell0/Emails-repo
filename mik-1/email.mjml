@@ -1,0 +1,200 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-1-hero.png"
+                        alt="Серия обучающих вебинаров по евразийской патентной системе"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="16px" font-weight="400" line-height="120%">26 октября 2023 года стартует совместный <span style="font-weight:700;text-decoration:underline;">образовательный проект по евразийской патентной системе</span> Московского инновационного кластера (МИК) и Евразийского патентного ведомства (ЕАПВ). Проект поможет участниками и партнерам МИК разобраться в тонкостях евразийского патентования.</mj-text>
+                <mj-text color="#000000" font-size="16px" font-weight="400" line-height="120%">Серия вебинаров будет состоять из 6 обучающих блоков в онлайн-формате с участием ведущих спикеров ЕАПВ и МИК.</mj-text>
+                <mj-button
+                        width="199px"
+                        href="https://test.ru"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="5px"
+                        height="48px"
+                        font-size="20px"
+                        font-weight="400"
+                        line-height="120%"
+                        align="left"
+                >Подать заявку</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="30px" font-weight="500" line-height="120%">УЧАСТНИКИ УЗНАЮТ:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-1-content-icon-1.png"
+                        alt="Иконка №1"
+                        width="51px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="16px"  font-weight="400" line-height="120%">основные различия между региональной и национальной системами регистрации интеллектуальной собственности, и какие преимущества и недостатки связаны с каждой из них</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-1-decor-line.png"
+                        alt="Декоративная линия"
+                        width="41px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="20px" font-weight="400" line-height="120%">
+                    Мероприятие будет полезно предпринимателям, представителям малого и среднего бизнеса, креативных и технологических компаний, участникам и партнерам МИК.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="30px" font-weight="500" line-height="120%">УСЛОВИЕ УЧАСТИЯ:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#383B4A">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-1-decor-line.png"
+                        alt="Декоративная линия"
+                        width="41px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px"  font-weight="500" line-height="120%">физические лица, зарегистрированные на портале i.moscow</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#383B4A">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-1-decor-line.png"
+                        alt="Декоративная линия"
+                        width="41px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px"  font-weight="500" line-height="120%">участники  и партнеры кластера</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#383B4A">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-1-decor-line.png"
+                        alt="Декоративная линия"
+                        width="41px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px"  font-weight="500" line-height="120%">Регистрация на вебинары по <a target="_blank" href="https://test.ru" style="font-weight:700;color:#00FB07;">ссылке</a>: вы можете зарегистрироваться на все мероприятия проекта или выбрать интересующий вас вебинар.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#383B4A">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-1-decor-line.png"
+                        alt="Декоративная линия"
+                        width="41px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-button
+                        href="https://test.ru/"
+                        width="199px"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="5px"
+                        height="48px"
+                        font-size="20px"
+                        font-weight="400"
+                        line-height="120%"
+                >Подать заявку</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="30px" font-weight="500" line-height="120%">ПЛАН ПРОВЕДЕНИЯ:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="section" border-radius="20px" background-color="#FFFFFF">
+            <mj-column>
+                <mj-button
+                        width="160px"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#FFFFFF"
+                        border-radius="50px"
+                        height="33px"
+                        font-size="16px"
+                        font-weight="600"
+                        line-height="120%"
+                >11 января 2024</mj-button>
+            </mj-column>
+            <mj-column>
+                <mj-button
+                        width="82px"
+                        background-color="#FFFFFF"
+                        color="#000000"
+                        border-radius="50px"
+                        height="33px"
+                        font-size="16px"
+                        font-weight="400"
+                        line-height="120%"
+                        border="1px solid #000000"
+                >12:00</mj-button>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="18px" font-weight="600" line-height="150%">ПРАКТИКА РАССМОТРЕНИЯ СПОРОВ. ЕВРАЗИЙСКАЯ ИНТЕГРАЦИЯ В СФЕРЕ ИНТЕЛЛЕКТУАЛЬНОЙ СОБСТВЕННОСТИ.</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-1-person.png"
+                        alt="Иконка персоны"
+                        width="67px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="16px" font-weight="600" line-height="120%">Е.В. Маханькова</mj-text>
+                <mj-text color="#000000" font-size="16px" font-weight="400" line-height="120%">главный эксперт Центра мониторинга качества</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section
+                mj-class="section"
+                background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-1-bg.png"
+                background-size="cover">
+            <mj-column>
+                <mj-text color="#000000" font-size="30px" font-weight="500" line-height="120%" align="center">ЖДЕМ ВАС НА ВЕБИНАРАХ ПО ЕВРАЗИЙСКОЙ ПАТЕНТНОЙ СИСТЕМЕ!</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#383B4A">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-footer-logo.png"
+                        alt="Московский инновационный кластер"
+                        width="150px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FAFAFA" font-size="20px" font-weight="400" line-height="120%">Остались вопросы?<br/>Пишите на почту</mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
