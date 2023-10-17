@@ -1,0 +1,196 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" />
+      <mj-class name="hero-image" padding="0" width="600px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+                mj-class="hero-image"
+                css-class="css-image"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-meetup-final-head.png"
+                alt="ПСБ Цифровая Лаборатория. Спасибо, что были с нами на митапе ИТ ПСБ"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text color="#000000" font-size="26px" font-weight="700" line-height="100%">Митап прошел, а впечатления остались!</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="400" line-height="100%">Смотрите, как прошел митап «Тестирование и обеспечение качества»</mj-text>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-meetup-final-content-img.png"
+                width="419px"
+        />
+        <mj-text color="#000000" font-size="26px" font-weight="700" line-height="100%" align="center">Ищите себя и забирайте фото на память</mj-text>
+        <mj-button
+                href="https://disk.yandex.ru/d/lcnSBTLiwHsytg"
+                width="180px"
+                background-color="#EC624F"
+                font-size="17px"
+                color="#FFFFFF"
+                height="50px"
+                border-radius="88px"
+                font-weight="600"
+        >Смотреть фото</mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-dev-meetup-content-img-2.png"
+                width="50px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="30px" font-weight="700" line-height="100%">Доклады экспертов</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-dev-meetup-speaker-1.png"
+                width="78px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="24px" font-weight="700" line-height="100%">Михаил Костецкий</mj-text>
+        <mj-text color="#000000" font-size="15px" font-weight="700" line-height="100%">Управляющий эксперт, QA lead, ПСБ</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="400" line-height="100%">Роль QA-инженеров в обеспечении качества систем и приложений с использованием искусственного интеллекта</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button
+                href="https://test.ru"
+                width="200px"
+                background-color="#FFD703"
+                font-size="17px"
+                color="#FFFFFF"
+                height="50px"
+                border-radius="88px"
+                font-weight="600"
+        >Презентация</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button
+                href="https://test.ru"
+                width="200px"
+                background-color="#FFD703"
+                font-size="17px"
+                color="#FFFFFF"
+                height="50px"
+                border-radius="88px"
+                font-weight="600"
+        >Видео</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text color="#000000" font-size="26px" font-weight="700" line-height="100%" align="center">Станьте частью команды Цифровой лаборатории ПСБ</mj-text>
+        <mj-button
+                href="https://career.habr.com/companies/psb"
+                width="214px"
+                background-color="#EC624F"
+                font-size="17px"
+                color="#FFFFFF"
+                height="50px"
+                border-radius="88px"
+                font-weight="600"
+        >Отправить резюме</mj-button>
+        <mj-text color="#000000" font-size="26px" font-weight="700" line-height="100%" align="center">Поделитесь своим мнением о митапе</mj-text>
+        <mj-text color="#000000" font-size="16px" font-weight="400" line-height="100%" align="center">Нам важны как положительные, так и отрицательные моменты. Прохождение опроса займет не больше 10 минут.</mj-text>
+        <mj-button
+                href="https://yandex.ru/poll/UnfPNDZtAL6t3ZKkDHQTUd"
+                width="214px"
+                background-color="#EC624F"
+                font-size="17px"
+                color="#FFFFFF"
+                height="50px"
+                border-radius="88px"
+                font-weight="600"
+        >Поделиться</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section
+            mj-class="section"
+            background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-meetup-final-bg.png"
+            background-size="cover">
+      <mj-column>
+        <mj-text
+                color="#FFFFFF"
+                font-size="26px"
+                font-weight="700"
+                line-height="100%"
+                align="center"
+        >Спасибо, что были с нами, активно участвовали и задавали вопросы!</mj-text>
+        <mj-text
+                color="#FFFFFF"
+                font-size="16px"
+                font-weight="400"
+                line-height="100%"
+                align="center"
+        >Ждем вас на наших следующих мероприятиях!</mj-text>
+        <mj-text
+                color="#FFFFFF"
+                font-size="18px"
+                font-weight="700"
+                line-height="100%"
+                align="center"
+        >Подписывайтесь на телеграм-канал PSB IT Team</mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://t.me/psb_it_team"
+                width="181px"
+                background-color="#551864"
+                color="#FFFFFF"
+                border-radius="82px"
+                height="50px"
+                font-size="18px"
+                font-weight="700"
+        >PSB IT Team</mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#282828">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-footer-logo.png"
+                alt="ПСБ Цифровая лаборатория"
+                width="356px"
+        ></mj-image>
+        <mj-text color="#FFF" font-size="24px" font-weight="600" line-height="150%">
+          Если у вас остались вопросы, вы можете<br/>обратиться по телефону <a href="tel:+79958816081" style="text-decoration:underline;color: #FFD000">+7 995 881-60-81</a><br/>и/или написать на почту<br/><a href="mailto:Samara@marketemotion.ru" style="text-decoration:underline;color:#FFFFFF">Samara@marketemotion.ru</a>
+        </mj-text>
+        <mj-text color="#FFD000" font-size="21px" font-weight="700" line-height="130%">
+          ПСБ ДИДЖИТАЛ
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#282828">
+      <mj-column>
+        <mj-image
+                href="https://www.psbank.ru/"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=logo_psb.png"
+                alt="Логотип ПСБ"
+                width="45px"
+                align="left"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image
+                href="https://t.me/psb_it_team"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=telegram.png"
+                alt="Логотип телеграмма"
+                width="45px"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

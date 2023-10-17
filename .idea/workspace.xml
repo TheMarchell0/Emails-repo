@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/email.mjml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/images/logo_psb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/images/psb-footer-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/images/psb-test-dev-meetup-content-img-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/images/psb-test-dev-meetup-speaker-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/images/psb-test-dev-meetup-speaker-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/images/psb-test-dev-meetup-speaker-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/images/psb-test-dev-meetup-speaker-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/images/psb-test-dev-meetup-speaker-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/images/psb-test-dev-meetup-speaker-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/images/telegram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psb-test-meetup-final/psb-test-meetup-final.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mik-2/Как создать питч-дек.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-2/Как создать питч-дек.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +170,8 @@
       <workItem from="1697138543706" duration="12922000" />
       <workItem from="1697188375127" duration="3421000" />
       <workItem from="1697206141594" duration="1393000" />
-      <workItem from="1697441448083" duration="16844000" />
+      <workItem from="1697441448083" duration="17175000" />
+      <workItem from="1697545038666" duration="8252000" />
     </task>
     <servers />
   </component>
