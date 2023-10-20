@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mik-3/Лайфхаки для успешных B2B-продаж.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-3/Лайфхаки для успешных B2B-продаж.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psb-test-meetup-final/psb-test-meetup-final.html" beforeDir="false" afterPath="$PROJECT_DIR$/psb-test-meetup-final/psb-test-meetup-final.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,17 +22,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexandr Nechkasov/Desktop/base-emails&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Alexandr Nechkasov/Desktop/base-emails",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Alexandr Nechkasov\Desktop\base-emails" />
@@ -163,7 +163,9 @@
       <workItem from="1697545038666" duration="8325000" />
       <workItem from="1697558612251" duration="125000" />
       <workItem from="1697704397865" duration="4584000" />
-      <workItem from="1697722449339" duration="7661000" />
+      <workItem from="1697722449339" duration="8258000" />
+      <workItem from="1697785851557" duration="54000" />
+      <workItem from="1697788620088" duration="72000" />
     </task>
     <servers />
   </component>
