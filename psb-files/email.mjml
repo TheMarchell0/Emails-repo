@@ -1,0 +1,113 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" />
+      <mj-class name="hero-image" padding="0" width="600px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+                mj-class="hero-image"
+                css-class="css-image"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-files-head.png"
+                alt="Привет! Мы, ПСБ Цифровая лаборатория - ИТ-команда банка."/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text color="#000000" font-size="26px" font-weight="400" line-height="100%">Вчера, на конференции Analyst Days, ты слушал(а) доклад наших спикеров - Алексея Иващенко и Оксаны Резван «Развитие менеджмента талантов в СА. Дорожная карта для системных аналитиков 2.0 в финтехе: просто ли это?»
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-files-circle.png"
+                width="41px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="23px" font-weight="700" line-height="100%">Как и обещали, отправляем методические материалы</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-test-dev-meetup-content-img-2.png"
+                width="52px"
+        />
+        <mj-text align="center" color="#000000" font-size="30px" font-weight="700" line-height="100%">В них ты найдёшь:</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-files-list-item.png"
+                width="32px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text color="#000000" font-size="22px" font-weight="700" line-height="100%">Чек-лист по ключевым этапам пребординга</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+            mj-class="section"
+            background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-files-bg.png"
+            background-size="cover">
+      <mj-column>
+        <mj-text
+                color="#000000"
+                font-size="23px"
+                font-weight="700"
+                line-height="100%"
+                align="center"
+        >Хочешь быть в курсе новостей ПСБ Цифровая Лаборатория - подписывайся на наш ТГ</mj-text>
+        <mj-button
+                mj-class="button"
+                href="https://t.me/psb_it_team"
+                width="181px"
+                background-color="linear-gradient(124deg, #551864 2.52%, #D04A71 56.85%, #EF7767 128.56%);"
+                color="#FFFFFF"
+                border-radius="82px"
+                height="50px"
+                font-size="18px"
+                font-weight="700"
+        >PSB IT Team</mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#282828">
+      <mj-column>
+        <mj-image
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=psb-footer-logo.png"
+                alt="ПСБ Цифровая лаборатория"
+                width="356px"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#282828">
+      <mj-column>
+        <mj-image
+                href="https://www.psbank.ru/"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=logo_psb.png"
+                alt="Логотип ПСБ"
+                width="45px"
+                align="left"
+        ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image
+                href="https://t.me/psb_it_team"
+                src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=telegram.png"
+                alt="Логотип телеграмма"
+                width="45px"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
