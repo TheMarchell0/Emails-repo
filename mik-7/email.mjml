@@ -1,0 +1,212 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-6-hero.png"
+                        alt="16 октября. 19:00-21:00. Как создать питч-дек в стиле кремниевой долины."
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-7-block-img-1.png"
+                        alt="Декоративная картинка"
+                        width="160px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="18px" font-weight="600" line-height="120%">Разработали технологию, но еще не готовы ее запатентовать?</mj-text>
+                <mj-text color="#000000" font-size="15px" font-weight="400" line-height="120%">Защитите ее от конкурентов, зарегистрировав ваши права на нее в специализированном сервисе «Добровольная регистрация РИД».</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="30px" font-weight="600" line-height="120%">ПРЕИМУЩЕСТВА СЕРВИСА</mj-text>
+                <mj-text color="#000000" font-size="16px"  font-weight="400" line-height="120%">Пользуйтесь сервисом Биржа патентов для эффективного управления интеллектуальной собственностью</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-6-content-img-1.png"
+                        alt="Иконка"
+                        width="54px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="22px"  font-weight="600" line-height="120%">Всё на одной платформе</mj-text>
+                <mj-text color="#000000" font-size="16px"  font-weight="400" line-height="120%">Находите, регистрируйте или коммерциализируйте свои РИД прямо на сайте Фонда МИК</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="20px"  font-weight="400" line-height="120%">Как быстро можно воспользоваться сервисом?</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-button
+                        width="215px"
+                        background-color="linear-gradient(90deg, #19FF09 0%, #4CFFC3 100%)"
+                        color="#000000"
+                        border-radius="10px"
+                        height="66px"
+                        font-size="20px"
+                        font-weight="400"
+                        line-height="120%"
+                >5 минут и 3 шага</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#1B1F28">
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="22px"  font-weight="400" line-height="120%">В специальном реестре вы можете зарегистрировать свою идею и право на разработку</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-6-gradient-img-1.png"
+                        alt="Декоративная картинка"
+                        width="190px"
+                ></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="30px" font-weight="600" line-height="120%">ГРАНТЫ НА ПАТЕНТОВАНИЕ</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="18px" font-weight="600" line-height="130%">75 ТЫСЯЧ РУБЛЕЙ НА ПАТЕНТОВАНИЕ В РОССИЙСКОЙ ФЕДЕРАЦИИ</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="16px" font-weight="400" line-height="120%">на каждое изобретение и (или) полезную модель, патент на которое был получен не более 12 месяцев назад</mj-text>
+                <mj-button
+                        width="158px"
+                        href="https://test.ru"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="5px"
+                        height="46px"
+                        font-size="18px"
+                        font-weight="400"
+                        line-height="120%"
+                >Подробнее</mj-button>
+            </mj-column>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-6-block-img-1.png"
+                        alt="Декоративная картинка"
+                        width="221px"
+                ></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="18px" font-weight="600" line-height="130%">ПАТЕНТОВАНИЕ ИЗОБРЕТЕНИЙ И ПОЛЕЗНЫХ МОДЕЛЕЙ ЗА РУБЕЖОМ — ДО 2 МЛН. РУБЛЕЙ НА ОДНО ИЗОБРЕТЕНИЕ ИЛИ ПОЛЕЗНУЮ МОДЕЛЬ</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="16px" font-weight="400" line-height="120%">до 70% стоимости услуг партнёрских организаций по подготовке и подаче международной заявки,  а также оплате соответствующих пошлин</mj-text>
+                <mj-button
+                        width="158px"
+                        href="https://test.ru"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="5px"
+                        height="46px"
+                        font-size="18px"
+                        font-weight="400"
+                        line-height="120%"
+                >Подробнее</mj-button>
+            </mj-column>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-6-block-img-2.png"
+                        alt="Декоративная картинка"
+                        width="150px"
+                ></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#1B1F28">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-6-gradient-img-1.png"
+                        alt="Декоративная картинка"
+                        width="248px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="30px"  font-weight="600" line-height="120%">Получайте полезные бонусы от сервиса</mj-text>
+                <mj-text color="#FFFFFF" font-size="18px"  font-weight="400" line-height="120%">Например, вы можете упрощенно получить кредит под залог интеллектуальной собственности</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="30px" font-weight="600" line-height="120%">ОПИСАНИЕ МЕРЫ ПОДДЕРЖКИ</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-6-content-img-1.png"
+                        alt="Иконка"
+                        width="54px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="22px"  font-weight="600" line-height="120%">Всё на одной платформе</mj-text>
+                <mj-text color="#000000" font-size="16px"  font-weight="400" line-height="120%">Находите, регистрируйте или коммерциализируйте свои РИД прямо на сайте Фонда МИК</mj-text>
+                <mj-button
+                        width="393px"
+                        href="https://test.ru"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="5px"
+                        height="46px"
+                        font-size="18px"
+                        font-weight="400"
+                        line-height="120%"
+                >Из реестра партнерских организаций</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section
+                mj-class="section"
+                background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-6-bg.png"
+                background-size="cover">
+            <mj-column>
+                <mj-button
+                        width="293px"
+                        href="https://test.ru"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="5px"
+                        height="70px"
+                        font-size="25px"
+                        font-weight="600"
+                        line-height="120%"
+                >Найти патент</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#383B4A">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-footer-logo.png"
+                        alt="Московский инновационный кластер"
+                        width="150px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FAFAFA" font-size="20px" font-weight="400" line-height="120%">Остались вопросы?<br/>Пишите на почту</mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
