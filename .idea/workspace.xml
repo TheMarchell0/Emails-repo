@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mik-8/email.mjml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mik-8/images/mik-footer-email-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mik-8/images/mik-footer-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mik-8/images/mik-footer-phone-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mik-8/images/mik-tg-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mik-8/images/mik-vk-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mik-8/Вебинар Льготное кредитование.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mik-7/Как управлять и защищать РИД.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-7/Как управлять и защищать РИД.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +41,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\base-emails" />
       <recent name="C:\Users\Alexandr Nechkasov\Desktop\base-emails" />
       <recent name="C:\Users\Alexandr Nechkasov\Desktop\base-emails\nativity-august-digest" />
     </key>
@@ -177,7 +184,8 @@
       <workItem from="1698655903132" duration="18000" />
       <workItem from="1698757264631" duration="5551000" />
       <workItem from="1698765411530" duration="1013000" />
-      <workItem from="1698822035553" duration="2747000" />
+      <workItem from="1698822035553" duration="3352000" />
+      <workItem from="1698831428312" duration="2264000" />
     </task>
     <servers />
   </component>
