@@ -1,0 +1,97 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-9-hero.png"
+                        alt="В Москве в период с 7 по 9 декабря 2023 г. пройдет акция проекта «День без турникетов»."
+                        href="https://turniketovnet.ru/registration-partner/?utm_source=email&utm_medium=newsletter&utm_campaign=aim&utm_content=partner"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="22px" font-weight="600" line-height="120%">Это позволит Вам:</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-9-content-img-1.png"
+                        alt="Декор. картинка"
+                        width="51px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="16px" font-weight="400" line-height="120%">найти новых клиентов</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#F2F2F2">
+            <mj-column>
+                <mj-text color="#000000" font-size="26px"  font-weight="600" line-height="120%">ПОМОЖЕМ ВАМ:</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-2-decor-line.png"
+                        alt="Декор. линия"
+                        width="52px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="16px"  font-weight="400" line-height="120%">быстро адаптироваться к проекту</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="26px" font-weight="600" line-height="120%">ДЛЯ ТОГО, ЧТОБЫ СТАТЬ ПАРТНЕРОМ ПРОЕКТА, ВАМ НУЖНО СДЕЛАТЬ ПЕРВЫЙ ШАГ:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section
+                mj-class="section"
+                background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-9-bg.png"
+                background-size="cover">
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="18px" font-weight="400" line-height="120%">1. Оставить заявку по <a href="https://turniketovnet.ru/registration-partner/?utm_source=email&utm_medium=newsletter&utm_campaign=aim&utm_content=partner" target="_blank" style="color:#FFFFFF">ссылке</a></mj-text>
+                <mj-text color="#FFFFFF" font-size="18px" font-weight="400" line-height="120%">2. Мы рассмотрим заявку и свяжемся с Вами.</mj-text>
+                <mj-button
+                        width="132px"
+                        href="https://turniketovnet.ru/registration-partner/?utm_source=email&utm_medium=newsletter&utm_campaign=aim&utm_content=partner"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="40px"
+                        height="35px"
+                        font-size="15px"
+                        font-weight="400"
+                        line-height="100%"
+                >Подробнее</mj-button>
+            </mj-column>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-9-block-img-1.png"
+                        alt="Декор. картинка"
+                        width="248px"
+                ></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#383B4A">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-footer-logo.png"
+                        alt="Московский инновационный кластер"
+                        width="150px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FAFAFA" font-size="20px" font-weight="400" line-height="120%">Остались вопросы?<br/>Пишите на почту</mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
