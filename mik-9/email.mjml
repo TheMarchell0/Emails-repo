@@ -21,6 +21,12 @@
         </mj-section>
         <mj-section>
             <mj-column>
+                <mj-text color="#000000" font-size="15px" font-weight="600" line-height="120%">В МОСКВЕ В ПЕРИОД С 7 ПО 9 ДЕКАБРЯ 2023 Г. ПРОЙДЕТ АКЦИЯ ПРОЕКТА
+                    «ДЕНЬ БЕЗ ТУРНИКЕТОВ».</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
                 <mj-text color="#000000" font-size="22px" font-weight="600" line-height="120%">Это позволит Вам:</mj-text>
             </mj-column>
             <mj-column>
