@@ -1,0 +1,169 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-2-hero.png"
+                        alt="16 октября. 19:00-21:00. Как создать питч-дек в стиле кремниевой долины."
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="16px" font-weight="400" line-height="120%">Хотели бы создавать питч-деки не хуже дельцов из Кремниевой долины? Тогда приглашаем на <b>специальный мастер-класс по питч-декам</b>, где вы узнаете, как правильно структурировать и презентовать презентацию для привлечения к своему стартапу инвесторов и партнеров.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="30px" font-weight="600" line-height="120%">В ПРОГРАММЕ:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-2-decor-line.png"
+                        alt="Декоративная линия"
+                        width="52px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="16px"  font-weight="400" line-height="120%">Как адаптировать питч-дек для разных целевых аудиторий;</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="30px" font-weight="600" line-height="120%">СПИКЕР:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-2-speaker-1.png"
+                        alt="Фото спикера"
+                        width="142px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="16px" font-weight="600" line-height="120%">Джердес Вэл</mj-text>
+                <mj-text color="#000000" font-size="16px" font-weight="400" line-height="120%">партнер «Innov8 Global Ventures» и соучредитель «The Yellow Door»</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#383B4A">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-2-mark-icon.png"
+                        alt="Иконка галочки"
+                        width="29px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px"  font-weight="400" line-height="120%">Обязательная регистрация доступна на <a href="https://i.moscow/event/617449cc3e3f45e9bfd852695e502846" target="_blank" style="color:#00FED9">сайте.</a></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-button
+                        width="121px"
+                        background-color="transparent"
+                        color="#000000"
+                        border-radius="50px"
+                        height="33px"
+                        font-size="16px"
+                        font-weight="400"
+                        line-height="120%"
+                        border="1px solid #000000"
+                >16 октября</mj-button>
+                <mj-button
+                        width="290px"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="20px"
+                        height="119px"
+                        font-size="30px"
+                        font-weight="600"
+                        line-height="120%"
+                >КОГДА?</mj-button>
+            </mj-column>
+            <mj-column>
+                <mj-button
+                        width="250px"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="20px"
+                        height="119px"
+                        font-size="30px"
+                        font-weight="600"
+                        line-height="120%"
+                >ГДЕ?</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#1B1F28">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-2-content-img-1.png"
+                        alt="Иконка галочки"
+                        width="120px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="23px"  font-weight="600" line-height="120%">ЭКОЛОГИЧНОЕ ЛИДЕРСТВО. ТЕХНИКА САМОРЕГУЛЯЦИИ ДЛЯ ЛИДЕРА</mj-text>
+                <mj-button
+                        width="210px"
+                        href="https://test.ru"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="5px"
+                        height="33px"
+                        font-size="14px"
+                        font-weight="600"
+                        line-height="120%"
+                >Подать заявку</mj-button>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text font-size="16px" font-weight="400" line-height="120%">А вы знали, что по данным Форума “Ъ” 40% управленцев высшего звена готовы уйти с работы в ближайший год из-за высокого уровня стресса?</mj-text>
+                <mj-text font-size="16px" font-weight="400" line-height="120%">Поддерживать состояние баланса и эффективно восполнять собственные ресурсы - это искусство, от которого зависит не только состояние вашего бизнеса, но качество вашей жизни в целом. Обучиться ему вы сможете на <b>лекции «Экологичное лидерство. Техники саморегуляции для лидера»</b>, где освоите лучшие техники стресс-менеджмента и саморегуляции.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section
+                mj-class="section"
+                background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-2-bg.png"
+                background-size="cover">
+            <mj-column>
+                <mj-button
+                        width="293px"
+                        href="https://test.ru"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="5px"
+                        height="70px"
+                        font-size="25px"
+                        font-weight="600"
+                        line-height="120%"
+                >Подать заявку</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#383B4A">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-footer-logo.png"
+                        alt="Московский инновационный кластер"
+                        width="150px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FAFAFA" font-size="20px" font-weight="400" line-height="120%">Остались вопросы?<br/>Пишите на почту</mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
