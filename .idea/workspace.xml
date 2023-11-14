@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mik-16/email.mjml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-2-decor-line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-content-img-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-content-img-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-content-img-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-content-img-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-content-img-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-content-img-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-content-img-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-content-img-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-content-img-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-hero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-number-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-4-number-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-footer-email-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-footer-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-footer-phone-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-tg-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-16/images/mik-vk-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +198,7 @@
       <workItem from="1699630310723" duration="10000" />
       <workItem from="1699884629844" duration="4071000" />
       <workItem from="1699966772413" duration="528000" />
-      <workItem from="1699970722585" duration="4847000" />
+      <workItem from="1699970722585" duration="5314000" />
     </task>
     <servers />
   </component>
