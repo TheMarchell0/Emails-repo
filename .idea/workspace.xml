@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/mik-16/Предложения деловых партнеров_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-16/Предложения деловых партнеров_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1126d848-cb34-4b3f-b02a-0284ba48bab8" name="Changes" comment="" />
+      <changelist id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="" />
       <created>1681287394219</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -204,6 +204,9 @@
       <workItem from="1700039490154" duration="277000" />
       <workItem from="1700043799987" duration="11000" />
       <workItem from="1700057977992" duration="8437000" />
+      <workItem from="1700479913710" duration="10000" />
+      <workItem from="1700486294396" duration="399000" />
+      <workItem from="1700489282423" duration="4376000" />
     </task>
     <servers />
   </component>
