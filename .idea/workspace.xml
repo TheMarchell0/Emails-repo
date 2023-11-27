@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mik-21/IP Евразия IP Индия 2023.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-21/email.mjml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-21/images/mik-footer-email-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-21/images/mik-footer-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-21/images/mik-footer-phone-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-21/images/mik-tg-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-21/images/mik-vk-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mik-21/IP Евразия IP Индия 2023.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-21/IP Евразия IP Индия 2023.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +211,8 @@
       <workItem from="1700495067179" duration="431000" />
       <workItem from="1700495844178" duration="557000" />
       <workItem from="1700570141688" duration="321000" />
-      <workItem from="1701069283231" duration="5126000" />
+      <workItem from="1701069283231" duration="5616000" />
+      <workItem from="1701076163996" duration="7000" />
     </task>
     <servers />
   </component>
