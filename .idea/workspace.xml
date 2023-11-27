@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="" />
+    <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/mik-22/Конференция «WEB 4.0 - иммерсивный интернет следующего поколения».html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-22/Конференция «WEB 4.0 - иммерсивный интернет следующего поколения».html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,7 +214,7 @@
       <workItem from="1701076163996" duration="82000" />
       <workItem from="1701077271314" duration="1194000" />
       <workItem from="1701079192142" duration="8699000" />
-      <workItem from="1701090398132" duration="813000" />
+      <workItem from="1701090398132" duration="1113000" />
     </task>
     <servers />
   </component>
