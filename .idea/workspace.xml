@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mik-22/email.mjml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-22/images/mik-2-mark-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-22/images/mik-footer-email-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-22/images/mik-footer-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-22/images/mik-footer-phone-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-22/images/mik-tg-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-22/images/mik-vk-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mik-22/Конференция «WEB 4.0 - иммерсивный интернет следующего поколения».html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mik-21/IP Евразия IP Индия 2023.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-21/IP Евразия IP Индия 2023.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mik-22/Конференция «WEB 4.0 - иммерсивный интернет следующего поколения».html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-22/Конференция «WEB 4.0 - иммерсивный интернет следующего поколения».html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +214,7 @@
       <workItem from="1701069283231" duration="5616000" />
       <workItem from="1701076163996" duration="82000" />
       <workItem from="1701077271314" duration="1194000" />
-      <workItem from="1701079192142" duration="6250000" />
+      <workItem from="1701079192142" duration="8258000" />
     </task>
     <servers />
   </component>
