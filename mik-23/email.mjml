@@ -1,0 +1,109 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#FFFFFF" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        src="https://sun9-42.userapi.com/impg/vl-EbV_il-fKYqeStH9DQbGzZHCXObX4TiYTrg/kDWkztkoRDY.jpg?size=1200x502&quality=96&sign=381e8c42325e8762c3d5560e5a80ee97&type=album"
+                        alt="Инвестиционная упаковка"
+                        href="https://i.moscow/invest/packaging"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="16px" font-weight="400" line-height="120%">Как инвесторы оценивают проекты и решают, в какой проект вкладываться? Об этом рассказываем на практической программе <b>«Инвестиционная упаковка»</b></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="30px" font-weight="600" line-height="120%">ПРЕИМУЩЕСТВА СЕРВИСА</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        src="https://sun108-1.userapi.com/impg/1hMa85disQMYDLsRhHH8Y9gUt7MI5rVLXeCaVQ/EgMPWS-txmc.jpg?size=109x102&quality=96&sign=fbe8a36568838198deaa0d1983ba723e&type=album"
+                        alt="Декоративная  картинка"
+                        width="54px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#000000" font-size="20px"  font-weight="600" line-height="120%">Вы научитесь создавать материалы для инвесторов</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-button
+                        color="#000000"
+                        font-size="24px"
+                        font-weight="400"
+                        line-height="120%"
+                        width="308px"
+                        height="60px"
+                        border-radius="11px"
+                        href="https://i.moscow/invest/packaging"
+                        background-color="linear-gradient(80deg, #00FB07 19.78%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                >Подать заявку</mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="30px" font-weight="600" line-height="120%">В РЕЗУЛЬТАТЕ ВЫ ПОЛУЧИТЕ</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#F6F6F6" border-radius="20px">
+            <mj-column>
+                <mj-text color="#000000" font-size="15px" font-weight="700" line-height="120%">Оценку вашего проекта</mj-text>
+                <mj-text color="#000000" font-size="15px" font-weight="400" line-height="120%">Вы определите сильные стороны своего бизнеса, поймете слабые места, доработав которые сможете повысить инвестиционную привлекательность проекта. Оценка состоит из скрининга, скоринга бизнес-метрик и подготовки инвестиционного меморандума для инвестора.</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image
+                        src="https://sun9-27.userapi.com/impg/iLAgVcvRMJlwO8J6sm4S9yFARNx2__s4YWDpDQ/vZn5AlJOfro.jpg?size=200x200&quality=96&sign=0a3e90597c52dc2ab7aa1017051dd1f5&type=album"
+                        alt="Декоративная картинка"
+                        width="148px"
+                ></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section
+                mj-class="section"
+                background-url="https://sun9-30.userapi.com/impg/lkRdwfUZyooGJ0xlcVXDEItxWftuHhIElsL3Fw/fQu4ydw-YqU.jpg?size=1200x416&quality=96&sign=6c40c1f5af9024a71d0f351a68ca64a5&type=album"
+                background-size="cover">
+            <mj-column>
+                <mj-button
+                        width="293px"
+                        href="https://i.moscow/invest/packaging"
+                        background-color="linear-gradient(80deg, #00FB07 34.41%, #00FED9 85.02%, #9FFFF6 103.22%)"
+                        color="#000000"
+                        border-radius="5px"
+                        height="70px"
+                        font-size="25px"
+                        font-weight="600"
+                        line-height="120%"
+                >Подать заявку</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#383B4A">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-footer-logo.png"
+                        alt="Московский инновационный кластер"
+                        width="150px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FAFAFA" font-size="20px" font-weight="400" line-height="120%">Остались вопросы?<br/>Пишите на почту</mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
