@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mik-23/Инвестиционная упаковка.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-23/Инвестиционная упаковка.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mik-24/Инвестиционная экспертиза.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-24/Инвестиционная экспертиза.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mik-25/Защита интеллектуальной собственности.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-25/Защита интеллектуальной собственности.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mik-26/Всероссийское исследование.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-26/Всероссийское исследование.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mik-27/Уважаемый резидент.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-27/Уважаемый резидент.html" afterDir="false" />
-    </list>
+    <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,7 +214,7 @@
       <workItem from="1701077271314" duration="1194000" />
       <workItem from="1701262663785" duration="15575000" />
       <workItem from="1701336415583" duration="10675000" />
-      <workItem from="1701421733561" duration="1912000" />
+      <workItem from="1701421733561" duration="2165000" />
     </task>
     <servers />
   </component>
