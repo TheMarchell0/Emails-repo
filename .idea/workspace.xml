@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mik-28/Демо-конфереция.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mik-28/Демо-конфереция.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-28/Демо-конфереция.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +220,7 @@
       <workItem from="1701425282456" duration="114000" />
       <workItem from="1701436224512" duration="369000" />
       <workItem from="1701700727392" duration="1503000" />
-      <workItem from="1701772698972" duration="5589000" />
+      <workItem from="1701772698972" duration="5881000" />
     </task>
     <servers />
   </component>
