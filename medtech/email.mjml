@@ -1,0 +1,135 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#1E1926" />
+            <mj-class name="section" padding="0"/>
+            <mj-class name="hero-image" padding="0" width="600px" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=medtech-head.png"
+                        alt="Medtech!"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px" font-weight="600" line-height="120%">Московский экспортный центр финансирует 87,5% участия в экспортном  акселераторе Фонда «Сколково» для компаний в области:</mj-text>
+                <mj-text color="#FFFFFF" font-size="16px" font-weight="600">
+                    <ul>
+                        <li>производства медицинского оборудования</li>
+                        <li>⁠реабилитационного оборудования</li>
+                        <li>медицинских изделий широкого профиля</li>
+                        <li>⁠программного обеспечения</li>
+                        <li>аналитических систем медицинского применения  </li>
+                    </ul>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column background-color="#FFFFFF" border-radius="10px">
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="100%" align="center"><b style="font-size:24px">40</b><br/>лекций и воркшопов</mj-text>
+            </mj-column>
+            <mj-column background-color="#FFFFFF" border-radius="10px">
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="100%" align="center"><b style="font-size:24px">27</b><br/>экспертов</mj-text>
+            </mj-column>
+            <mj-column background-color="#FFFFFF" border-radius="10px">
+                <mj-text color="#000000" font-size="15px" font-weight="700" line-height="100%" align="center">Азия, Африка, Ближний Восток, Латинская Америка</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#631CFF" border-radius="10px">
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="14px"  font-weight="400" line-height="100%">Вместе с международными экспертами из бизнеса и MedTech-компаний каждый участник проработает индивидуальную стратегию по выходу  на целевые рынки, изучит инструменты для позиционирования своего продукта. Образовательный модуль и работа с трекерами поможет подготовиться к переговорам с зарубежными партнерами и сформировать связи в международном бизнес-сообществе. </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="24px" font-weight="600" line-height="120%" align="center">КАК ИТОГ:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section border="1px solid #FFFFFF" border-radius="10px">
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=medtech-icon-1.png"
+                        alt="Декоративная картинка"
+                        width="24px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="14px"  font-weight="400" line-height="100%">онлайн-встречи с потенциальными зарубежными партнерами и заказчиками</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=medtech-steps-img.png"
+                        alt="Приём заявок до 21 декабря. Финальный отбор 25 декабря. Запуск в январе"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#631CFF" border-radius="20px">
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="23px"  font-weight="300" line-height="100%" align="center">УСПЕЙ ЗАНЯТЬ <b>ОДНО ИЗ 10 МЕСТ!</b></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px" font-weight="600" line-height="120%" align="center" >Ознакомиться с требованиями и подать заявку можно на сайте:</mj-text>
+                <mj-button
+                        width="233px"
+                        background-color="#631CFF"
+                        color="#FFFFFF"
+                        border-radius="1000px"
+                        height="60px"
+                        font-size="16px"
+                        font-weight="600"
+                        line-height="120%"
+                        href="https://www.moscow-export.com/fast-track/"
+                >Подать заявку</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section >
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=medtech-icon-4.png"
+                        alt="Декоративная картинка"
+                        width="24px"
+                ></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px"  font-weight="600" line-height="100%">Детально с программой можно ознакомиться в презентации.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="24px" font-weight="600" line-height="120%" align="center">КАК ИТОГ:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section border="1px solid #FFFFFF" border-radius="10px">
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="14px"  font-weight="400" line-height="100%">По всем вопросам можно обратиться:</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="24px"  font-weight="600" line-height="100%">Катарина Борыгина</mj-text>
+                <mj-text color="#FFFFFF" font-size="14px"  font-weight="400" line-height="100%">менеджер международных проектов</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#83A1FE" font-size="14px"  font-weight="400" line-height="100%"><a href="tel:+79224702663" style="color:inherit">+7 922 470 2663</a></mj-text>
+                <mj-text color="#83A1FE" font-size="14px"  font-weight="400" line-height="100%"><a href="mailto:kborygina@sk.ru" style="color:inherit">kborygina@sk.ru</a></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000000">
+            <mj-column>
+                <mj-text color="#A5A5A5" font-size="14px" font-weight="400" line-height="100%">Вы получили эту рассылку, так как подписаны на рассылки от «Сколково Форум», посвященные конкурсам и мероприятиям «Startup Tour», «Startup Village» и «Nobel Vision. Открытые инновации», а также информационные письма партнеров «Сколково».</mj-text>
+                <mj-text align="center" color="#A5A5A5" font-size="14px" font-weight="400" line-height="100%"><a href="$[unsubscribe_url]" style="color:#A5A5A5">Отписаться от рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
