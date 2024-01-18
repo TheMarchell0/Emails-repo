@@ -1,0 +1,120 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+            <mj-class name="body" width="600px" background-color="#1A153F" />
+            <mj-class name="section" padding="0" />
+            <mj-class name="hero-image" padding="0" width="600px" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body mj-class="body">
+        <mj-section mj-class="section">
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=open-innovations-reload-hero.png"
+                        alt="Открытые инновации 2024. Перезагрузка высокотеха. 10 и 11 апреля Технопарк «Сколково»"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="12px" font-weight="400" line-height="100%">Масштабная трансформация глобальной экономики, спровоцированная техногенными, социальными и политическими вызовами, с которыми сталкивается человечество, стимулирует страны искать новые, отличные от глобализации, форматы развития экономики. Эксперты сходятся во мнении, что любые новые модели роста по-прежнему базируются на фундаментальных и прикладных научных исследованиях, эффективном преобразовании их результатов в высокотехнологичные продукты. Следуя за потребностями человека будущего, новые бизнесы формируют технологическую основу суверенитета государств в долгосрочной перспективе.</mj-text>
+          </mj-column>
+         </mj-section>
+          <mj-section background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=open-innovations-reload-bg.png" background-size="cover">
+            <mj-column>
+              <mj-text font-size="12px" font-weight="400" color="#FFFFFF"><span style="color:#B1EC52;font-weight:700">10 и 11 апреля</span> под эгидой Правительства Российской Федерации пройдет <span style="color:#B1EC52;font-weight:700">форум «Открытые инновации»</span>, в рамках которого эксперты обсудят траектории для достижения технологического суверенитета и создание условий для запуска крупных проектов.</mj-text>
+            </mj-column>
+          </mj-section>
+      <mj-section>
+        <mj-column>
+                <mj-button
+                        width="215px"
+                        href="https://test.ru"
+                        background-color="#B1EC52"
+                        color="#1A153F"
+                        border-radius="10px"
+                        height="50px"
+                        font-size="16px"
+                        font-weight="700"
+                        line-height="100%"
+                        align="center"
+                >Регистрация</mj-button>
+            </mj-column>
+        </mj-section>
+      <mj-section>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="20px" font-weight="600" line-height="100%" align="center">ЧТО ВАС ЖДЕТ НА ФОРУМЕ</mj-text>
+          </mj-column>
+         </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px"  font-weight="700" line-height="100%">Цифровизация</mj-text>
+              <mj-text color="#FFFFFF" font-size="16px"  font-weight="700" line-height="100%">
+                <ul>
+                <li>Новое индустриальное ПО</li>
+                <li>Новое общесистемное ПО</li>
+                <li>Квантовые коммуникации</li>
+                <li>Квантовые вычисления</li>
+                <li>Искусственный интеллект</li>
+                </ul>
+              </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px"  font-weight="700" line-height="100%">Технологическое развитие</mj-text>
+               <mj-text color="#FFFFFF" font-size="16px"  font-weight="700" line-height="100%"><ul>
+                <li>Водородная энергетика</li>
+                <li>Технологии новых материалов и веществ</li>
+                <li>Системы накопления энергии</li>
+                <li>Перспективные космические системы и сервисы</li>
+                <li>Современные и перспективные сети мобильной связи</li>
+                </ul>
+                 </mj-text>
+            </mj-column>
+        </mj-section>
+      <mj-section>
+        <mj-column>
+                <mj-button
+                        width="347px"
+                        href="https://test.ru"
+                        background-color="#B1EC52"
+                        color="#1A153F"
+                        border-radius="10px"
+                        height="50px"
+                        font-size="16px"
+                        font-weight="700"
+                        line-height="100%"
+                        align="center"
+                >Программа мероприятия</mj-button>
+         			 <mj-text color="#FFFFFF" font-size="16px" font-weight="600" line-height="130%" align="center">НЕ ПРОПУСТИТЕ КРУПНЕЙШЕЕ В РОССИИ И ОДНО ИЗ УЗНАВАЕМЫХ В МИРЕ КОНГРЕССНО-ВЫСТАВОЧНЫХ МЕРОПРИЯТИЙ!</mj-text>
+          <mj-button
+                        width="215px"
+                        href="https://test.ru"
+                        background-color="#B1EC52"
+                        color="#1A153F"
+                        border-radius="10px"
+                        height="50px"
+                        font-size="16px"
+                        font-weight="700"
+                        line-height="100%"
+                        align="center"
+                >Регистрация</mj-button>
+          <mj-text color="#FFFFFF" font-size="16px" font-weight="400" line-height="100%" align="center">Мы ждем вас 10 и 11 апреля в Инновационном центре «Сколково»!</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#110F22">
+            <mj-column>
+                <mj-text color="#A5A5A5" font-size="14px" font-weight="400" line-height="100%" align="justify">Вы получили эту рассылку, так как подписаны на рассылки Фонда «Сколково» посвященные конкурсам и мероприятиям Startup Tour, Startup Village, форум «Открытые инновации», а также информационные письма партнеров Фонда «Сколково»</mj-text>
+               <mj-text align="center">
+          <a
+                  style="color:#A5A5A5;font-size:14px;"
+                  href="$[unsubscribe_url]"
+          >Отписаться от рассылки</a
+          >
+        </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
