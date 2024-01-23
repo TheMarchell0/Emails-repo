@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mik-36/Старт Венчурной академии от Фонда МИК.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-36/Старт Венчурной академии от Фонда МИК.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -249,7 +250,7 @@
       <workItem from="1705932591749" duration="34000" />
       <workItem from="1705932670549" duration="111000" />
       <workItem from="1705995645382" duration="4368000" />
-      <workItem from="1706009349634" duration="30000" />
+      <workItem from="1706009349634" duration="602000" />
     </task>
     <servers />
   </component>
