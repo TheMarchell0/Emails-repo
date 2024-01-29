@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mik-39/Примите участие в опросе.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mik-39/Примите участие в опросе.html" beforeDir="false" afterPath="$PROJECT_DIR$/mik-39/Примите участие в опросе.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +255,7 @@
       <workItem from="1706022269546" duration="4564000" />
       <workItem from="1706098680497" duration="10000" />
       <workItem from="1706258819299" duration="8071000" />
-      <workItem from="1706519320291" duration="1671000" />
+      <workItem from="1706519320291" duration="2131000" />
     </task>
     <servers />
   </component>
