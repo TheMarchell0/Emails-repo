@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-innovations-2024/images/open-innovations-reload-bg-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-innovations-2024/images/open-innovations-reload-bg-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-innovations-2024/images/open-innovations-reload-bg-3.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/open-innovations-2024/Открытые инновации 2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/open-innovations-2024/Открытые инновации 2024.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -261,7 +264,8 @@
       <workItem from="1706608841691" duration="7949000" />
       <workItem from="1706680908917" duration="1163000" />
       <workItem from="1706692126735" duration="651000" />
-      <workItem from="1706704336637" duration="1629000" />
+      <workItem from="1706704336637" duration="2003000" />
+      <workItem from="1706710975190" duration="631000" />
     </task>
     <servers />
   </component>
