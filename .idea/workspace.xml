@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/skolkovo-regions/email.mjml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-innovations-2024/images/open-innovations-reload-hero-en.png" beforeDir="false" afterPath="$PROJECT_DIR$/open-innovations-2024/images/open-innovations-reload-hero-en.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-innovations-2024/images/open-innovations-reload-hero.png" beforeDir="false" afterPath="$PROJECT_DIR$/open-innovations-2024/images/open-innovations-reload-hero.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,7 +281,8 @@
       <workItem from="1707143945605" duration="1516000" />
       <workItem from="1707145736310" duration="10000" />
       <workItem from="1707206908399" duration="6415000" />
-      <workItem from="1707216648571" duration="1468000" />
+      <workItem from="1707216648571" duration="2373000" />
+      <workItem from="1707399149864" duration="2409000" />
     </task>
     <servers />
   </component>
