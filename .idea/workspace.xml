@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="" />
+    <list default="true" id="e299423f-985e-40f2-abd7-7c42a61f7a24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mik-51/Бесплатный онлайн-курс.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,15 +28,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Work/base-emails/open-innovations-2024-discount",
+    "last_opened_file_path": "D:/Work/base-emails",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Work\base-emails\open-innovations-2024-discount" />
       <recent name="D:\Work\base-emails" />
+      <recent name="D:\Work\base-emails\open-innovations-2024-discount" />
       <recent name="D:\SashaWork\base-emails" />
       <recent name="D:\Work\base-emails\open-innovations-2024" />
       <recent name="D:\Work\base-emails\mik-23" />
@@ -284,7 +287,8 @@
       <workItem from="1707487695272" duration="21000" />
       <workItem from="1707727102263" duration="8094000" />
       <workItem from="1707830986645" duration="9667000" />
-      <workItem from="1707904016356" duration="6057000" />
+      <workItem from="1707904016356" duration="7036000" />
+      <workItem from="1707916132509" duration="5369000" />
     </task>
     <servers />
   </component>
