@@ -21,24 +21,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Work/base-emails&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Work/base-emails/open-innovations-2024-discount",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\base-emails\open-innovations-2024-discount" />
       <recent name="D:\Work\base-emails" />
       <recent name="D:\SashaWork\base-emails" />
       <recent name="D:\Work\base-emails\open-innovations-2024" />
       <recent name="D:\Work\base-emails\mik-23" />
-      <recent name="C:\Users\Alexandr Nechkasov\Desktop\base-emails" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -286,7 +286,7 @@
       <workItem from="1707487695272" duration="21000" />
       <workItem from="1707727102263" duration="8094000" />
       <workItem from="1707830986645" duration="9667000" />
-      <workItem from="1707904016356" duration="4594000" />
+      <workItem from="1707904016356" duration="5388000" />
     </task>
     <servers />
   </component>
