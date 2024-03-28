@@ -1,0 +1,55 @@
+<mjml>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-2-hero.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text font-weight="700" font-size="26px" line-height="36px" color="#000000">СТАРТАП-ТУР НАЧИНАЕТ ПУТЕШЕСТВИЕ ПО&nbsp;СТРАНЕ!</mj-text>
+                <mj-text font-weight="400" font-size="19px" line-height="26px" color="#000000"><b>Уже 28 марта</b> конференция пройдет в&nbsp;Ханты-Мансийске — первой точке на&nbsp;карте роуд-шоу.</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">Участники события смогут присоединиться к&nbsp;диалогу о&nbsp;развитии технологического предпринимательства в&nbsp;регионе, узнают о&nbsp;новых формах взаимодействия предпринимательского сообщества и&nbsp;органов власти, получат возможность заявить о&nbsp;себе и&nbsp;обзавестись полезными связями.</mj-text>
+                <mj-text font-weight="700" font-size="24px" line-height="33px" color="#000000">ДЛЯ КОГО:</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">Стартапы и&nbsp;технологические предприниматели.</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">Индустриальные партнеры, корпорации, инвесторы.</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">Региональные участники «Сколково».</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">Представители технопарков, бизнес-инкубаторов, менторы, эксперты.</mj-text>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-2-bg-img-1.png"></mj-image>
+                <mj-text font-weight="700" font-size="26px" line-height="36px" color="#000000">КОНКУРС СТАРТАП-ТУРА — ЭТО ВОЗМОЖНОСТЬ:</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">Представить свой проект признанным экспертам в&nbsp;области технологий и&nbsp;развития бизнеса</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">Побороться за&nbsp;денежный приз в&nbsp;размере <b>300 000 рублей</b></mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">Найти инвестора и&nbsp;партнеров</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">Получить призы от&nbsp;партнеров Стартап-тура</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">Стать резидентом Фонда «Сколково»</mj-text>
+                <mj-text font-weight="700" font-size="24px" line-height="33px" color="#000000">КАК СТАТЬ УЧАСТНИКОМ КОНКУРСА</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">1. Регистрируетесь на&nbsp;сайте <b>startup-tour.ru</b> и&nbsp;<a href="https://lk.sk.ru/fasttrack/" style="color:inherit;font-weight:700">lk.sk.ru/fasttrack</a></mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">2. Заполняете заявку и&nbsp;загружаете презентацию своего проекта</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">3. Проекты, прошедшие в&nbsp;полуфинал, будут опубликованы на&nbsp;сайте</mj-text>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="284px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-2-button-1.png"></mj-image>
+                <mj-text font-weight="400" font-size="17px" line-height="23px" color="#000000" align="center">Прием заявок до&nbsp;18 марта</mj-text>
+                <mj-text font-weight="700" font-size="24px" line-height="33px" color="#000000">ПРЕЗЕНТУЙТЕ СВОЙ СТАРТАП НА&nbsp;ОНЛАЙН-ВЫСТАВКЕ!</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">Если вы хотите найти потенциальных клиентов, партнеров и&nbsp;инвесторов, а&nbsp;также получить поддержку в&nbsp;инновационном и&nbsp;научном сообществе, то&nbsp;подавайте заявку на&nbsp;онлайн-выставку технологических проектов Стартап-тура!</mj-text>
+                <mj-text font-weight="700" font-size="24px" line-height="33px" color="#000000">КАК СТАТЬ УЧАСТНИКОМ ВЫСТАВКИ:</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">1. Зарегистрируйтесь на&nbsp;нашем сайте.</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">2. Заполните профиль участника и&nbsp;поставьте галочку <b>«Хочу подать заявку на&nbsp;участие в&nbsp;онлайн-выставке».</b></mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">3. В личном кабинете откройте раздел «Выставка», заполните анкету о&nbsp;вашем проекте и&nbsp;подайте заявку<br/><b>до 28 апреля.</b></mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">4. Дождитесь подтверждения от&nbsp;организационного комитета.</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">5. Если ваш проект пройдет модерацию и&nbsp;будет одобрен, то он появится в&nbsp;разделе <b>«Выставка».</b></mj-text>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="284px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-2-button-2.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" alt="Успейте подать заявку на конкурс до 18 марта. Нажмите здесь, чтобы зарегистрироваться." href="https://startup-tour.ru/city/hanty-mansiysk" width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-2-bg-img-2-1.png"></mj-image>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" alt="Регистрация будет доступна вплоть до начала мероприятия. До встречи в Ханты-Мансийске!" width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-2-bg-img-2-2.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#3769FF">
+            <mj-column>
+                <mj-text font-weight="300" font-size="12px" line-height="14px" color="#FFFFFF" align="justify" >Вы получили эту рассылку, так как подписаны на&nbsp;рассылки Фонда «Сколково» посвященные конкурсам и&nbsp;мероприятиям Startup Tour, Startup Village, форум «Открытые инновации», а&nbsp;также информационные письма партнеров Фонда «Сколково»</mj-text>
+                <mj-text font-weight="400" font-size="12px" line-height="15px" color="#FFFFFF" align="center" ><a href="$[unsubscribe_url]" style="color:inherit;">Отписаться от рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
