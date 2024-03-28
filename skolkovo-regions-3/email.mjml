@@ -1,0 +1,152 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Montserrat, Helvetica, Arial, sans-serif" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-image
+                        mj-class="hero-image"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-hero.png"
+                        alt="Памятка участникам Skolkovo Regions 2024. 3 апреля 2024. Технопарк «Сколково»"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#000000" font-size="26px" font-weight="700" line-height="31px">ДОРОГИЕ УЧАСТНИКИ</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">До начала конференции <b>SKOLKOVO REGIONS: объединяя смыслы. Инновационная инфраструктура и университеты</b> с участием топ-спикеров и экспертов технологической и предпринимательской отраслей осталось 3 дня. Напоминаем: мероприятие будет проходить <b>в офлайн-формате.</b></mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">Перед посещением ознакомьтесь с настоящей <b>Памяткой:</b> информация поможет максимально продуктивно провести время.</mj-text>
+                <mj-image
+                        width="542px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-content-img-1.png"
+                        alt="1. Ознакомьтесь с деловой программой"
+                        align="center"
+                />
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">Заранее изучите программу и выберите сессии, которые планируете посетить.</mj-text>
+                <mj-text color="#000000" font-size="20px" font-weight="700" line-height="24px">КЛЮЧЕВЫЕ СЕССИИ:</mj-text>
+                <mj-image
+                        width="134px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-notice-img-1.png"
+                        alt="Пленарная сессия"
+                        align="left"
+                />
+                <mj-text color="#000000" font-size="16px" font-weight="500" line-height="19px" font-style="italic">Новая стратегия научно-технологического развития — роль науки и технологий в развитии России</mj-text>
+                <mj-image
+                        width="79px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-notice-img-2.png"
+                        alt="Спикеры"
+                        align="left"
+                />
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Андрей Никитин, Губернатор Новгородской области</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Денис Секиринский, Заместитель Министра образования и науки Российской Федерации</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Кристина Кострома, Исполняющий обязанности руководителя Департамента предпринимательства и инновационного развития города Москвы</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Юрий Сапрыкин, Вице-Президент по региональному и международному развитию, Управляющий директор Фонда «Сколково»</mj-text>
+                <mj-image
+                        width="134px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-notice-img-1.png"
+                        alt="Пленарная сессия"
+                        align="left"
+                />
+                <mj-text color="#000000" font-size="16px" font-weight="500" line-height="19px" font-style="italic">От трансфера технологий к экономическому развитию</mj-text>
+                <mj-image
+                        width="79px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-notice-img-2.png"
+                        alt="Спикеры"
+                        align="left"
+                />
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Олег Чурилов, Директор Департамента развития технологического предпринимательства и трансфера технологий Минобрнауки</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Максим Румянцев, ректор Сибирского федерального университета</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Евгений Абакумов, директор по информационным технологиям госкорпорации «Росатом»</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Алексей Усков, генеральный директор ООО «Инсмарт Автоматика»</mj-text>
+                <mj-image
+                        width="96px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-notice-img-3.png"
+                        alt="Кейс-сессия"
+                        align="left"
+                />
+                <mj-text color="#000000" font-size="16px" font-weight="500" line-height="19px" font-style="italic">Механизмы создания экосистемы технологического предпринимательства на базе вуза</mj-text>
+                <mj-image
+                        width="79px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-notice-img-2.png"
+                        alt="Спикеры"
+                        align="left"
+                />
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Денис Белоцеркович, директор Департамента инновационной политики и разработок ФГБОУ ВО «Тихоокеанский государственный университет»</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Елена Богатова, директор стартап-центра ФГАОУ ВО «Самарский национальный исследовательский университет имени академика С.П. Королева»</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Степан Земцов, к. г. н., директор Центра экономической географии и регионалистики ИПЭИ РАНХиГС</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Вячеслав Шевелев, начальник сектора обеспечения качества Центра трансфера технологий   Южного федерального университета</mj-text>
+                <mj-image
+                        width="134px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-notice-img-4.png"
+                        alt="Дискуссия HRTech"
+                        align="left"
+                />
+                <mj-text color="#000000" font-size="16px" font-weight="500" line-height="19px" font-style="italic">Развитие и поддержка талантов в ВУЗах. Современные проблемы Института кураторства</mj-text>
+                <mj-image
+                        width="84px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-notice-img-6.png"
+                        alt="Эксперты"
+                        align="left"
+                />
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Ольга Петрова, заместитель министра науки и высшего образования Российской Федерации</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Евгений Абакумов, директор по информационным технологиям госкорпорации «Росатом»</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Владимир Татаринцев, директор по развитию стратегических проектов, ПАО «Ростелеком»</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Екатерина Морозова, Директор Открытого университета Фонда «Сколково»</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">— Дмитрий Гужеля, заместитель генерального директора, АНО «Россия — страна возможностей»</mj-text>
+                <mj-image
+                        width="495px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-notice-img-5.png"
+                        alt="C полной версией программы вы можете ознакомиться на сайте."
+                        align="center"
+                />
+                <mj-image
+                        width="186px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-button-1.png"
+                        href="https://test.ru"
+                        alt="Нажмите здесь, чтобы посмотреть программу"
+                        align="center"
+                />
+                <mj-image
+                        width="542px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-content-img-2.png"
+                        alt="2. Получите бейдж"
+                        align="center"
+                />
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">В день конференции, <b>с 9:00 до 17:00</b>, можно будет получить бейдж.</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="600" line-height="17px">Это ваш пропуск на площадку!</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">Зона регистрации будет находиться при входе в Технопарк «Сколково»
+                    со стороны бизнес-центра «Амальтея», напротив лифтов.</mj-text>
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">Для получения бейджа потребуется любой документ, удостоверяющий личность: паспорт, права.</mj-text>
+                <mj-image
+                        width="542px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-content-img-3.png"
+                        alt="3. Выберите удобный способ проезда"
+                        align="center"
+                />
+                <mj-text color="#000000" font-size="14px" font-weight="400" line-height="17px">Конференция<b>Sk Regions 2024</b> будет проходить в Технопарке «Сколково» с 09:00 до 18:30.</mj-text>
+                <mj-image
+                        width="240px"
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sk-3-button-2.png"
+                        href="https://test.ru"
+                        alt="Нажмите здесь, чтобы посмотреть программу"
+                        align="center"
+                />
+                <mj-text color="#000000" font-size="20px" font-weight="700" line-height="24px" align="center">ДО ВСТРЕЧИ НА SK REGIONS 2024!</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#101820">
+            <mj-column>
+                <mj-text color="#A5A5A5" font-size="14px" font-weight="400" line-height="16px" align="justify">Вы получили эту рассылку, так как подписаны на рассылки от «Сколково Форум», посвященные конкурсам и мероприятиям «Startup Tour», «Startup Village» и «Nobel Vision. Открытые инновации», а также информационные письма партнеров «Сколково».</mj-text>
+                <mj-text align="center" font-weight="400" font-size="14px" line-height="16px" color="#A5A5A5">
+                    <a style="color:#A5A5A5" href="$[unsubscribe_url]"
+                    >Отписаться от рассылки</a
+                    >
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
