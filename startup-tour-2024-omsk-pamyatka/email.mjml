@@ -1,0 +1,43 @@
+<mjml>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-5-hero.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text font-weight="700" font-size="24px" line-height="33px" color="#000000">ДОРОГИЕ ГОСТИ И&nbsp;УЧАСТНИКИ!</mj-text>
+                <mj-text font-weight="400" font-size="20px" line-height="28px" color="#000000">Стартап-тур 2024 состоится <b>28 марта.</b> Официальное открытие начнется в <b>10:00</b> по адресу:<br/><b>Концертно-театральный центр «Югра-Классик» г. Ханты-Мансийск, Мира 22.</b></mj-text>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-5-location.png"></mj-image>
+                <mj-text font-weight="400" font-size="20px" line-height="28px" color="#000000">Ознакомиться с программой мероприятия можно на сайте <a href="https://startup-tour.ru/" target="_blank" style="color: #5C3EAC;">startup-tour.ru</a> в разделе <b>«Города» — «Ханты-Мансийск» — «Программа».</b></mj-text>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="322px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-5-button-1.png" href="https://startup-tour.ru/city/hanty-mansiysk/program?utm_medium=email&utm_term=3"></mj-image>
+                <mj-text font-weight="400" font-size="20px" line-height="28px" color="#000000"><b style="font-size:22px;">Напоминаем:</b><br/>до начала мероприятия необходимо <span style="color: #CE294D;font-weight:600;">распечатать бейдж</span> — это ваш пропуск на площадку.<br/>Сформированный бейдж вы найдете в личном кабинете на сайте <a href="https://startup-tour.ru/" target="_blank" style="color: #5C3EAC;">startup-tour.ru</a></mj-text>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="322px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-5-button-2.png" href="https://startup-tour.ru/login?utm_medium=email&utm_content=hanty&utm_term=3"></mj-image>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-5-content-img-1.png"></mj-image>
+                <mj-text font-weight="600" font-size="24px" line-height="33px" color="#000000">ЧТО ДОСТАНЕТСЯ ПОБЕДИТЕЛЯМ КОНКУРСА СТАРТАП-ТУР 2024</mj-text>
+                <mj-text font-weight="400" font-size="20px" line-height="28px" color="#000000">1. Денежный суперприз в <b>300 000 рублей</b> на развитие проекта.</mj-text>
+                <mj-text font-weight="400" font-size="20px" line-height="28px" color="#000000">2. Бесплатный билет на <b>Startup Village 2024</b> — международную стартап-конференцию для технологических предпринимателей, которая пройдет 30–31 мая 2024 года на территории ИЦ «Сколково».</mj-text>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="284px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-5-button-3.png" href="https://startup-tour.ru/contest?utm_medium=email&utm_content=hanty&utm_term=3"></mj-image>
+                <mj-text font-weight="400" font-size="20px" line-height="28px" color="#000000">В рамках события пройдет конкурс стартапов. Финалистов ждут подарки от партнеров и другие возможности для проектов, а победитель получит денежный приз в размере <b>300 000 рублей.</b></mj-text>
+                <mj-text font-weight="400" font-size="20px" line-height="28px" color="#000000">Список участников, прошедших отбор в вашем регионе, доступен на нашем сайте в разделе<br/><b>«Города» — «Ханты-Мансийск» — «Полуфиналисты».</b></mj-text>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="340px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-5-button-4.png" href="https://startup-tour.ru/city/hanty-mansiysk/hanty-mansiysk-semifinalists?utm_medium=email&utm_term=3"></mj-image>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-5-content-img-2-1.png"></mj-image>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-5-content-img-2-2.png"></mj-image>
+                <mj-text font-weight="600" font-size="24px" line-height="33px" color="#000000">СТАТЬ УЧАСТНИКОМ ВЫСТАВКИ ПРОСТО:</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">1. Зарегистрируйтесь на сайте.</mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">2. Заполните профиль участника и поставьте галочку <b>«Хочу подать заявку на участие в онлайн выставке».</b></mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">3. В личном кабинете откройте раздел <b>«Выставка»</b>, заполните анкету о вашем проекте и подайте заявку <b>до 16 мая.</b></mj-text>
+                <mj-text font-weight="400" font-size="18px" line-height="25px" color="#000000">4. Дождитесь подтверждения от организационного комитета</mj-text>
+                <mj-image href="https://startup-tour.ru/city/hanty-mansiysk" width="301px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=st-5-button-5.png" href="https://startup-tour.ru/exhibitors?utm_medium=email&utm_term=3"></mj-image>
+                <mj-text align="center" font-weight="600" font-size="24px" line-height="29px" color="#000000">Ждем вас в Ханты-Мансийске!</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#3769FF">
+            <mj-column>
+                <mj-text font-weight="400" font-size="12px" line-height="16px" color="#FFFFFF" align="justify" >Вы получили эту рассылку, так как подписаны на&nbsp;рассылки Фонда «Сколково» посвященные конкурсам и&nbsp;мероприятиям Startup Tour, Startup Village, форум «Открытые инновации», а&nbsp;также информационные письма партнеров Фонда «Сколково»</mj-text>
+                <mj-text font-weight="600" font-size="14px" line-height="19px" color="#FFFFFF" align="center" ><a href="$[unsubscribe_url]" style="color:inherit;">Отписаться от рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
