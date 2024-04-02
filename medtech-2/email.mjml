@@ -1,0 +1,62 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+        <mj-attributes>
+            <mj-all font-family="Gilroy, Helvetica, Arial, sans-serif" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+        <mj-section >
+            <mj-column>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=medtech-2-hero.png"
+                        alt="Демо-день MEDTECH. Финал экспотрного акселератора Moscow Fast Track. 4 апреля, 10:00, Технопарк «Сколково». Доступна онлайн-трансляция. Московский Экспортный Центр, Сколково."
+                        width="600px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#1E1926">
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px" font-weight="700" line-height="20px">MedTech компании представят итоги прохождения экспортного акселератора Moscow Fast Track 4 апреля в рамках Демо-дня в Технопарке «Сколково»MedTech компании представят итоги прохождения экспортного акселератора Moscow Fast Track 4 апреля в рамках Демо-дня в Технопарке «Сколково»</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#1E1926">
+            <mj-column width="144px">
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=medtech-content-img-1.png"
+                        alt="Дата: 4 апреля 2024"
+                />
+            </mj-column>
+            <mj-column width="144px">
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=medtech-content-img-2.png"
+                        alt="Время: 10:00-18:00"
+                />
+            </mj-column>
+            <mj-column width="194px">
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=medtech-content-img-3.png"
+                        alt="Нажмите здесь, чтобы присоединиться в качестве слушателя."
+                        href="https://us06web.zoom.us/meeting/register/tZMsf-urqDsjHdx-N3JLjf55G0J-j-QTlgM1?_x_zm_rtaid=RgIvQNgNQ5GqldlHOxi4Ig.1712066765322.78ca24cbbb2b4f63d11a1362e7a7b574&_x_zm_rhtaid=174#/registration"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#1E1926">
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px" font-weight="400" line-height="20px">В экспортном акселераторе для MedTech компаний, организованном <b>АНО «Московский экспортный центр»</b>, приняли участие <b>10 компаний.</b></mj-text>
+                <mj-text color="#FFFFFF" font-size="16px" font-weight="400" line-height="20px">На протяжении 12 недель компании вели насыщенную работу с трекерами и зарубежными менторами по выработке стратегии выхода на зарубежные рынки, более 40 отраслевых российских и зарубежных экспертов делились знаниями и практическим опытом работы на рынках стран Африки, Ближнего Востока, Азии, Китая, СНГ, участники выступали с питчем перед потенциальными партнёрами из ОАЭ, Саудовской Аравии, Ирана, ЮАР.</mj-text>
+                <mj-text color="#FFFFFF" font-size="16px" font-weight="400" line-height="20px">В ходе Демо-дня участники продемонстрируют <b>ключевые результаты</b> по итогам акселератора и расскажут о своих стратегиях выхода на международные рынки. В программе Демо-дня также запланирована панельная дискуссия с экспертами на тему глобальных возможностей в сфере MedTech, вручение дипломов и нетворкинг.</mj-text>
+                <mj-image
+                        src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=medtech-content-img-4.png"
+                        alt="По всем вопросам можно обратиться: Катарина Борыгина, менеджер международных проектов. Телефон: +7 922 470 2663. Email: kborygina@sk.ru"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000000">
+            <mj-column>
+                <mj-text color="#A5A5A5" font-size="14px" font-weight="400" line-height="16px">Вы получили эту рассылку, так как подписаны на рассылки от «Сколково Форум», посвященные конкурсам и мероприятиям «Startup Tour», «Startup Village» и «Nobel Vision. Открытые инновации», а также информационные письма партнеров «Сколково».</mj-text>
+                <mj-text align="center" color="#A5A5A5" font-size="14px" font-weight="400" line-height="16px"><a href="$[unsubscribe_url]" style="color:inherit;">Отписаться от рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
