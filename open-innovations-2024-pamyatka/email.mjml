@@ -1,0 +1,65 @@
+<mjml>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-hero.png" alt="Сколково. Группа ВЭБ | РФ. Соорганизатор: Правительство Москвы. 10 - 11 апреля, Технопарк «Сколково». Памятка участнику форума «Открытые инновации 2024»"></mj-image>
+                <mj-text font-size="16px" font-weight="500" line-height="20px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">УВАЖАЕМЫЙ УЧАСТНИК!</mj-text>
+                <mj-text font-size="12px" font-weight="300" line-height="15px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">До начала форума «Открытые инновации» осталось несколько дней.<br/><b>Начало в 10:00. Сбор гостей в 9:30.</b></mj-text>
+                <mj-text font-size="12px" font-weight="300" line-height="15px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">Обращаем внимание: для входа на мероприятие необходимо получить аккредитационный бейдж — это ваш пропуск на площадку.<br/>Вы можете получить его заранее на стойках аккредитации у входа в Технопарк «Сколково» и со стороны бизнес-центра «Амальтея».</mj-text>
+                <mj-text font-size="12px" font-weight="700" line-height="15px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">Не забудьте оплатить участие в мероприятии и взять с собой паспорт: это необходимо для получения бейджа.</mj-text>
+                <mj-text font-size="16px" font-weight="500" line-height="20px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">ГРАФИК РАБОТЫ АККРЕДИТАЦИОННОГО ЦЕНТРА:</mj-text>
+                <mj-text font-size="12px" font-weight="500" line-height="15px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">— <b>10 апреля</b> с 08:00 до 20:00</mj-text>
+                <mj-text font-size="12px" font-weight="500" line-height="15px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">— <b>11 апреля</b> с 09:00 до 19:00</mj-text>
+                <mj-text font-size="12px" font-weight="300" line-height="15px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">Деловая программа пройдет в залах: <b>КАЗАН, ВЫСОКОТЕХ, ЦИФРА И ЭКОСИСТЕМА.</b> Рекомендуем заранее выбрать сессии, которые вы планируете посетить.</mj-text>
+                <mj-text font-size="16px" font-weight="500" line-height="20px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">КЛЮЧЕВЫЕ СЕССИИ:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image width="268px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-session-1.png" alt="10 апреля: #Высокотех - Новые материалы. Импортозамещающие технологии. #Будущее технологий - AGI как следующий шаг развития ИИ. #Экосистема - Новая модель. Кто и зачем создает цифровые экосистемы продуктов и сервисов? #Цифра - Чисто оцифровано. Актуальные технологии для устойчивого развития. #R&D - Исследования «на все деньги». Перенастройка НИОКР в масштабе страны"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="267px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-session-2.png" alt="11 апреля: #Высокотех - Раскидывая сети. Будущее индустрии мобильной связи. #Будущее технологий - Мозговой штурм. Применение генеративного ИИ в бизнесе. #Экосистема - Работать некому. Кадровый голод или 100% занятость в высокотехе? #Цифра - Создание новых промышленных объектов. На пути к технологическому превосходству. #Столица инноваций - Есть ли жизнь на «венчурном рынке» или как не потерять деньги на венчуре в 2024 году?"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image width="202px" href="https://test.ru" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-button-1.png" align="center" alt="Нажмите здесь, чтобы посмотреть программу"></mj-image>
+                <mj-text font-size="12px" font-weight="300" line-height="15px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">Форум соберет на одной площадке руководителей федеральных институтов инновационного развития, топ-менеджмент крупнейших российских и международных компаний, технологических предпринимателей, стартапы, инвесторов, визионеров и ученых.</mj-text>
+                <mj-text font-size="12px" font-weight="300" line-height="15px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">Ознакомиться со спикерским составом можно на сайте.</mj-text>
+                <mj-image width="202px" href="https://test.ru" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-button-2.png" align="center" alt="Нажмите здесь, чтобы посмотреть спикеров"></mj-image>
+                <mj-text font-size="12px" font-weight="300" line-height="15px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">В рамках форума «Открытые инновации» будет проходить выставка технологических проектов. Познакомиться с новейшими разработками и решениями можно будет на площадке в зоне Атриум на 1 этаже.</mj-text>
+                <mj-image width="202px" href="https://test.ru" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-button-3.png" align="center" alt="Нажмите здесь, чтобы посмотреть информацию о выставке"></mj-image>
+                <mj-text font-size="12px" font-weight="300" line-height="15px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">Форум будет проходить в Технопарке «Сколково» по адресу: <b>Москва, Большой бульвар, 42, строение 1.</b></mj-text>
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-location.png" alt="Карта расположения"></mj-image>
+                <mj-image width="202px" href="https://test.ru" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-button-4.png" align="center" alt="Нажмите здесь, чтобы узнать, как добраться"></mj-image>
+                <mj-text font-size="16px" font-weight="400" line-height="20px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif" align="center">Ждем вас в Технопарке «Сколково»</mj-text>
+                <mj-text font-size="28px" font-weight="600" line-height="35px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif" align="center">СООРГАНИЗАТОР</mj-text>
+                <mj-image width="544px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-coorganizer.png" alt="Правительство Москвы"></mj-image>
+                <mj-text font-size="28px" font-weight="600" line-height="35px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif" align="center">ГЕНЕРАЛЬНЫЕ ПАРТНЕРЫ:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image width="263px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-partner-1.png" alt="СБЕР"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="263px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-partner-2.png" alt="РОСАТОМ"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image width="263px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-partner-3.png" alt="ОАО «РЖД»"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="263px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-pamyatka-partner-4.png" alt="Ростелеком"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#110F22">
+            <mj-column>
+                <mj-text font-size="14px" font-weight="400" line-height="16px" color="#A5A5A5" font-family="Arial, Helvetica, sans-serif" align="justify">Вы получили эту рассылку, так как подписаны на рассылки Фонда «Сколково» посвященные конкурсам и мероприятиям Startup Tour, Startup Village, форум «Открытые инновации», а также информационные письма партнеров Фонда «Сколково»</mj-text>
+                <mj-text font-size="14px" font-weight="400" line-height="16px" color="#A5A5A5" font-family="Arial, Helvetica, sans-serif" align="center"><a href="$[unsubscribe_url]" target="_blank" style="color:inherit">Отписаться от рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
