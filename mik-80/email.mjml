@@ -1,0 +1,52 @@
+<mjml>
+    <mj-body>
+        <mj-section background-color="#0E0B26">
+            <mj-column>
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-80-hero.png" alt="Московский Инновационный Кластер. Сколково. Группа ВЭБ | РФ. Соорганизатор: Правительство Москвы. Открытые Инновации 2024. 10-11 апреля. Технопарк «Сколково». Нажмите здесь, чтобы участвовать" href="https://openinnovations.ru/"></mj-image>
+                <mj-text font-size="24px" font-weight="400" line-height="30px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">ФОРУМ <span style="color:#B1EC52;">«ОТКРЫТЫЕ ИННОВАЦИИ»</span> УЖЕ СКОРО!</mj-text>
+                <mj-text font-size="16px" font-weight="400" line-height="20px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">Стремительные изменения в обществе ставят перед всем миром серьезные вопросы: является ли глобализация эффективной моделью развития?</mj-text>
+                <mj-text font-size="16px" font-weight="400" line-height="20px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">Существуют ли альтернативные пути создания экономики будущего?</mj-text>
+                <mj-text font-size="24px" font-weight="400" line-height="30px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">О ЧЕМ БУДЕТ ФОРУМ?</mj-text>
+                <mj-text font-size="16px" font-weight="400" line-height="20px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">В этом году мы будем размышлять и дискутировать о технологиях – как они меняют социум и являются ли ключом к суверенитету. Тема большая и сложная, а говорить мы о ней будем в рамках треков:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#0E0B26">
+            <mj-column background-color="#B1EC52" border-radius="30px">
+                <mj-text font-size="18px" font-weight="600" line-height="20px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">#ВЫСОКОТЕХ</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#0E0B26">
+            <mj-column>
+                <mj-text font-size="24px" font-weight="600" line-height="30px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">ГДЕ И КОГДА ГОВОРИМ О БУДУЩЕМ?</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#0E0B26">
+            <mj-column background-color="#B1EC52" border-radius="13px">
+                <mj-text font-size="12px" font-weight="400" line-height="14px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">ДАТА</mj-text>
+            </mj-column>
+            <mj-column background-color="#B1EC52" border-radius="13px">
+                <mj-text font-size="12px" font-weight="400" line-height="14px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif">ГДЕ?</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#0E0B26">
+            <mj-column>
+                <mj-text font-size="15px" font-weight="700" line-height="18px" color="#000000" font-family="Unbounded, Helvetica, Arial, sans-serif" align="center">ДЛЯ УЧАСТНИКОВ МОСКОВСКОГО ИННОВАЦИОННОГО КЛАСТЕРА ПО ПРОМОКОДУ <span style="color:#19FF09;">MIK</span> УЧАСТИЕ БЕСПЛАТНОЕ</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#0E0B26">
+            <mj-column>
+                <mj-text font-size="24px" font-weight="700" line-height="30px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">КАК ПОЛУЧИТЬ БИЛЕТ:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#0E0B26">
+            <mj-column border="1px solid #92CD33;">
+                <mj-text font-size="16px" font-weight="400" line-height="20px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">Зарегистрируйтесь на сайте мероприятия</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#0E0B26">
+            <mj-column>
+                <mj-button background-color="#AFEA50" width="245px" height="48px" href="https://openinnovations.ru/" border-radius="5px" font-size="16px" line-height="20px" font-weight="500" color="#1A153F">Получить билет</mj-button>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
