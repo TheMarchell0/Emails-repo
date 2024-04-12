@@ -1,0 +1,45 @@
+<mjml>
+    <mj-body>
+        <mj-section background-color="#0E0B26">
+            <mj-column>
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-finish-hero.png" alt="Сколково. Группа ВЭБ | РФ. Соорганизатор: Правительство Москвы. 10 - 11 апреля, Технопарк «Сколково». Благодарим за участие в форуме «Открытые инновации 2024»"></mj-image>
+                <mj-text font-size="24px" font-weight="600" line-height="24px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">УВАЖАЕМЫЙ УЧАСТНИК!</mj-text>
+                <mj-text font-size="15px" font-weight="400" line-height="18px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">От лица организаторов благодарим вас за участие в форуме «Открытые инновации»!  </mj-text>
+                <mj-text font-size="15px" font-weight="400" line-height="18px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">Мы рады, что вы были с нами, и надеемся, что мероприятие было для вас полезным и интересным.</mj-text>
+                <mj-text font-size="15px" font-weight="700" line-height="18px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">Будем благодарны за обратную связь: ваши впечатления о мероприятии и пожелания.</mj-text>
+              <mj-image width="225px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-finish-button-1.png" alt="Нажмите здесь, чтобы пройти опрос" href="https://test.ru"></mj-image>
+              <mj-text font-size="15px" font-weight="400" line-height="18px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">Записи выступлений спикеров залов Казан и Высохотех  доступны на сайте. </mj-text>
+              <mj-image width="146px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-finish-button-2.png" alt="Нажмите здесь, чтобы посмотреть видео" href="https://openinnovations.ru/video?day=04-11&track=kazan"></mj-image>
+              <mj-text font-size="15px" font-weight="400" line-height="18px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif">Фотографии с форума вы можете найти по ссылке, они будут доступны до 10 июня.</mj-text>
+              <mj-image width="136px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-finish-button-3.png" alt="Нажмите здесь, чтобы посмотреть фото" href="https://open-innovations.ru/"></mj-image>
+              <mj-text font-size="24px" font-weight="700" line-height="30px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif" align="center">Спасибо!</mj-text>
+                <mj-text font-size="12px" font-weight="300" line-height="14px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif" align="center">С уважением,<br/>команда форума «Открытые инновации»</mj-text>
+                <mj-text font-size="28px" font-weight="600" line-height="35px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif" align="center">СООРГАНИЗАТОР</mj-text>
+                <mj-image width="544px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-ticket-coorganizer.png" alt="Правительство Москвы"></mj-image>
+                <mj-text font-size="28px" font-weight="600" line-height="35px" color="#FFFFFF" font-family="Unbounded, Helvetica, Arial, sans-serif" align="center">ГЕНЕРАЛЬНЫЕ ПАРТНЕРЫ:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#0E0B26">
+            <mj-column>
+                <mj-image width="263px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-ticket-partner-1.png" alt="СБЕР"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="263px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-ticket-partner-2.png" alt="РОСАТОМ"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#0E0B26">
+            <mj-column>
+                <mj-image width="263px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-ticket-partner-3.png" alt="ОАО «РЖД»"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="263px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=oi-ticket-partner-4.png" alt="Ростелеком"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#090719">
+            <mj-column>
+                <mj-text font-size="12px" font-weight="300" line-height="15px" color="#A5A5A5" font-family="Unbounded, Arial, Helvetica, sans-serif" align="justify">Вы получили эту рассылку, так как подписаны на рассылки Фонда «Сколково» посвященные конкурсам и мероприятиям Startup Tour, Startup Village, форум «Открытые инновации», а также информационные письма партнеров Фонда «Сколково»</mj-text>
+                <mj-text font-size="12px" font-weight="400" line-height="15px" color="#A5A5A5" font-family="Unbounded, Arial, Helvetica, sans-serif" align="center"><a href="$[unsubscribe_url]" target="_blank" style="color:inherit">Отписаться от рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
