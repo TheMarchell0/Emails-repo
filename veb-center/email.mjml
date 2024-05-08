@@ -1,0 +1,23 @@
+<mjml>
+    <mj-body>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-hero.png"></mj-image>
+
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display">В этот день мы заново осознаем важность мира и трагичность войны. Пусть никогда не повторится подобное испытание для человечества. Ведь только вместе мы можем создать светлое будущее для наших детей.</mj-text>
+                <mj-button font-size="16px" font-weight="500" line-height="19px" color="#FFFFFF" font-family="SF Pro Display" align="center" border-radius="10px" background-color="#21AAA3" >Пусть праздничные огни озарят ваш дом, и пусть мир и процветание будут всегда в вашем сердце!</mj-button>
+                <mj-text font-size="22px" font-weight="500" line-height="26px" color="#000000" font-family="SF Pro Display" align="center" >С ПРАЗДНИКОМ!</mj-text>
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display" align="center" >ВЭБ Центр — это площадка для развития, объединяющая пространства для различных мероприятий, бизнес-центр, рестораны и магазины.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+                <mj-image width="24px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-icon.png"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display">Новинский бульвар, 31</mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
