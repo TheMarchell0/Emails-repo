@@ -1,0 +1,51 @@
+<mjml>
+    <mj-body>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-2-hero.png"></mj-image>
+
+                <mj-text font-size="24px" font-weight="700" line-height="29px" color="#000000" font-family="SF Pro Display">Добрый день!</mj-text>
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display">Спасибо, что посетили концерт «Арт-прочтения в ВЭБ Центре: Йозеф Гайдн. Музыка как жизнь»! Надеемся, вы прекрасно провели вечер, а концерт стал ярким завершением недели.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+                <mj-image width="257px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-2-content-img-1.png" alt="Фотография с концерта"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="257px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-2-content-img-2.png" alt="Фотография с концерта"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+                <mj-image width="257px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-2-content-img-3.png" alt="Фотография с концерта"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="257px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-2-content-img-4.png" alt="Фотография с концерта"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+                <mj-image width="257px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-2-content-img-5.png" alt="Фотография с концерта"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-image width="257px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-2-content-img-6.png" alt="Фотография с концерта"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display">Мы будем рады видеть вас на наших других мероприятиях! Кстати, в эту пятницу — 21 июня — состоится экскурсия по выставке о жизни и творчестве Антонины Неждановой. Вход свободный, нужно только   зарегистрироваться</mj-text>
+                <mj-text font-size="16px" font-weight="700" line-height="19px" color="#000000" font-family="SF Pro Display" align="center">Подробности всех событий ищите в Telegram-канале ВЭБ Центра!</mj-text>
+                <mj-image width="85px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-2-tg-icon.png" alt="Иконка TG канала" href="https://t.me/veb_center"></mj-image>
+                <mj-text font-size="14px" font-weight="400" line-height="17px" color="#000000" font-family="SF Pro Display" align="center">Подписаться на Telegram канал «Пространство развития»</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#2F444E">
+            <mj-column>
+                <mj-text font-size="17px" font-weight="300" line-height="20px" color="#A5A5A5" font-family="SF Pro Display" align="center" >Вы получили эту рассылку, так как стали участником мероприятия ВЭБ Центра.</mj-text>
+                <mj-text font-size="14px" font-weight="400" line-height="16px" color="#A5A5A5" font-family="Arial" align="center"><a href="$[unsubscribe_url]" style="color:#A5A5A5">Отписаться от рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
