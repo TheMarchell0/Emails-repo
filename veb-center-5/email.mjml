@@ -1,0 +1,31 @@
+<mjml>
+    <mj-body>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-5-hero.png"></mj-image>
+
+                <mj-text font-size="24px" font-weight="700" line-height="29px" color="#000000" font-family="SF Pro Display, Arial">Добрый день, дорогие резиденты!</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#EBEBEB">
+            <mj-column border="3px solid #21AAA3">
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">Приглашаем вас присоединиться к новому <a href="https://t.me/+uf3VYCNqUSJkMmZi" target="_blank" style="color:#000000">Telegram-каналу</a> для резидентов ВЭБ Центра. Вся актуальная информация будет там, в то время как старый канал перестанет обновляться.</mj-text>
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">В новом канале будут публиковаться все важные новости, полезные статьи, информация о предстоящих мероприятиях и эксклюзивные предложения от наших партнеров.</mj-text>
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">Мы создали единый канал для связи с постоянно обновляющейся информацией, чтобы наши резиденты могли быть в контексте новостей Центра. <a href="https://t.me/+uf3VYCNqUSJkMmZi" target="_blank" style="color:#000000">Подписывайтесь!</a></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">Делитесь рассылкой с коллегами, чтобы они тоже были в курсе новостей!</mj-text>
+                <mj-button background-color="#21AAA3" border-radius="8px" width="309px" height="60px" color="#FFFFFF" font-size="20px" line-height="24px" font-weight="500" font-family="SF Pro Display, Arial" href="https://t.me/+w4_Vd6Jxr480MGNi">Ссылка на Telegram-канал</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#2F444E">
+            <mj-column>
+                <mj-text font-size="17px" font-weight="300" line-height="20px" color="#A5A5A5" font-family="Unbounded, Arial" align="center" >Вы получили эту рассылку, так как являетесь партнером ВЭБ Центра.</mj-text>
+                <mj-text font-size="14px" font-weight="400" line-height="16px" color="#A5A5A5" font-family="Arial" align="center"><a href="$[unsubscribe_url]" style="color:#A5A5A5">Отписаться от рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
