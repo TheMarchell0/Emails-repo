@@ -9,10 +9,16 @@
             </mj-column>
         </mj-section>
         <mj-section background-color="#EBEBEB">
-            <mj-column border="3px solid #21AAA3">
-                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">Приглашаем вас присоединиться к новому <a href="https://t.me/+uf3VYCNqUSJkMmZi" target="_blank" style="color:#000000">Telegram-каналу</a> для резидентов ВЭБ Центра. Вся актуальная информация будет там, в то время как старый канал перестанет обновляться.</mj-text>
-                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">В новом канале будут публиковаться все важные новости, полезные статьи, информация о предстоящих мероприятиях и эксклюзивные предложения от наших партнеров.</mj-text>
-                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">Мы создали единый канал для связи с постоянно обновляющейся информацией, чтобы наши резиденты могли быть в контексте новостей Центра. <a href="https://t.me/+uf3VYCNqUSJkMmZi" target="_blank" style="color:#000000">Подписывайтесь!</a></mj-text>
+            <mj-column>
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">Приглашаем вас присоединиться к новому <a href="https://t.me/+uf3VYCNqUSJkMmZi" target="_blank" style="color:#000000">Telegram-каналу</a> для резидентов ВЭБ Центра. Теперь вся актуальная информация будет там:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+                <mj-image width="36px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-5-decor-line.png"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">важные новости</mj-text>
             </mj-column>
         </mj-section>
         <mj-section background-color="#EBEBEB">

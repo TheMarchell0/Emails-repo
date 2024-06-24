@@ -23,18 +23,12 @@
         </mj-section>
         <mj-section background-color="#EBEBEB">
             <mj-column>
-                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">Делитесь рассылкой с коллегами, чтобы они тоже были в курсе новостей!</mj-text>
+                <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">Подписывайтесь, чтобы ничего не&nbsp;пропустить и&nbsp;быть с&nbsp;нами на&nbsp;одной волне! И не забудьте поделиться рассылкой с&nbsp;коллегами — вместе посещать лекции или ходить на&nbsp;ланчи куда интереснее!</mj-text>
+                <mj-button href="https://event-vebcenter.ru/subscribe" width="306px" height="60px" border-radius="8px" background-color="#21AAA3" color="#FFFFFF" font-size="20px" line-height="24px">Подписаться на рассылку</mj-button>
                 <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial" align="center">Чтобы не пропустить все новости, присоединяйтесь к нам в соцсетях</mj-text>
-            </mj-column>
-        </mj-section>
-        <mj-section background-color="#EBEBEB">
-            <mj-column>
+                <mj-image width="104px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-3-qr.png"></mj-image>
                 <mj-image width="40px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-tg-icon.png"></mj-image>
-                <mj-text font-size="8px" font-weight="400" line-height="10px" color="#000000" font-family="SF Pro Display, Arial" align="center">Закрытый Telegram-канал для партнеров «Внутри ВЭБ Центра»</mj-text>
-            </mj-column>
-            <mj-column>
-                <mj-image width="40px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-tg-icon.png"></mj-image>
-                <mj-text font-size="8px" font-weight="400" line-height="10px" color="#000000" font-family="SF Pro Display, Arial" align="center">Официальный Telegram-канал «Пространство развития»</mj-text>
+                <mj-text font-size="12px" font-weight="400" line-height="14px" color="#000000" font-family="SF Pro Display, Arial" align="center">Закрытый Telegram-канал для партнеров «Внутри ВЭБ Центра»</mj-text>
             </mj-column>
         </mj-section>
         <mj-section background-color="#2F444E">
