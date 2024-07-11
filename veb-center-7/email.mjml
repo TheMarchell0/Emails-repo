@@ -1,0 +1,42 @@
+<mjml>
+    <mj-body>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-7-hero.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#EBEBEB">
+            <mj-column>
+                <mj-text font-size="24px" font-weight="700" line-height="29px" color="#000000" font-family="SF Pro Display, Arial">Добрый день!</mj-text>
+                <mj-text font-size="16px" font-weight="400" line-height="19px" color="#000000" font-family="SF Pro Display, Arial"><b>Информация для административного персонала арендаторов
+ВЭБ Центра:</b> мы подключаем всех арендаторов к единой системе учёта заявок Okdesk. </mj-text>
+              <mj-text font-size="16px" font-weight="400" line-height="19px" color="#000000" font-family="SF Pro Display, Arial"><b>В Личном кабинете</b> будут согласовываться заявки на работы, ввоз, вывоз, постоянные и временные пропуска и рассылаться уведомления — всё для вашего удобства.</mj-text>
+              <mj-text font-size="16px" font-weight="400" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">В дальнейшем все заявки от арендаторов будут приниматься только
+в системе Okdesk.</mj-text>
+            </mj-column>
+        </mj-section>
+     <mj-section background-color="#EBEBEB">
+            <mj-column>
+                <mj-image width="258px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-7-content-img-1.png"></mj-image>
+            </mj-column>
+       <mj-column>
+                <mj-image width="258px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-7-content-img-2.png"></mj-image>
+            </mj-column>
+        </mj-section>
+      <mj-section background-color="#EBEBEB">
+            <mj-column>
+                <mj-image width="244px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-7-button-1.png"></mj-image>
+              <mj-text font-size="16px" font-weight="500" line-height="19px" color="#000000" font-family="SF Pro Display, Arial">Чтобы не пропустить все новости, присоединяйтесь к нам в соцсетях</mj-text>
+              <mj-image width="104px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-7-qr.png"></mj-image>
+              <mj-image width="25px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=veb-center-tg-icon.png"></mj-image>
+                <mj-text font-size="12px" font-weight="400" line-height="14px" color="#000000" font-family="SF Pro Display, Arial" align="center">Закрытый Telegram-канал для партнеров «Внутри ВЭБ Центра»</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#2F444E">
+            <mj-column>
+                <mj-text font-size="17px" font-weight="300" line-height="20px" color="#A5A5A5" font-family="Unbounded, Arial" align="center" >Вы получили эту рассылку, так как являетесь партнером ВЭБ Центра.</mj-text>
+                <mj-text font-size="14px" font-weight="400" line-height="16px" color="#A5A5A5" font-family="Arial" align="center"><a href="$[unsubscribe_url]" style="color:#A5A5A5">Отписаться от рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
