@@ -1,0 +1,70 @@
+<mjml>
+    <mj-body>
+        <mj-section background-color="#ECEFF8">
+            <mj-column background-color="#FFFFFF">
+                <mj-image width="144px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=cardybit-logo.png"></mj-image>
+            </mj-column>
+            <mj-column background-color="#FFFFFF">
+                <mj-text font-size="14px" font-weight="400" line-height="17px" color="#6D6D6D" font-family="Inter, Arial">Сервис оформления зарубежных карт</mj-text>
+            </mj-column>
+            <mj-column background-color="#FFFFFF">
+                <mj-image width="37px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=cardybit-whatsapp-icon.png"></mj-image>
+            </mj-column>
+            <mj-column background-color="#FFFFFF">
+                <mj-image width="34px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=cardybit-tg-icon.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ECEFF8">
+            <mj-column>
+                <mj-image width="560px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=cardybit-hero.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ECEFF8">
+            <mj-column background-color="#FFFFFF">
+                <mj-text font-size="20px" font-weight="400" line-height="24px" color="#6D6D6D" font-family="Inter, Arial">Добрый день!<br/>Сервис оформления зарубежных карт <b>«CardyBit»</b> является сертифицированным партнером ведущих банков мира на территории Российской Федерации.</mj-text>
+                <mj-text font-size="20px" font-weight="400" line-height="24px" color="#6D6D6D" font-family="Inter, Arial">Благодаря нам вы сможете <b>оперативно оформить зарубежную карту</b>. Мы подскажем, отталкиваясь от ваших нужд, какая карта вам лучше всего подойдет.</mj-text>
+                <mj-button height="64px" font-family="Inter, Arial" font-size="20px" line-height="24px" color="#FFFFFF" font-weight="700" background-color="#00AAFF" width="560px" border-radius="117px" href="https://test.ru">Оформить зарубежную карту</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ECEFF8">
+            <mj-column>
+                <mj-text font-size="35px" font-weight="700" line-height="42px" color="#000000" font-family="Inter, Arial">Наши предложения:</mj-text>
+                <mj-image width="560px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=cardybit-content-img-1.png"></mj-image>
+                <mj-image width="560px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=cardybit-content-img-2.png"></mj-image>
+                <mj-button height="64px" font-family="Inter, Arial" font-size="20px" line-height="24px" color="#FFFFFF" font-weight="700" background-color="#00AAFF" width="560px" border-radius="117px" href="https://test.ru">Перейти к выбору карт
+                </mj-button>
+                <mj-text font-size="35px" font-weight="700" line-height="42px" color="#000000" font-family="Inter, Arial">Акции:</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ECEFF8">
+            <mj-column background-color="#FFFFFF">
+                <mj-text font-size="20px" font-weight="400" line-height="24px" color="#6D6D6D" font-family="Inter, Arial">Используйте промо-код <b>«Email_bonus»</b>
+                    и получите скидку 3000 рублей на любую карту!</mj-text>
+                <mj-button height="64px" border="1px solid #FF9900" font-family="Inter, Arial" font-size="20px" line-height="24px" color="#FF9900" font-weight="700" background-color="#FFFFFF" width="520px" border-radius="117px">«EMAIL_BONUS»
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ECEFF8">
+            <mj-column background-color="#FFFFFF">
+                <mj-text font-size="20px" font-weight="400" line-height="24px" color="#6D6D6D" font-family="Inter, Arial"><b>Советуйте карты CardyBit и зарабатывайте!</b><br/>
+                    Мы выплатим вам 3.000 руб за каждого пользователя, который оформит карту по вашей рекомендации!  Для уточнения деталей – напишите нам и мы все расскажем!</mj-text>
+                <mj-button height="64px" border="1px solid #FF9900" font-family="Inter, Arial" font-size="20px" line-height="24px" color="#FF9900" font-weight="700" background-color="#FFFFFF" width="520px" border-radius="117px" href="https://test.ru">Написать менеджеру</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ECEFF8">
+            <mj-column>
+                <mj-text font-size="35px" font-weight="700" line-height="42px" color="#000000" font-family="Inter, Arial">Получите доступ к <span style="color:#FFFFFF;background-color:#FF9900;border-radius:96px;">онлайн&nbsp;сервисам</span></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ECEFF8">
+            <mj-column background-color="#FFFFFF">
+                <mj-image width="506px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=cardybit-services.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ECEFF8">
+            <mj-column>
+                <mj-text font-size="14px" font-weight="400" line-height="17px" color="#6D6D6D" font-family="Inter, Arial" align="center"><a href="{{UnsubscribeUrl}}" style="color:#A5A5A5">Отписаться от рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
