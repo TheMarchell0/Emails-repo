@@ -1,0 +1,31 @@
+<mjml>
+    <mj-body>
+        <mj-section background-color="#000000">
+            <mj-column>
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2024-hero.png"></mj-image>
+                <mj-text font-size="14px" line-height="16.94px" font-weight="400" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif">В рамках конференции Startup Village можно будет познакомиться с интерактивной выставкой флагманских инновационных продуктов, которые уже сегодня формируют завтрашний день.</mj-text>
+                <mj-text font-size="14px" line-height="16.94px" font-weight="400" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif">Экспозиция будет представлена в формате «портала», символизирующего путь к технологиям будущего. Каждый участник совершит путешествие во времени, сможет погрузиться в инновационные процессы и узнать, как прорывные проекты меняют мир.</mj-text>
+                <mj-image width="540px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2024-content-img-1.png" href="https://test.ru" alt="Участие бесплатное, необходимо пройти регистрацию. Нажмите здесь, чтобы зарегистрироваться"></mj-image>
+                <mj-text font-size="30px" line-height="30px" font-weight="500" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" align="center">НАПРАВЛЕНИЯ<br/>ВЫСТАВКИ</mj-text>
+                <mj-image width="540px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2024-type-img-1.png" alt="Информационные технологии - Инновационные решения в сфере информационной безопасности, цифровизации и автоматизации процессов, нейротехнологий и ИИ, технологий беспроводной связи."></mj-image>
+                <mj-image width="540px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2024-type-img-2.png" alt="Медицина - Разработки в области ИИ в медицине, создания медицинских изделий и имплантов, проекты цифровой медицины, производства косметики и космецевтики."></mj-image>
+                <mj-image width="540px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2024-type-img-3.png" alt="Сельское хозяйство - Проекты в области агрогенетики и селекции, агротехнологий, технологий переработки, создания сельскохозяйственной техники."></mj-image>
+                <mj-image width="540px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2024-type-img-4.png" alt="Промышленность - Проекты беспилотных летательных аппаратов, разработки в области электроники и микроэлектроники, технологии горнорудной отрасли, средне — и малотоннажной химии."></mj-image>
+                <mj-image width="540px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2024-type-img-5.png" alt="Транспорт - Проекты в области интеллектуальных транспортных систем, индивидуальной мобильности, а также электрический транспорт, беспилотники, проекты в сфере транспортной логистики."></mj-image>
+                <mj-image width="540px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2024-type-img-6.png" alt="Городская экономика - Разработки в строительной отрасли, в сфере городской экологии и эксплуатации зданий."></mj-image>
+                <mj-image width="540px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2024-type-img-7.png" alt="Энергетика - Проекты оборудования и технологий в энергетической и электротехнической отраслях, разработки в области систем накопления энергии, электрозарядной инфраструктуры, ВИЭ."></mj-image>
+                <mj-image width="540px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2024-type-img-8.png" alt="Креативные индустрии - Проекты в области технологий виртуальной и дополненной реальностей, компьютерной графики и геймификации, нейротехнологий и ИИ."></mj-image>
+                <mj-text font-size="14px" line-height="16.94px" font-weight="400" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" align="center">Следите за новостями Startup Village. В следующих рассылках расскажем о спикерах и других активностях конференции.</mj-text>
+                <mj-image width="540px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2024-content-img-2.png" href="https://test.ru" alt="Участие бесплатное, необходимо пройти регистрацию. Нажмите здесь, чтобы зарегистрироваться"></mj-image>
+                <mj-text font-size="30px" line-height="30px" font-weight="500" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" align="center">ДО ВСТРЕЧИ<br/>В БЦ «МАТРЁШКА»!</mj-text>
+                <mj-text font-size="16px" line-height="19.36px" font-weight="500" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" align="center">Москва, ул. Блеза Паскаля, д. 2</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#010D1B">
+            <mj-column>
+                <mj-text font-size="16px" line-height="21.79px" font-weight="400" color="#A5A5A5" font-family="Open Sans, Helvetica, Arial, sans-serif" align="justify">Вы получили эту рассылку, так как подписаны на рассылки от «Сколково Форум», посвящённые конкурсам и мероприятиям «Startup Tour», «Startup Village» и «Nobel Vision. Открытые инновации», а также информационные письма партнёров «Сколково».</mj-text>
+                <mj-text font-size="16px" line-height="21.79px" font-weight="400" color="#A5A5A5" font-family="Open Sans, Helvetica, Arial, sans-serif" align="center"><a href="{{UnsubscribeUrl}}" style="color:#A5A5A5">Отписаться от&nbsp;рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
