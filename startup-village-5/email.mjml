@@ -1,0 +1,45 @@
+<mjml>
+    <mj-body>
+        <mj-section background-color="#000000">
+            <mj-column>
+                <mj-image alt="Startup Village. Узнайте о передовых технологиях и разработках, которые уже сегодня меняют мир. Город Москва, БЦ «Матрешка», ул. Блеза Паскаля, д. 2.  5 – 7 сентября 2024" width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2-hero.png"></mj-image>
+                <mj-text font-size="14px" line-height="16.94px" font-weight="400" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif">Startup Village — это портал в мир технологий будущего, нетривиальных бизнес-идей и стартапов, которые завтра станут новыми единорогами.<br/>Точка объединения усилий ученых, предпринимателей и инвесторов, в которой формируются новые команды и зарождаются новые бизнесы, способные покорить глобальные рынки.</mj-text>
+              <mj-image href="https://startupvillage.events.sk.ru/" alt="Нажмите здесь, чтобы зарегистрироваться" width="269px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2-button-1.png"></mj-image>
+                <mj-text font-size="30px" line-height="30px" font-weight="500" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" align="center">ЧТО ВАС ЖДЕТ НА КОНФЕРЕНЦИИ</mj-text>
+              </mj-column>
+      </mj-section>
+      <mj-section background-color="#000000">
+            <mj-column>
+                <mj-text font-size="14px" line-height="30px" font-weight="400" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" align="center">ТУТ БЛЯТЬ</mj-text>
+              </mj-column>
+      </mj-section>
+      <mj-section background-color="#000000">
+            <mj-column>
+              <mj-text font-size="30px" line-height="30px" font-weight="500" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" align="center">КЛЮЧЕВЫЕ СЕССИИ</mj-text>
+                <mj-image width="540px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2-content-img-1.png" alt="Развитие компетенций технологических лидеров и связей внутри экосистемы; Риск и вознаграждение. Погружение в мир венчурных инвестиций; Чит-коды для успеха. Как стартап пошел в гору; Специализация VS универсальность: должны ли инвесторы иметь отраслевую или тематическую направленность; Гиперскачок из лаборатории в рынок. Тонкая настройка системы лидерства в технологиях; Tech Diplomacy. Международная кооперация в высокотехе; Неинвазивный взгляд на здоровье. Фотоника в действии; Демо-день Академии инноваторов"></mj-image>
+               <mj-image href="https://drive.google.com/file/d/13Ly58_Hq4DrKEhTLxDQyWQEV9_g2oicZ/view?usp=sharing" alt="Нажмите здесь, чтобы увидеть полную версию программы" width="336px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2-button-2.png"></mj-image>
+            </mj-column>
+        </mj-section>
+      <mj-section background-color="#000000">
+            <mj-column>
+                <mj-text font-size="14px" line-height="30px" font-weight="400" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" align="center">ТУТ БЛЯТЬ</mj-text>
+              </mj-column>
+      </mj-section>
+      <mj-section background-color="#000000">
+            <mj-column>
+              <mj-image alt="БЦ Матрешка" width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2-content-img-2.png"></mj-image>
+              <mj-text font-size="24px" line-height="33.6px" font-weight="500" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" align="center">РЕГИСТРИРУЙТЕСЬ И НЕ УПУСТИТЕ СВОЙ ШАНС ДЛЯ РОСТА!</mj-text>
+              <mj-image href="https://startupvillage.events.sk.ru/" alt="Нажмите здесь, чтобы пройти бесплатную регистрацию" width="336px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2-button-3.png"></mj-image>
+              <mj-text font-size="30px" line-height="30px" font-weight="500" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" align="center">СООРГАНИЗАТОРЫ</mj-text>
+              <mj-image alt="Сколково | ВЭБ РФ" width="274px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sv-2-content-img-3.png"></mj-image>
+              <mj-text font-size="14px" line-height="16.94px" font-weight="400" color="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" align="center">Следите за новостями Startup Village. В следующих рассылках расскажем о спикерах и других активностях конференции.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#010D1B">
+            <mj-column>
+                <mj-text font-size="16px" line-height="21.79px" font-weight="400" color="#A5A5A5" font-family="Open Sans, Helvetica, Arial, sans-serif" align="justify">Вы получили эту рассылку, так как подписаны на рассылки от «Сколково Форум», посвящённые конкурсам и мероприятиям «Startup Tour», «Startup Village» и «Nobel Vision. Открытые инновации», а также информационные письма партнёров «Сколково».</mj-text>
+                <mj-text font-size="16px" line-height="21.79px" font-weight="400" color="#A5A5A5" font-family="Open Sans, Helvetica, Arial, sans-serif" align="center"><a href="{{UnsubscribeUrl}}" style="color:#A5A5A5">Отписаться от&nbsp;рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
