@@ -1,0 +1,27 @@
+<mjml>
+    <mj-body>
+        <mj-section>
+            <mj-column>
+                <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=minsport-1-hero.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text font-family="Akzidenz-Grotesk Pro, Arial" font-size="18px" line-height="19.8px" font-weight="400" color="#000000">По заказу Минспорта России проводится комплекс мероприятий по формированию идеологических и мировоззренческих ценностей у спортсменов. Информационную поддержку оказвает некоммерческая организация «Союз участников отношений в сфере образования» (Обрсоюз).</mj-text>
+                <mj-text font-family="Akzidenz-Grotesk Pro, Arial" font-size="18px" line-height="19.8px" font-weight="400" color="#000000">Мы просим вас рассказать о мероприятиях, проектах и программах вашей спортивной федерации за последний год. К подобным мероприятиям могут быть отнесены любые коллективные и массовые мероприятия с участием спортсменов.</mj-text>
+                <mj-text font-family="Akzidenz-Grotesk Pro, Arial" font-size="18px" line-height="19.8px" font-weight="400" color="#000000">Подробная информация доступна по кнопке «Читать подробнее».</mj-text>
+                <mj-text font-family="Akzidenz-Grotesk Pro, Arial" font-size="18px" line-height="19.8px" font-weight="500" color="#000000">Спасибо за внимание.</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=minsport-1-bg.png" background-size="cover" background-color="#40B8B8">
+            <mj-column>
+                <mj-button href="https://drive.google.com/drive/u/0/folders/1tWGKi6NCzXhO_ihVisAghz9qRWyPId6v" font-family="TT Firs Neue, Arial" font-size="16px" font-weight="500" line-height="19.2px" color="#FFFFFF" width="193px" height="43px" background-color="#000000" align="left">Читать подробнее</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#404040">
+            <mj-column>
+                <mj-text font-family="TT Firs Neue, Arial" font-size="18px" line-height="21.6px" font-weight="400" color="#FFFFFF" align="center"><a href="{{UnsubscribeUrl}}" style="color:#FFFFFF;text-decoration:none">Отписаться от рассылки</a></mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
