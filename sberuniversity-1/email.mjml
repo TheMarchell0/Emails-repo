@@ -1,0 +1,22 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sber-1-hero.png" alt="Новогодний вечер в СберУниверситете"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#ebecf0">
+        <mj-text font-family="Arial, sans-serif" font-weight="700" font-size="16px" line-height="20.8px" color="#005E7F">Уважаемые коллеги!</mj-text>
+         <mj-text font-family="Arial, sans-serif" font-weight="400" font-size="16px" line-height="20.8px" color="#005E7F">Приглашаем вас на Новогоднее корпоративное мероприятие <span style="font-weight:600;">20 декабря в 17:00 в Спортбаре!</span></mj-text>
+        <mj-text font-family="Arial, sans-serif" font-weight="400" font-size="16px" line-height="20.8px" color="#00000040">Детали мероприятия направим позднее.</mj-text>
+        <mj-image width="480px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sber-1-content-img-1.png" alt="Мы уверены, что это будет незабываемый вечер, наполненный весельем и общением."></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image width="600px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=sber-1-content-img-2.png" alt="Ждём Вас!"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
