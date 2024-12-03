@@ -1,0 +1,52 @@
+<mjml>
+    <mj-body>
+        <mj-section background-color="#000000">
+            <mj-column>
+                <mj-image width="565px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=turmerge-1-hero.png"></mj-image>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20px" font-weight="700" line-height="26px" color="#FFFFFF" align="center">ПОДТВЕРЖДЕНИЕ УЧАСТИЯ</mj-text>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20px" font-weight="400" line-height="26px" color="#FFFFFF" align="center">ВЫ УСПЕШНО ПРИОБРЕЛИ БИЛЕТ НА КОНФЕРЕНЦИЮ <span style="text-decoration:underline">TURMERGE 2025</span>!</mj-text>
+                <mj-button  width="560px" border-radius="20px" height="54px" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20px" font-weight="600" line-height="22px" color="#FFFFFF" border="1px solid #838383">КАТЕГОРИЯ УЧАСТИЯ — BUSINESS</mj-button>
+                <mj-divider border-color="#F45E43"></mj-divider>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000000">
+            <mj-column>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="14px" font-weight="400" line-height="18.2px" color="#FFFFFF" align="center">На конференции вас ждёт насыщенная <b>деловая программа, образовательный модуль с воркшопами и мастер-классами, а также уникальные возможности для нетворкинга.</b></mj-text>
+                <mj-image width="560px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=turmerge-1-line-1.png"></mj-image>
+                <mj-button background-color="#F9F9FB" width="560px" border-radius="36px" height="42px" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="16px" font-weight="700" line-height="19.2px" color="#121212" href="https://test.ru">Изучить программу</mj-button>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20px" font-weight="700" line-height="26px" color="#FFFFFF" align="center">КОНТАКТЫ ДЛЯ СВЯЗИ</mj-text>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="14px" font-weight="400" line-height="18.2px" color="#FFFFFF" align="center">Отдел по работе с участниками</mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000000">
+            <mj-column>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="13px" font-weight="500" line-height="13.93px" color="#FFFFFF">АИДА ДАНЕЛЯН</mj-text>
+                <mj-image width="114px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=turmerge-1-line-2.png"></mj-image>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="8px" font-weight="700" line-height="8.29px" color="#FFFFFF"><a href="mailto:aida@turmerge.com" style="color:#FFFFFF;text-decoration:none;">aida@turmerge.com</a></mj-text>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="8px" font-weight="300" line-height="9.29px" color="#FFFFFF"><a href="tel:+7(916)093-57-65" style="color:#FFFFFF;text-decoration:none;">+7(916)093-57-65</a></mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="13px" font-weight="500" line-height="13.93px" color="#FFFFFF">СВЕТЛАНА КРИВЦОВА</mj-text>
+                <mj-image width="114px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=turmerge-1-line-2.png"></mj-image>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="8px" font-weight="700" line-height="8.29px" color="#FFFFFF"><a href="mailto:svetlana@turmerge.com" style="color:#FFFFFF;text-decoration:none;">svetlana@turmerge.com</a></mj-text>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="8px" font-weight="300" line-height="9.29px" color="#FFFFFF"><a href="tel:+7(911)732-03-67" style="color:#FFFFFF;text-decoration:none;">+7(911)732-03-67</a></mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000000">
+            <mj-column>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="28px" font-weight="400" line-height="33.6px" color="#FFFFFF">ДО ВСТРЕЧИ НА КОНФЕРЕНЦИИ TURMERGE 2025!</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image width="76px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=turmerge-1-content-img-1.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" border-radius="30px">
+            <mj-column>
+                <mj-image width="171px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=turmerge-1-footer-logo.png"></mj-image>
+            </mj-column>
+            <mj-column>
+                <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="12px" font-weight="400" line-height="13.2px" color="#121212">Остались вопросы?<br/>Напишите нам на почту:</mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
