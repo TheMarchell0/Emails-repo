@@ -6,7 +6,14 @@
                 <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20px" font-weight="700" line-height="26px" color="#FFFFFF" align="center">ПОДТВЕРЖДЕНИЕ УЧАСТИЯ</mj-text>
                 <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20px" font-weight="400" line-height="26px" color="#FFFFFF" align="center">ВЫ УСПЕШНО ПРИОБРЕЛИ БИЛЕТ НА КОНФЕРЕНЦИЮ <span style="text-decoration:underline">TURMERGE 2025</span>!</mj-text>
                 <mj-button  width="560px" border-radius="20px" height="54px" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20px" font-weight="600" line-height="22px" color="#FFFFFF" border="1px solid #838383">КАТЕГОРИЯ УЧАСТИЯ — BUSINESS</mj-button>
-                <mj-divider border-color="#F45E43"></mj-divider>
+            </mj-column>
+        </mj-section>
+      <mj-section background-color="#000000">
+            <mj-column>
+               <mj-text font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="20px" font-weight="600" line-height="22px" color="#FFFFFF">ИНФОРМАЦИЯ ДЛЯ УЧАСТНИКА</mj-text>
+            </mj-column>
+         <mj-column>
+               <mj-image width="16px" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=turmerge-1-mark-icon.png"></mj-image>
             </mj-column>
         </mj-section>
         <mj-section background-color="#000000">
