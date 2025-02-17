@@ -1,0 +1,95 @@
+<mjml>
+  <mj-body>
+
+    <mj-section>
+      <mj-column>
+        <mj-image width="600px" alt="Агентство Инноваций Москвы. Феникс. Нейротехнологии в ассистивной отрасли. Общение силой мысли:  научная фантастика или реальность?" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-199-hero.png"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-199-bg-1.png" background-size="cover">
+      <mj-column>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="700"  font-size="76px" line-height="76px" color="#33D792">20</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="700"  font-size="16px" line-height="20.8px" color="#33D792">февраля</mj-text>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="400"  font-size="17px" line-height="22.1px" color="#33D792">четверг</mj-text>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="700"  font-size="17px" line-height="22.1px" color="#FFFFFF">Время проведения</mj-text>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="700"  font-size="36px" line-height="36px" color="#FFFFFF">15:00 — 17:00</mj-text>
+        <mj-button font-family="HelveticaNeueCyr" font-weight="700" font-size="14px" line-height="14px" color="#FFFFFF" width="229px" height="48px" background-color="#33D792" border-radius="10px" href="https://test.ru">ЗАРЕГИСТРИРОВАТЬСЯ</mj-button>
+        <mj-button font-family="HelveticaNeueCyr" font-weight="700" font-size="16px" line-height="16px" color="#33D792" width="228px" height="48px" background-color="transparent" border-radius="10px" border="1px solid #33D792" href="https://test.ru">В КАЛЕНДАРЬ</mj-button>
+        <mj-image width="20px" alt="Агентство Инноваций Москвы. Феникс. Нейротехнологии в ассистивной отрасли. Общение силой мысли:  научная фантастика или реальность?" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-199-location.png"></mj-image>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="700"  font-size="14px" line-height="21.14px" color="#FFFFFF">Центр ассистивных технологий «Феникс»</mj-text>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="400"  font-size="11.25px" line-height="16.99px" color="#FFFFFF">просп. Мира, 119, стр. 37, павильон 37 <a href="https://test.ru" target="_blank" style="color:#FFFFFF;">#ассистивные технологии</a></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="700"  font-size="20px" line-height="20px" color="#33D792">О МЕРОПРИЯТИИ</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5b398d" border-radius="20px">
+      <mj-column>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="400"  font-size="16px" line-height="22.4px" color="#FFFFFF">Как работают нейротехнологии и чем они помогают людям с ограничениями в движении и речи? На семинаре мы обсудим, каким образом технологии «мозг-компьютер» меняют наши представления о коммуникации и реабилитации.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#33D792" border-radius="20px">
+      <mj-column>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="500"  font-size="20px" line-height="24px" color="#FFFFFF">Приходите, чтобы узнать, как наука и технологии расширяют горизонты возможностей.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5b398d" border-radius="20px">
+      <mj-column>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="400"  font-size="10px" line-height="15px" color="#FFFFFF">
+        <ul>
+            <li>Представить проект экспертам в области технологий</li>
+            <li>Побороться за денежный приз в размере 300 000 рублей</li>
+            <li>Найти инвесторов и бизнес-партнеров</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="400"  font-size="16px" line-height="22.4px" color="#FFFFFF">Как работают нейротехнологии и чем они помогают людям с ограничениями в движении и речи? На семинаре мы обсудим, каким образом технологии «мозг-компьютер» меняют наши представления о коммуникации и реабилитации.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-button font-family="HelveticaNeueCyr" font-weight="400" font-size="12px" line-height="18px" color="#FFFFFF" width="71px" height="24px" background-color="transparent" border-radius="17px" border="1px solid #70529c" href="https://test.ru">Семинар</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="700"  font-size="20px" line-height="20px" color="#33D792">СПИКЕРЫ</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-url="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-199-bg-2.png" background-size="cover">
+      <mj-column>
+        <mj-image width="71px" alt="Спикер #1" src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-199-speaker-1.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="500"  font-size="20px" line-height="28px" color="#FFFFFF">Курбанов Руслан</mj-text>
+        <mj-text font-family="HelveticaNeueCyr"  font-weight="400"  font-size="12px" line-height="16.8px" color="#FFFFFF">Заместитель генерального директора по медицинским вопросам  и руководитель социальной службы центра «Преодоление»</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#5b398d">
+      <mj-column>
+        <mj-button font-family="HelveticaNeueCyr" font-weight="700" font-size="16px" line-height="16px" color="#FFFFFF" width="292px" height="50px" background-color="#33D792" border-radius="10px" href="https://test.ru">ЗАРЕГИСТРИРОВАТЬСЯ</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#312659">
+      <mj-column>
+        <mj-image width="78px" alt="Агентство Инноваций Москвы. Феникс."  src="https://cp.unisender.com/ru/user_file?resource=images&user_id=5608985&name=mik-199-footer-logo.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="HelveticaNeueCyr" font-weight="400" font-size="8px" line-height="10.26px" color="#FFFFFF">Центр ассистивных технологий «Феникс»,просп. Мира, 119, стр. 37</mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
